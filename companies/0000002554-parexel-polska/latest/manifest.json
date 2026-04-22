@@ -1,5 +1,5 @@
 {
-  "company_name": "PAREXEL POLSKA",
+  "company_name": "Parexel Polska Spółka z ograniczoną odpowiedzialnością",
   "krs": "0000002554",
   "status": "downloaded",
   "published_at": "2026-04-22",
@@ -15,6 +15,11 @@
       "name": "sprawozdanie_finansowe_ai.json",
       "kind": "financial_statement_ai_json",
       "path": "companies/0000002554-parexel-polska/latest/sprawozdanie_finansowe_ai.json"
+    },
+    {
+      "name": "sprawozdanie_finansowe_ai_view.json",
+      "kind": "financial_statement_ai_view_json",
+      "path": "companies/0000002554-parexel-polska/latest/sprawozdanie_finansowe_ai_view.json"
     },
     {
       "name": "sprawozdanie_zarzadu.pdf",
