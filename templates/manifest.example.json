@@ -1,0 +1,25 @@
+{
+  "company_name": "PAREXEL POLSKA SP. Z O.O.",
+  "krs": "0000002554",
+  "run_date": "2026-04-22",
+  "source": "prs-downloader",
+  "status": "downloaded",
+  "latest_path": "companies/0000002554-parexel-polska/latest",
+  "files": [
+    {
+      "name": "sprawozdanie_finansowe.pdf",
+      "kind": "financial_statement_pdf",
+      "path": "companies/0000002554-parexel-polska/latest/sprawozdanie_finansowe.pdf"
+    },
+    {
+      "name": "sprawozdanie_zarzadu.pdf",
+      "kind": "management_report_pdf",
+      "path": "companies/0000002554-parexel-polska/latest/sprawozdanie_zarzadu.pdf"
+    },
+    {
+      "name": "wizualizacja.pdf",
+      "kind": "visualization_pdf",
+      "path": "companies/0000002554-parexel-polska/latest/wizualizacja.pdf"
+    }
+  ]
+}
