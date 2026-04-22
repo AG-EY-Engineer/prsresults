@@ -6,5 +6,13 @@
     "manifest": "companies/0000002554-parexel-polska/latest/manifest.json",
     "financial_statement_xml": "companies/0000002554-parexel-polska/latest/sprawozdanie_finansowe.xml",
     "management_report_pdf": "companies/0000002554-parexel-polska/latest/sprawozdanie_zarzadu.pdf"
+  },
+  {
+    "krs": "0000012941",
+    "company": "IBM POLSKA",
+    "path": "companies/0000012941-ibm-polska/latest",
+    "manifest": "companies/0000012941-ibm-polska/latest/manifest.json",
+    "financial_statement_xml": "companies/0000012941-ibm-polska/latest/sprawozdanie_finansowe.xml",
+    "management_report_pdf": "companies/0000012941-ibm-polska/latest/sprawozdanie_zarzadu.pdf"
   }
 ]
