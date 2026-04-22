@@ -1,5 +1,5 @@
 {
-  "company_name": "IBM POLSKA",
+  "company_name": "IBM Polska Sp. z o.o.",
   "krs": "0000012941",
   "status": "downloaded",
   "published_at": "2026-04-22",
@@ -15,6 +15,11 @@
       "name": "sprawozdanie_finansowe_ai.json",
       "kind": "financial_statement_ai_json",
       "path": "companies/0000012941-ibm-polska/latest/sprawozdanie_finansowe_ai.json"
+    },
+    {
+      "name": "sprawozdanie_finansowe_ai_view.json",
+      "kind": "financial_statement_ai_view_json",
+      "path": "companies/0000012941-ibm-polska/latest/sprawozdanie_finansowe_ai_view.json"
     },
     {
       "name": "sprawozdanie_zarzadu.pdf",
