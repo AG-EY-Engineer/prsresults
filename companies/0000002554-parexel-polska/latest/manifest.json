@@ -1,9 +1,10 @@
-{
-  "company_name": "PAREXEL POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+﻿{
+  "company_name": "PAREXEL POLSKA SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
   "krs": "0000002554",
   "status": "downloaded",
   "published_at": "2026-04-22",
   "canonical_path": "companies/0000002554-parexel-polska/latest",
+  "history_retention": 3,
   "files": [
     {
       "name": "sprawozdanie_finansowe.xml",
@@ -14,21 +15,6 @@
       "name": "sprawozdanie_zarzadu.pdf",
       "kind": "management_report_pdf",
       "path": "companies/0000002554-parexel-polska/latest/sprawozdanie_zarzadu.pdf"
-    },
-    {
-      "name": "wizualizacja.html",
-      "kind": "visualization_html",
-      "path": "companies/0000002554-parexel-polska/latest/wizualizacja.html"
-    },
-    {
-      "name": "wizualizacja.pdf",
-      "kind": "visualization_pdf",
-      "path": "companies/0000002554-parexel-polska/latest/wizualizacja.pdf"
-    },
-    {
-      "name": "1016_Parexel_NOTY_20241_ef669e8a.pdf",
-      "kind": "notes_pdf",
-      "path": "companies/0000002554-parexel-polska/latest/assets/1016_Parexel_NOTY_20241_ef669e8a.pdf"
     }
   ]
 }
