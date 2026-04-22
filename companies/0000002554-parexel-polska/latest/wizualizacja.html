@@ -1,0 +1,1646 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Parexel Polska Spółka z ograniczoną odpowiedzialnością - lokalny podgląd SF</title>
+  <style>
+<!--      body {-->
+<!--        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;-->
+<!--        line-height: 1.6;-->
+<!--        color: #222;-->
+<!--        max-width: 80rem;-->
+<!--        padding: 2rem;-->
+<!--        margin: auto;-->
+<!--        background: #fafafa;-->
+<!--      }-->
+<!--      img {-->
+<!--        max-width: 100%;-->
+<!--      }-->
+<!--      a {-->
+<!--        color: #2ECC40;-->
+<!--      }-->
+<!--      h1, h2, strong {-->
+<!--        color: #111;-->
+<!--      }-->
+
+      .version {font-size: 30%}
+
+      dummydeclaration { margin-left: 0em; } /* Firefox ignores first declaration for some reason */
+      * {
+        box-sizing: border-box;
+      }
+
+      #t0 { margin-left: 0em; } #s0 {font-size: 166%;}
+      #t1 { margin-left: 2em; } #s1 {font-size: 144%;}
+      #t2 { margin-left: 4em; } #s2 {font-size: 120%}
+      #t3 { margin-left: 6em; } #s3 {}
+      #t4 { margin-left: 8em; } #s4 {}
+      #t5 { margin-left: 10em; } #s5 {}
+      #t6 { margin-left: 12em; } #s6 {}
+      #t7 { margin-left: 14em; } #s7 {}
+      #t8 { margin-left: 16em; } #s8 {}
+      #t9 { margin-left: 18em; } #s9 {}
+      #t10 { margin-left: 20em; } #s10 {}
+      #t11 { margin-left: 22em; } #s11 {}
+      #t12 { margin-left: 24em; } #s12 {}
+      #t13 { margin-left: 26em; } #s13 {}
+      #t13 { margin-left: 26em; } #s13 {}
+      #t14 { margin-left: 28em; } #s14 {}
+      #t15 { margin-left: 30em; } #s15 {}
+      #t16 { margin-left: 32em; } #s16 {}
+      question {font-weight: normal; color: #505050;}
+      answer {font-weight: normal; color: blue;}
+      .menu {
+        overflow: hidden;
+        background-color: #dcdcdc;
+        border-bottom: 1px solid #c0c0c0;
+        height: 28px;
+        width: 100%;
+      }
+      .menu a {
+        display: inline-block;
+        flood: left;
+        text-decoration: none;
+        text-align: center;
+        padding: 5px 16px;
+        vertical-align:bottom;
+      }
+      .menu a:hover {
+        background-color: #888;
+        color: #FFF;
+      }
+      .menu .lang {
+        padding: 4px 5px;
+        clear: none;
+        float:right;
+       }
+      .menu .text {
+        display: inline-block;
+        flood: left;
+        text-decoration: none;
+        text-align: center;
+        padding: 5px 0px;
+        vertical-align:bottom;
+       }
+      .menu img {
+        width: 100%;
+        height: auto;
+      }
+      .menu .right {
+        float: right;
+      }
+      .line {
+        clear:both;
+        background-color:#dcdcdc;
+        border-bottom: 1px solid #c0c0c0;
+        border-top:1px solid #c0c0c0;
+      }
+      table {background: #ffffff; border-collapse: collapse;}
+      th, td {
+        padding: 2px 5px;
+        border-bottom: 1px solid #ddd;
+      }
+      tr:nth-child(even) {background-color: #f5f5f5;}
+      tr:hover {background-color: #e0e0e0;}
+      .header tr:hover {background-color: #ffffff;}
+      .header th, .header td {
+        border-bottom: none;
+      }
+
+.only-print {
+    display: none;
+}
+@media print {
+   .only-screen {
+       display: none;
+    }
+    .only-print {
+       display: block;
+    }
+}
+
+#lang-pl {
+    width: 30px;
+    height: 20px;
+    background: url('/static/flags10.png') 0 0;
+    vertical-align:bottom;
+    padding: 0px 0px;
+}
+#lang-pl a:hover {
+    background: url('/static/flags10.png') 0 -20px;
+}
+
+#lang-en {
+    width: 30px;
+    height: 20px;
+    background: url('/static/flags10.png') -30px 0;
+    padding: 0px 0px;
+}
+#lang-en a:hover {
+    background: url('/static/flags10.png') -30px -20px;
+}
+
+#lang-de {
+    width: 30px;
+    height: 20px;
+    background: url('/static/flags10.png') -60px 0;
+    padding: 0px 0px;
+}
+#lang-de a:hover {
+    background: url('/static/flags10.png') -60px -20px;
+}
+
+#lang-kr {
+    width: 30px;
+    height: 20px;
+    background: url('/static/flags10.png') -90px 0;
+    padding: 0px 0px;
+}
+#lang-kr a:hover {
+    background: url('/static/flags10.png') -90px -20px;
+}
+
+#lang-es {
+    width: 30px;
+    height: 20px;
+    background: url('/static/flags10.png') -120px 0;
+    padding: 0px 0px;
+}
+#lang-es a:hover {
+    background: url('/static/flags10.png') -120px -20px;
+}
+
+#lang-cn {
+  width: 30px;
+  height: 20px;
+  background: url('/static/flags10.png') -150px 0;
+  padding: 0px 0px;
+}
+#lang-cn a:hover {
+  background: url('/static/flags10.png') -150px -20px;
+}
+
+#lang-ru {
+  width: 30px;
+  height: 20px;
+  background: url('/static/flags10.png') -180px 0;
+  padding: 0px 0px;
+}
+#lang-ru a:hover {
+  background: url('/static/flags10.png') -180px -20px;
+}
+
+#lang-fr {
+  width: 30px;
+  height: 20px;
+  background: url('/static/flags10.png') -210px 0;
+  padding: 0px 0px;
+}
+#lang-fr a:hover {
+  background: url('/static/flags10.png') -210px -20px;
+}
+
+#lang-it {
+  width: 30px;
+  height: 20px;
+  background: url('/static/flags10.png') -240px 0;
+  padding: 0px 0px;
+}
+#lang-it a:hover {
+  background: url('/static/flags10.png') -240px -20px;
+}
+
+#lang-jp {
+  width: 30px;
+  height: 20px;
+  background: url('/static/flags10.png') -270px 0;
+  padding: 0px 0px;
+}
+#lang-jp a:hover {
+  background: url('/static/flags10.png') -270px -20px;
+}
+
+#privacy-banner {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    max-width: 100%;
+    padding: 1rem .5rem;
+    background: #fff;
+    z-index: 1030;
+    color: #000;
+    font-size: 14px;
+    margin: 0;
+    display: none;
+    border-top: 2px solid rgb(130, 130, 130);
+  }
+  #privacy-banner p {
+    margin: 10px 0px;
+    color: #000;
+    text-align: center;
+  }
+  #privacy-banner a {
+    text-decoration: none;
+    margin: 20px auto 0 auto;
+    display: block;
+    max-width: 150px;
+  }
+  #privacy-banner a:hover {
+    text-decoration: underline;
+  }
+  #banner-learn {
+    color: #000;
+  }
+  #banner-accept {
+    padding: 7px 15px;
+    color: #fff;
+    border-radius: 5px;
+    background:#737373 !important;
+  }
+  @media (min-width: 768px) {
+    #privacy-banner {
+      padding: 1rem .5rem;
+    }
+    #privacy-banner a {
+      display: inline-block;
+      margin: 0 10px;
+    }
+  }
+
+    body {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 22px 26px 46px;
+      font-family: "Segoe UI", Calibri, Arial, sans-serif;
+      color: #222;
+      background: #fafafa;
+    }
+    .local-header {
+      margin-bottom: 18px;
+      padding-bottom: 14px;
+      border-bottom: 1px solid #dcdcdc;
+    }
+    .local-header h1 {
+      margin: 0 0 8px;
+      font-size: 30px;
+      color: #1d2d44;
+    }
+    .local-header p {
+      margin: 0 0 12px;
+      color: #505050;
+    }
+    .local-meta {
+      display: flex;
+      gap: 14px;
+      flex-wrap: wrap;
+      font-size: 14px;
+      color: #505050;
+    }
+    .local-meta span {
+      padding: 6px 10px;
+      border: 1px solid #dcdcdc;
+      background: #fff;
+      border-radius: 6px;
+    }
+    .line {
+      margin: 14px 0;
+    }
+    .local-footnote {
+      margin-top: 18px;
+      font-size: 12px;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <div class="local-header">
+    <h1>Parexel Polska Spółka z ograniczoną odpowiedzialnością</h1>
+    <p>Wizualizacja przygotowana lokalnie, bez zależności od zewnętrznego serwisu.</p>
+    <div class="local-meta">
+      <span>Okres: 2024-01-01 – 2024-12-31</span>
+      <span>Jednostka prezentacji: PLN</span>
+      <span>Załączniki not: 1</span>
+    </div>
+  </div>
+  <div class="line"></div>
+  <div id='t1'><div id='s1'><p><question>Podstawowe informacje: </question><answer></answer></p></div></div>
+  <div id='t3'><div id='s3'><p><question>Okres od: </question><answer>2024-01-01</answer></p></div></div><div id='t3'><div id='s3'><p><question>Okres do: </question><answer>2024-12-31</answer></p></div></div><div id='t3'><div id='s3'><p><question>Data sporządzenia: </question><answer>2025-06-24</answer></p></div></div><div id='t3'><div id='s3'><p><question>KRS: </question><answer>0000002554</answer></p></div></div><div id='t3'><div id='s3'><p><question>NIP: </question><answer>5211017543</answer></p></div></div><div id='t3'><div id='s3'><p><question>Kod PKD: </question><answer>7219Z</answer></p></div></div><div id='t3'><div id='s3'><p><question>Jednostka prezentacji: </question><answer>PLN</answer></p></div></div>
+  <div class="line"></div>
+  <div id='t1'><div id='s1'><p><question>Wprowadzenie do sprawozdania finansowego: </question><answer></answer></p></div></div><div id='t3'><div id='s3'><p><question>Nazwa firmy: </question><answer>Parexel Polska Spółka z ograniczoną odpowiedzialnością</answer></p></div></div><div id='t3'><div id='s3'><p><question>Województwo: </question><answer>mazowieckie</answer></p></div></div><div id='t3'><div id='s3'><p><question>Powiat: </question><answer>warszawski</answer></p></div></div><div id='t3'><div id='s3'><p><question>Gmina: </question><answer>Warszawa</answer></p></div></div><div id='t3'><div id='s3'><p><question>Miejscowość: </question><answer>Warszawa</answer></p></div></div><div id='t3'><div id='s3'><p><question>Ulica: </question><answer>Żwirki i Wigury</answer></p></div></div><div id='t3'><div id='s3'><p><question>Nr domu: </question><answer>18A</answer></p></div></div><div id='t3'><div id='s3'><p><question>Kod pocztowy: </question><answer>02-092</answer></p></div></div><div id='t3'><div id='s3'><p><question>Poczta: </question><answer>Warszawa</answer></p></div></div><div id='t3'><div id='s3'><p><question>Kod PKD: </question><answer>7219Z</answer></p></div></div><div id='t3'><div id='s3'><p><question>NIP: </question><answer>5211017543</answer></p></div></div><div id='t3'><div id='s3'><p><question>KRS: </question><answer>0000002554</answer></p></div></div><div id='t3'><div id='s3'><p><question>Czas trwania działalności: </question><answer>2024-01-01 2024-12-31</answer></p></div></div><div id='t3'><div id='s3'><p><question>Kontynuacja działalności: </question><answer>Brak przesłanek zagrożenia kontynuacji działalności</answer></p></div></div><div id='t3'><div id='s3'><p><question>Przyjęte zasady rachunkowości: </question><answer>true true Sprawozdanie finansowe zostało sporządzone przy założeniu kontynuowania działalności gospodarczej przez Jednostkę w okresie co najmniej 12 miesięcy po dniu bilansowym. Kierownik Jednostki występujące okoliczności ocenił jako nie wskazujące na występowanie znaczących niepewności, co do zdolności jednostki do kontynuowania przez nią działalności.</answer></p></div></div><div id='t3'><div id='s3'><p><question>Pozostałe informacje: </question><answer>PRZYJĘTE ZASADY (POLITYKA) RACHUNKOWOŚCI 1.1 Wartości niematerialne i prawne Wartości niematerialne i prawne ujmuje się w księgach wówczas, gdy jest prawdopodobny w przyszłości wpływ korzyści ekonomicznych powiązanych z tymi aktywami. Początkowe ujęcie następuje w cenie nabycia lub koszcie wytworzenia. Na dzień bilansowy wycenia się je w cenie nabycia lub koszcie wytworzenia skorygowanymi o odpisy z tytułu trwałej utraty wartości oraz o odpisy amortyzacyjne. Odpisy amortyzacyjne dokonywane są liniowo w okresie przewidywanej ekonomicznej użyteczności. Okres oraz metoda amortyzacji podlegają corocznie przeglądowi w celu sprawdzenia poprawności zastosowanych metod. Na każdy dzień bilansowy następuje ocena, czy nie wystąpiły przesłanki wskazujące na trwałą utratę wartości. Jeżeli występują takie przesłanki, to są dokonywane odpisy z tytułu trwałej utraty wartości w ciężar pozostałych kosztów operacyjnych. Przewidywany okres ekonomicznego użytkowania wynosi: Oprogramowanie komputerowe: 2 lata Inne wartości niematerialne i prawne: od 2 do 4 lat. 1.2 Środki trwałe W momencie ujęcia środków trwałych w księgach wartość początkową ujmuje się w cenie nabycia lub koszcie wytworzenia. Cena nabycia i koszt wytworzenia obejmuje ogół kosztów poniesionych w okresie budowy, montażu, przystosowania i ulepszenia do dnia przyjęcia do używania. Na dzień bilansowy środki trwałe wycenia się w cenie nabycia lub koszcie wytworzenia skorygowanym o odpisy amortyzacyjne oraz o odpisy z tytułu trwałej utraty wartości. Amortyzację środków trwałych niskocennych o wartości początkowej do 10 000 złotych odnosi się jednorazowo w koszty. Po przyjęciu środków do użytkowania amortyzacja następuje liniowo w okresie przewidywanej ekonomicznej użyteczności, aż do momentu zrównania wartości odpisów amortyzacyjnych z jego wartością początkową lub w okresie, w którym środek trwały przeznaczono do likwidacji, sprzedano lub stwierdzono jego niedobór. Okres oraz metoda amortyzacji podlegają corocznie przeglądowi w celu sprawdzenia poprawności zastosowanych metod. Na każdy dzień bilansowy następuje również ocena, czy nie wystąpiły przesłanki wskazujące na trwałą utratę wartości. Jeżeli występują takie przesłanki, to są dokonywane odpisy z tytułu trwałej utraty wartości w ciężar pozostałych kosztów operacyjnych. Przewidywane okresy ekonomicznego użytkowania środków trwałych wynoszą: Budynki, lokale i obiekty inżynierii lądowej i wodnej: od 5 do 20 lat umarzane metodą liniową Urządzenia techniczne i mas zyny: od 5 do 10 lat umarzane metodą liniową Środki transportu: 6 lat umarzane metodą liniową Inne środki trwałe: od 2 do 5 lat umarzane metodą liniową 1.3 Środki trwałe w budowie Środki trwałe w budowie wycenia się na dzień bilansowy w wysokości ogółu kosztów pozostających w bezpośrednim związku z ich nabyciem lub wytworzeniem, pomniejszone o odpisy z tytułu trwałej utraty wartości. Środki trwałe w budowie nie są amortyzowane aż do momentu zakończenia ich budowy i oddania do użytkowania. 1.4 Należności krótko- i długoterminowe Należności wykazuje się w kwocie wymagającej zapłaty z zachowaniem zasady ostrożności, tj. w wartości netto po uwzględnieniu odpisów aktualizujących. Wartość należności aktualizuje się uwzględniając stopień prawdopodobieństwa ich zapłaty poprzez dokonanie odpisu aktualizującego, gdy istnieją obiektywne dowody na to, że nie będzie można odzyskać należnych kwot. Są to w szczególności należności od dłużników postawionych w stan likwidacji lub upadłości, kwestionujących należności, a także jeżeli ocena sytuacji gospodarczej i finansowej dłużnika wykazuje, że spłata należności w najbliższym czasie nie jest prawdopodobna, oraz w innych przypadkach, gdy należności i roszczenia nie są realne. Odpisy aktualizujące wartość należności zalicza się odpowiednio do pozostałych kosztów operacyjnych lub do kosztów finansowych - zależnie od rodzaju należności, której dotyczy odpis aktualizujący. 1.5 Środki pieniężne i inne aktywa pieniężne Środki pieniężne w banku i w kasie wycenia się według wartości nominalnej. W trakcie roku operacje dotyczące walutowych rachunków pieniężnych i kas walutowych przelicza się na złote według kursu wynikającego z charakteru operacji, tj. wg kursu faktycznie zastosowanego w dniu operacji - w przypadku sprzedaży lub kupna walut oraz zapłaty należności lub zobowiązań, bądź po kursie średnim ogłoszonym dla danej waluty przez Narodowy Bank Polski z dnia poprzedzającego ten dzień - w przypadku zapłaty należności lub zobowiązań, jeżeli nie jest zasadne zastosowanie kursu faktycznie zastosowanego, a także w przypadku pozostałych operacji. Rozchód środków pieniężnych wyrażonych w walutach obcych ujmuje się metodą pierwsze przyszło - pierwsze wyszło. 1.6 Rozliczenia międzyokresowe czynne Czynne rozliczenia międzyokresowe obejmują poniesione już wydatki stanowiące koszty następnych okresów sprawozdawczych. W zależności od przewidywanego okresu rozliczenia prezentowane są w bilansie jako długo lub krótkoterminowe rozliczenia mi ędzyokresowe. 1.7 Kapitały Kapitał podstawowy ujmuje się w wartości nominalnej określonej w umowie oraz zarejestrowanej w Krajowym Rejestrze Sądowym. Zadeklarowane lecz nie wniesione wkłady ujmuje się jako należne wpłaty na rzecz kapitału podstawowego i prezentuje się je w aktywach bilansu. Ewentualne różnice pomiędzy wartościami otrzymanymi oraz wartością nominalną udziałów są ujmowane w kapitale zapasowym. 1.8 Rezerwy Rezerwy tworzone są na pewne lub o dużym stopniu prawdopodobieństwa przyszłe zobowiązania wynikające z przeszłych zdarzeń, których kwotę można w sposób wiarygodny oszacować, a w szczególności na straty z transakcji gospodarczych w toku, w tym z tytułu udzielonych gwarancji, poręczeń, operacji kredytowych, skutków toczących się postępowań sądowych. Rezerwy wycenia się w uzasadnionej, wiarygodnie oszacowanej wartości. Rezerwy te zalicza się odpowiednio do pozostałych kosztów operacyjnych lub kosztów finansowych zależnie od okoliczności, z którymi te zobowiązania się wiążą. Powstanie zobowiązania, na które uprzednio utworzono rezerwę, zmniejsza rezerwę. Jednostka może być zobowiązana do wypłaty odpraw emerytalnych. Koszty są ujmowane w rachunku zysków i strat stopniowo w trakcie okresu zatrudnienia. Są one ustalane metodą aktuarialną poprzez wycenę prognozowanych uprawnień jednostkowych. 1.9 Zobowiązania krótko- i długoterminowe Zobowiązania wycenia się w kwocie wymagającej zapłaty. Wycena zobowiązań w walutach obcych następuje zgodnie z punktem 1.16 różnice kursowe. Na dzień bilansowy salda kredytowe z tytułu transakcji w ramach struktury „cash pool&quot; prezentowane są jako zobowiązania wobec podmiotów powiązanych. 1.10 Rozliczenia międzyokresowe bierne Rozliczenia międzyokresowe obejmują wartość otrzymanych aktywów (np. dotacji, dopłat, otrzymanych wpłat na poczet przyszłych rozliczeń), które staną się przychodem w przyszłych okresach. W zależności od przewidywanego okresu rozliczenia prezentowane są w bilansie jako długo lub krótkoterminowe rozliczenia międzyokresowe. 1.11 Zakładowy Fundusz Świadczeń Socjalnych Zgodnie z obowiązkiem wynikającym z ustawy z dnia 4 marca 1994 roku o Zakładowym Funduszu Świadczeń Socjalnych w Jednostce jest tworzony Zakładowy Fundusz Świadczeń Socjalnych, którego celem jest subsydiowanie działalności socjalnej, udzielanie pożyczek pracownikom na cele mieszkaniowe oraz na inne cele przedstawione w regulaminie ZFŚS. Jednostka każdego roku tworzy odpis na ten Fundusz, z którego są finansowane działania funduszu. 1 .12 Leasing Leasing klasyfikuje się jako leasing finansowy, gdy w ramach zawartej umowy zasadniczo całe potencjalne korzyści oraz ryzyko wynikające z posiadania przedmiotu leasingu przenoszone jest na leasingobiorcę. Wszelkie pozostałe rodzaje leasingu traktowane są jako leasing operacyjny. Jednostka jako leasingobiorca Jednostka jest stroną umów leasingowych, zgodnie z którymi przez uzgodniony okres przyjmuje do odpłatnego używania lub pobierania pożytków obce środki trwałe lub wartości niematerialne i prawne. Jeżeli zgodnie z umową następuje przeniesienie zasadniczo całego ryzyka i pożytków wynikających z tytułu posiadania, to przedmiot leasingu jest ujmowany w aktywach jako środek trwały oraz ujmowane jest zobowiązanie w wartości bieżącej minimalnych opłat leasingowych ustalonych na dzień rozpoczęcia leasingu. Uiszczane opłaty leasingowe są dzielone na koszty finansowe (ujmowane w rachunku zysków i strat) i spłatę zobowiązania. Środki trwałe są zaś amortyzowane w sposób określony dla własnych środków trwałych lub, przy braku pewności co do późniejszego przejścia prawa własności przedmiotu umowy, przez krótszy z okresów przewidywanego użytkowania lub trwania umowy leasingu finansowego. Opłaty leasingowe z tytułu umów innych niż powyższe są ujmowane jako koszty w rachunku zysków i strat metodą liniową w trakcie trwania leasingu. 1.13 Bieżący podatek dochodowy Podatek dochodowy ujęty w rachunku zysków i strat obejmuje część bieżącą oraz część odroczoną. Bieżące obciążenie podatkowe jest obliczane na podstawie wyniku podatkowego (podstawy opodatkowania) danego roku obrotowego. Zysk (strata) podatkowy różni się od księgowego zysku (straty) netto w związku z przejściowym wyłączeniem przychodów niepodlegających opodatkowaniu i kosztów niestanowiących kosztów uzyskania przychodów oraz pozycji kosztów i przychodów stanowiących trwałe różnice pomiędzy wynikiem podatkowym a wynikiem księgowym. Obciążenie podatkowe jest wyliczane w oparciu o stawki podatkowe obowiązujące w danym roku obrotowym. 1.14 Odroczony podatek dochodowy W związku z przejściowymi różnicami między bilansową wartością aktywów i pasywów a ich wartością podatkową oraz stratą podatkową możliwą do odliczenia w przyszłości jednostka tworzy rezerwę i ustala aktywa z tytułu odroczonego podatku dochodowego. Wysokość odroczonej części podatku dochodowego wykazywana w rachunku zysków i strat jest różnicą pomiędzy stanami rezerwy i aktywów z tytułu odroczonego podatku na koniec i początek okresu sprawozdawczego. Rezerwę i aktywa z tytułu odroczonego podatku dochodowego dotyczące operacji rozliczanych z kapitałem należy ująć w kapitale własnym. Aktywa i rezerwa na odroczony podatek dochodowy wyceniane są z zastosowaniem stawek podatkowych, które będą obowiązywać w okresie, gdy składnik aktywów zostanie zrealizowany lub rezerwa rozwiązana. Aktywa z tytułu odroczonego podatku dochodowego ustala się w wysokości kwoty przewidzianej w przyszłości do odliczenia od podatku dochodowego, w związku z ujemnymi różnicami przejściowymi, które spowodują w przyszłości zmniejszenie podstawy obliczenia podatku dochodowego oraz straty podatkowej możliwej do odliczenia ustalonej przy zachowaniu zasady ostrożności. Wysokość aktywa jest weryfikowana na dzień bilansowy i ulega obniżeniu w sytuacji zmniejszenia prawdopodobieństwa ich zrealizowania w przyszłości. Rezerwę z tytułu odroczonego podatku dochodowego tworzy się w wysokości kwoty podatku dochodowego, wymagającej w przyszłości zapłaty, w związku z występowaniem dodatnich różnic przejściowych, to jest różnic, które spowodują zwiększenie podstawy obliczenia podatku dochodowego w przyszłości. 1.15 Przychody i koszty Przychody i koszty Jednostki są ujmowane zgodnie z zasadą memoriału tj. w okresie którego dotyczą, niezależnie od daty otrzymania lub dokonania płatności. Przychody ze sprzedaży produkt ów, towarów i materiałów ujmuje się w rachunku zysków i strat w momencie przekazania nabywcy znaczącego ryzyka i korzyści wynikających z praw własności do nich. Przychody z tytułu odsetek są rozpoznawane w momencie ich naliczenia, jeżeli ich otrzymanie nie jest wątpliwe. Jednostka uzyskuje przychody z umów zawartych z (wewnątrzgrupowymi) klientami poprzez świadczenie usług z zakresu badań klinicznych na rzecz międzynarodowych klientów z branż farmaceutycznej i biotechnologicznej. Prace wykonywane przez pracowników Jednostki podlegają miesięcznej fakturacji na jednostkę, z którą zawarta jest umowa wewnątrzgrupowa, i są ujmowane jako przychody. Jednostka ponosi koszty, które są zwracane przez klientów, m.in. płatności na rzecz głównych badaczy oraz inne bieżące wydatki (takie jak koszty podróży służbowych monitorów badań klinicznych Jednostki). Przychody i koszty Jednostki z tytułu rozliczeń „cash pool” prezentowane są jako przychody bądź koszty finansowe z tytułu odsetek dla jednostek powiązanych. 1.16 Różnice kursowe Różnice kursowe wynikają z wyceny aktywów i pasywów wyrażonych w walutach obcych na dzień bilansowy oraz z różnic powstałych w ciągu roku w związku z zapłatą należności i zobowiązań lub sprzedaży walut obcych. Należności i zobowiązania w walutach obcych wykazuje się w wartości nominalnej, przeliczonej na złote polskie według kursu średniego NBP dla danej waluty z dnia poprzedzającego dokonanie operacji. Operacje dotyczące walutowych rachunków pieniężnych i kas walutowych przelicza się na złote według kursu wynikającego z charakteru operacji, tj. wg kursu faktycznie zastosowanego w dniu operacji - w przypadku sprzedaży lub kupna walut oraz zapłaty należności lub zobowiązań, bądź po kursie średnim ogłoszonym dla danej waluty przez Narodowy Bank Polski z dnia poprzedzającego ten dzień - w przypadku zapłaty należności lub zobowiązań, jeżeli nie jest zasadne wykorzystanie kursu faktycznie zastosowanego, a także w przypadku pozostałych operacji. Na dzień bilansowy wszystkie wartości w walutach obcych przelicza się według kursu średniego NBP na ten dzień. Różnice kursowe ujmuje się bezpośrednio w przychodach lub kosztach finansowych, chyba że stanowią one element ceny nabycia lub kosztu wytworzenia innych aktywów. 1.17 Inne informacje, jeżeli jest taka potrzeba 1.17 Podstawa sporządzenia sprawozdania finansowego Sprawozdanie finansowe przygotowane zostało w oparciu o zasady rachunkowości i praktykę zawodową stosowane przez jednostki działające w Polsce, zgodnie z przepisami Ustawy o rachunkowości z dnia 29 września 1994 roku (UoR) (tekst jednolity z 16 stycznia 2023 roku) oraz obowiązującymi przepisami wykonawczymi. Przyjęte przez Jednostkę zasady rachunkowości stosowane były w sposób ciągły i są one zgodne z zasadami rachunkowości stosowanymi w poprzednim roku obrotowym. Jednostka stosuje wariant kalkulacyjny rachunku zysków i strat. Rachunek przepływów pieniężnych jest sporządzany metodą pośrednią. W skład sprawozdania finansowego wchodzi także zestawienie zmian w kapitale własnym.</answer></p></div></div><div id='t1'><div id='s1'><p><question>Bilans: </question><answer></answer></p></div></div><table><tr>
+  <td><div id="t2"><div id="s2"><question></question></div></div></td>
+  <td style="text-align:justify"><question><div id="s2">Kwota na dzień kończący bieżący rok obrotowy</div></question></td>
+  <td style="text-align:justify"><question><div id="s2">Kwota na dzień kończący poprzedni rok obrotowy</div></question></td>
+</tr><tr>
+  <td><div id="t2"><div id="s2"><question>Aktywa razem</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s2">67233437.75</div></answer></td>
+  <td style="text-align:right"><answer><div id="s2">47218930.52</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>A. Aktywa trwałe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">17555165.80</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">3582207.86</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>I. Wartości niematerialne i prawne</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>1. Koszty zakończonych prac rozwojowych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>2. Wartość firmy</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>3. Inne wartości niematerialne i prawne</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>4. Zaliczki na wartości niematerialne i prawne</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>II. Rzeczowe aktywa trwałe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">734326.80</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">701050.86</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>1. Środki trwałe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">734326.80</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">678050.86</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>a) grunty (w tym prawo użytkowania wieczystego gruntu)</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>b) budynki, lokale, prawa do lokali i obiekty inżynierii lądowej i wodnej</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">44984.68</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">51158.61</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>c) urządzenia techniczne i maszyny</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">328018.38</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">119366.76</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>d) środki transportu</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>e) inne środki trwałe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">361323.74</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">507525.49</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>2. Środki trwałe w budowie</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">23000.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>3. Zaliczki na środki trwałe w budowie</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>III. Należności długoterminowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">18000.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>1. Od jednostek powiązanych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>2. Od pozostałych jednostek, w których jednostka posiada zaangażowanie w kapitale</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>3. Od pozostałych jednostek</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">18000.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>IV. Inwestycje długoterminowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>1. Nieruchomości</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>2. Wartości niematerialne i prawne</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>3. Długoterminowe aktywa finansowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>a) w jednostkach powiązanych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t7"><div id="s7"><question>– udziały lub akcje</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t7"><div id="s7"><question>– inne papiery wartościowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t7"><div id="s7"><question>– udzielone pożyczki</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t7"><div id="s7"><question>– inne długoterminowe aktywa finansowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>b) w pozostałych jednostkach, w których jednostka posiada zaangażowanie w kapitale</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t7"><div id="s7"><question>– udziały lub akcje</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t7"><div id="s7"><question>– inne papiery wartościowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t7"><div id="s7"><question>– udzielone pożyczki</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t7"><div id="s7"><question>– inne długoterminowe aktywa finansowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>c) w pozostałych jednostkach</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t7"><div id="s7"><question>– udziały lub akcje</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t7"><div id="s7"><question>– inne papiery wartościowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t7"><div id="s7"><question>– udzielone pożyczki</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t7"><div id="s7"><question>– inne długoterminowe aktywa finansowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>4. Inne inwestycje długoterminowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>V. Długoterminowe rozliczenia międzyokresowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">16820839.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">2863157.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>1. Aktywa z tytułu odroczonego podatku dochodowego</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">16820839.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">2863157.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>2. Inne rozliczenia międzyokresowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>B. Aktywa obrotowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">49678271.95</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">43636722.66</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>I. Zapasy</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>1. Materiały</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>2. Półprodukty i produkty w toku</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>w tym: obiekty w zabudowie</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>3. Produkty gotowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>4. Towary</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>5. Zaliczki na dostawy i usługi</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">15597959.38</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">9511889.94</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>II. Należności krótkoterminowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">12447630.08</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">9160969.40</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>1. Należności od jednostek powiązanych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">12447630.08</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">9160969.40</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>a) z tytułu dostaw i usług, o okresie spłaty:</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">12447630.08</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">9160969.40</div></answer></td>
+</tr><tr>
+  <td><div id="t7"><div id="s7"><question>– do 12 miesięcy</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t7"><div id="s7"><question>– powyżej 12 miesięcy</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>b) inne</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>2. Należności od pozostałych jednostek, w których jednostka posiada zaangażowanie w kapitale</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>a) z tytułu dostaw i usług, o okresie spłaty:</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t7"><div id="s7"><question>– do 12 miesięcy</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t7"><div id="s7"><question>– powyżej 12 miesięcy</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>b) inne</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">3150329.30</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">350920.54</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>3. Należności od pozostałych jednostek</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>a) z tytułu dostaw i usług, o okresie spłaty:</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t7"><div id="s7"><question>– do 12 miesięcy</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t7"><div id="s7"><question>– powyżej 12 miesięcy</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s7">3133172.84</div></answer></td>
+  <td style="text-align:right"><answer><div id="s7">350920.54</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>b) z tytułu podatków, dotacji, ceł, ubezpieczeń społecznych i zdrowotnych oraz innych tytułów publicznoprawnych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">17156.46</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>c) inne</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>d) dochodzone na drodze sądowej</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">33673185.67</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">34124832.72</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>III. Inwestycje krótkoterminowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">33673185.67</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">34124832.72</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>1. Krótkoterminowe aktywa finansowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>a) w jednostkach powiązanych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t7"><div id="s7"><question>– udziały lub akcje</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t7"><div id="s7"><question>– inne papiery wartościowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t7"><div id="s7"><question>– udzielone pożyczki</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t7"><div id="s7"><question>– inne krótkoterminowe aktywa finansowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>b) w pozostałych jednostkach</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t7"><div id="s7"><question>– udziały lub akcje</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t7"><div id="s7"><question>– inne papiery wartościowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t7"><div id="s7"><question>– udzielone pożyczki</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t7"><div id="s7"><question>– inne krótkoterminowe aktywa finansowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s7">33673185.67</div></answer></td>
+  <td style="text-align:right"><answer><div id="s7">34124832.72</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>c) Środki pieniężne i inne aktywa pieniężne</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">33673185.67</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">34124832.72</div></answer></td>
+</tr><tr>
+  <td><div id="t7"><div id="s7"><question>– środki pieniężne w kasie i na rachunkach</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t7"><div id="s7"><question>– inne środki pieniężne</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t7"><div id="s7"><question>– inne aktywa pieniężne</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>2. Inne inwestycje krótkoterminowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">407126.90</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>IV. Krótkoterminowe rozliczenia międzyokresowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>w tym: aktywa z tytułu niezakończonych umów budowlanych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>C. Należne wpłaty na kapitał (fundusz) podstawowy</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">67233437.75</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">47218930.52</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>D. Udziały (akcje) własne</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">45285831.38</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">24933420.00</div></answer></td>
+</tr><tr>
+  <td><div id="t2"><div id="s2"><question>Pasywa razem</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s2">1500000.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s2">1500000.00</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>A. Kapitał (fundusz) własny</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">23433420.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">14426128.47</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>I. Kapitał (fundusz) podstawowy</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>II. Kapitał (fundusz) zapasowy, w tym:</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>– nadwyżka wartości sprzedaży (wartości emisyjnej) nad wartością nominalną udziałów (akcji)</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>– kwota zysku wypracowanego w latach przed opodatkowaniem ryczałtem</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>– kwota zysku wypracowanego w latach opodatkowania ryczałtem</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>III. Kapitał (fundusz) z aktualizacji wyceny, w tym:</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>– z tytułu aktualizacji wartości godziwej</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>IV. Pozostałe kapitały (fundusze) rezerwowe, w tym:</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">20352411.38</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">9007291.53</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>– tworzone zgodnie z umową (statutem) spółki</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>– na udziały (akcje) własne</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">21947606.37</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">22285510.52</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>– kwota zysku wypracowanego w latach przed opodatkowaniem ryczałtem</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">13660312.66</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">13024957.58</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>– kwota zysku wypracowanego w latach opodatkowania ryczałtem</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">230.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">781.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>V. Zysk (strata) z lat ubiegłych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">13660082.66</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">13024176.58</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>– kwota niepodzielonych zysków w latach przed opodatkowaniem ryczałtem</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">1001674.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">915462.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>– kwota niepokrytych strat poniesionych w latach przed opodatkowaniem ryczałtem</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">12658408.66</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">12108714.58</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>– kwota niepodzielonych zysków z lat opodatkowania ryczałtem</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>– kwota niepokrytych strat poniesionych w latach opodatkowania ryczałtem</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>VI. Zysk (strata) netto</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>VII. Odpisy z zysku netto w ciągu roku obrotowego (wielkość ujemna)</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>B. Zobowiązania i rezerwy na zobowiązania</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>I. Rezerwy na zobowiązania</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>1. Rezerwa z tytułu odroczonego podatku dochodowego</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>2. Rezerwa na świadczenia emerytalne i podobne</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>– długoterminowa</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>– krótkoterminowa</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>3. Pozostałe rezerwy</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>– długoterminowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>– krótkoterminowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">7626101.01</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">7319596.55</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>II. Zobowiązania długoterminowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">117781.84</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>1. Wobec jednostek powiązanych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">117781.84</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>2. Wobec pozostałych jednostek, w których jednostka posiada zaangażowanie w kapitale</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">117781.84</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>3. Wobec pozostałych jednostek</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>a) kredyty i pożyczki</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>b) z tytułu emisji dłużnych papierów wartościowych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>c) inne zobowiązania finansowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>d) zobowiązania wekslowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>e) inne</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>III. Zobowiązania krótkoterminowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>1. Zobowiązania wobec jednostek powiązanych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">6721950.45</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">7045481.56</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>a) z tytułu dostaw i usług, o okresie wymagalności:</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t7"><div id="s7"><question>– do 12 miesięcy</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>b) inne</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>2. Zobowiązania wobec pozostałych jednostek, w których jednostka posiada zaangażowanie w kapitale</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">2234346.95</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">1179181.56</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>a) z tytułu dostaw i usług, o okresie wymagalności:</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">2234346.95</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">1179181.56</div></answer></td>
+</tr><tr>
+  <td><div id="t7"><div id="s7"><question>– do 12 miesięcy</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t7"><div id="s7"><question>– powyżej 12 miesięcy</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>b) inne</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>3. Zobowiązania wobec pozostałych jednostek</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">4474997.79</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">5855508.04</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>a) kredyty i pożyczki</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>b) z tytułu emisji dłużnych papierów wartościowych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">12605.71</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">10791.96</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>c) inne zobowiązania finansowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">904150.56</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">156333.15</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>d) z tytułu dostaw i usług, o okresie wymagalności:</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">661192.70</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">1940956.39</div></answer></td>
+</tr><tr>
+  <td><div id="t7"><div id="s7"><question>– do 12 miesięcy</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s7">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t7"><div id="s7"><question>– powyżej 12 miesięcy</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s7">661192.70</div></answer></td>
+  <td style="text-align:right"><answer><div id="s7">1940956.39</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>e) zaliczki otrzymane na dostawy i usługi</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">661192.69</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>f) zobowiązania wekslowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">661192.70</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">1279763.70</div></answer></td>
+</tr></table><div id='t1'><div id='s1'><p><question>Rachunek zysków i strat: </question><answer></answer></p></div></div><table><tr>
+  <td><div id="t2"><div id="s2"><question></question></div></div></td>
+  <td style="text-align:justify"><question><div id="s2">Kwota na dzień kończący bieżący rok obrotowy</div></question></td>
+  <td style="text-align:justify"><question><div id="s2">Kwota na dzień kończący poprzedni rok obrotowy</div></question></td>
+</tr><tr>
+  <td><div id="t2"><div id="s2"><question>A. Przychody netto ze sprzedaży i zrównane z nimi, w tym:</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s2">177519104.47</div></answer></td>
+  <td style="text-align:right"><answer><div id="s2">181004881.30</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>– od jednostek powiązanych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">177519104.47</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">181004881.30</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>I. Przychody netto ze sprzedaży produktów</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">177519104.47</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">181004881.30</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>II. Zmiana stanu produktów (zwiększenie – wartość dodatnia, zmniejszenie – wartość ujemna)</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>– w tym: obiekty w zabudowie</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">161748564.74</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">161059989.44</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>III. Koszt wytworzenia produktów na własne potrzeby jednostki</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">161748564.74</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">161059989.44</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>IV. Przychody netto ze sprzedaży towarów</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">161748564.74</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">161059989.44</div></answer></td>
+</tr><tr>
+  <td><div id="t2"><div id="s2"><question>B. Koszty działalności operacyjnej</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s2">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s2">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>I. Amortyzacja</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">15770539.73</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">19944891.86</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>II. Zużycie materiałów i energii</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>III. Usługi obce</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">9922317.51</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">7920121.51</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>IV. Podatki i opłaty, w tym:</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">5848222.22</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">12024770.35</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>– podatek akcyzowy</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">26915.82</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>V. Wynagrodzenia</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>VI. Ubezpieczenia społeczne i inne świadczenia, w tym:</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>– emerytalne</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>VII. Pozostałe koszty rodzajowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">26915.82</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>VIII. Wartość sprzedanych towarów</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">673.92</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">689747.35</div></answer></td>
+</tr><tr>
+  <td><div id="t2"><div id="s2"><question>C. Zysk (strata) ze sprzedaży (A–B)</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s2">673.92</div></answer></td>
+  <td style="text-align:right"><answer><div id="s2">669075.60</div></answer></td>
+</tr><tr>
+  <td><div id="t2"><div id="s2"><question>D. Pozostałe przychody operacyjne</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s2">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s2">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>I. Zysk z tytułu rozchodu niefinansowych aktywów trwałych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">20671.75</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>II. Dotacje</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">5874464.12</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">11335023.00</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>III. Aktualizacja wartości aktywów niefinansowych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">519714.26</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">484655.30</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>IV. Inne przychody operacyjne</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t2"><div id="s2"><question>E. Pozostałe koszty operacyjne</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s2">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s2">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>I. Strata z tytułu rozchodu niefinansowych aktywów trwałych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>II. Aktualizacja wartości aktywów niefinansowych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>III. Inne koszty operacyjne</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t2"><div id="s2"><question>F. Zysk (strata) z działalności operacyjnej (C+D–E)</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s2">516241.57</div></answer></td>
+  <td style="text-align:right"><answer><div id="s2">447603.66</div></answer></td>
+</tr><tr>
+  <td><div id="t2"><div id="s2"><question>G. Przychody finansowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s2">516241.57</div></answer></td>
+  <td style="text-align:right"><answer><div id="s2">447603.66</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>I. Dywidendy i udziały w zyskach, w tym:</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>a) Od jednostek powiązanych, w tym:</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>– w których jednostka posiada zaangażowanie w kapitale</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>b) Od jednostek pozostałych, w tym:</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">3472.69</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">37051.64</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>– w których jednostka posiada zaangażowanie w kapitale</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">328.77</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>II. Odsetki, w tym:</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>– od jednostek powiązanych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>III. Zysk z tytułu rozchodu aktywów finansowych, w tym:</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>– w jednostkach powiązanych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>IV. Aktualizacja wartości aktywów finansowych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>V. Inne</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">328.77</div></answer></td>
+</tr><tr>
+  <td><div id="t2"><div id="s2"><question>H. Koszty finansowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s2">6394178.38</div></answer></td>
+  <td style="text-align:right"><answer><div id="s2">11819349.53</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>I. Odsetki, w tym:</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">-13958233.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">2812058.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>– dla jednostek powiązanych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>II. Strata z tytułu rozchodu aktywów finansowych, w tym:</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">20352411.38</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">9007291.53</div></answer></td>
+</tr></table><div id='t1'><div id='s1'><p><question>Zestawienie zmian w kapitale: </question><answer></answer></p></div></div><table><tr>
+  <td><div id="t2"><div id="s2"><question></question></div></div></td>
+  <td style="text-align:justify"><question><div id="s2">Kwota na dzień kończący bieżący rok obrotowy</div></question></td>
+  <td style="text-align:justify"><question><div id="s2">Kwota na dzień kończący poprzedni rok obrotowy</div></question></td>
+</tr><tr>
+  <td><div id="t2"><div id="s2"><question>I. Kapitał (fundusz) własny na początek okresu (BO)</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s2">24933420.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s2">15926128.47</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>– zmiany przyjętych zasad (polityki) rachunkowości</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>– korekty błędów</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t2"><div id="s2"><question>Ia. Kapitał (fundusz) własny na początek okresu (BO), po korektach</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s2">24933420.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s2">15926128.47</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>1. Kapitał (fundusz) podstawowy na początek okresu</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">1500000.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">1500000.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>1. Zmiany kapitału (funduszu) podstawowego</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>a) zwiększenie (z tytułu)</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>– wydania udziałów (emisji akcji)</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>b) zmniejszenie (z tytułu)</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>– umorzenia udziałów (akcji)</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>2. Kapitał (fundusz) podstawowy na koniec okresu</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">1500000.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">1500000.00</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>2. Kapitał (fundusz) zapasowy na początek okresu</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">14426128.47</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">5045752.46</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>1. Zmiany kapitału (funduszu) zapasowego</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">9007291.53</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">9380376.01</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>a) zwiększenie (z tytułu)</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">9007291.53</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">9380376.01</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>– emisji akcji powyżej wartości nominalnej</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>– podziału zysku (ustawowo)</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>– podziału zysku (ponad wymaganą ustawowo minimalną wartość)</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">9007291.53</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">9380376.01</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>b) zmniejszenie (z tytułu)</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>– pokrycia straty</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>2. Stan kapitału (funduszu) zapasowego na koniec okresu</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">23433420.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">14426128.47</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>3. Kapitał (fundusz) z aktualizacji wyceny na początek okresu – zmiany przyjętych zasad (polityki) rachunkowości</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>1. Zmiany kapitału (funduszu) z aktualizacji wyceny</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>a) zwiększenie (z tytułu)</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>b) zmniejszenie (z tytułu)</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>– zbycia środków trwałych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>2. Kapitał (fundusz) z aktualizacji wyceny na koniec okresu</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>4. Pozostałe kapitały (fundusze) rezerwowe na początek okresu</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>1. Zmiany pozostałych kapitałów (funduszy) rezerwowych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>a) zwiększenie (z tytułu)</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>b) zmniejszenie (z tytułu)</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>2. Pozostałe kapitały (fundusze) rezerwowe na koniec okresu</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>5. Zysk (strata) z lat ubiegłych na początek okresu</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">9007291.53</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">9380376.01</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>1. Zysk z lat ubiegłych na początek okresu</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">9007291.53</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">9380376.01</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>– zmiany przyjętych zasad (polityki) rachunkowości</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>– korekty błędów</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>2. Zysk z lat ubiegłych na początek okresu, po korektach</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">9007291.53</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">9380376.01</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>a) zwiększenie (z tytułu)</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>– podziału zysku z lat ubiegłych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>pokrycie straty 2021</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">9007291.53</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">9380376.01</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>b) zmniejszenie (z tytułu)</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>3. Zysk z lat ubiegłych na koniec okresu</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>4. Strata z lat ubiegłych na początek okresu</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>– zmiany przyjętych zasad (polityki) rachunkowości</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>– korekty błędów</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>5. Strata z lat ubiegłych na początek okresu, po korektach</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>a) zwiększenie (z tytułu)</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>– przeniesienia straty z lat ubiegłych do pokrycia</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>b) zmniejszenie (z tytułu)</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>pokrycie zyskiem z 2022 roku</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>6. Strata z lat ubiegłych na koniec okresu</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">20352411.38</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">9007291.53</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>7. Zysk (strata) z lat ubiegłych na koniec okresu</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">20352411.38</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">9007291.53</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>6. Wynik netto</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>a) zysk netto</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>b) strata netto</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">45285831.38</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">24933420.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>c) odpisy z zysku</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">45285831.38</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">24933420.00</div></answer></td>
+</tr></table><div id='t1'><div id='s1'><p><question>Rachunek przepływów pieniężnych: </question><answer></answer></p></div></div><table><tr>
+  <td><div id="t2"><div id="s2"><question></question></div></div></td>
+  <td style="text-align:justify"><question><div id="s2">Kwota na dzień kończący bieżący rok obrotowy</div></question></td>
+  <td style="text-align:justify"><question><div id="s2">Kwota na dzień kończący poprzedni rok obrotowy</div></question></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>I. Zysk (strata) netto</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">20352411.38</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">9007291.53</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>II. Korekty razem</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">-19529196.06</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">15005512.55</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>1. Amortyzacja</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">1767486.08</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">406821.73</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>2. Zyski (straty) z tytułu różnic kursowych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>3. Odsetki i udziały w zyskach (dywidendy)</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">-516241.57</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">-446807.66</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>4. Zysk (strata) z działalności inwestycyjnej</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">673.92</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">669075.62</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>5. Zmiana stanu rezerw</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">635355.08</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">1821589.26</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>6. Zmiana stanu zapasów</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>7. Zmiana stanu należności</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">-6086069.44</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">16069751.01</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>8. Zmiana stanu zobowiązań krótkoterminowych, z wyjątkiem pożyczek i kredytów</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">324504.46</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">-3346855.04</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>9. Zmiana stanu rozliczeń międzyokresowych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">-15644572.59</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">-168062.37</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>10. Inne korekty</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">-10332.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>III. Przepływy pieniężne netto z działalności operacyjnej (I±II)</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">823215.32</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">24012804.08</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>I. Wpływy</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">516241.57</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">446807.66</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>1. Zbycie wartości niematerialnych i prawnych oraz rzeczowych aktywów trwałych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>2. Zbycie inwestycji w nieruchomości oraz wartości niematerialne i prawne</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>3. Z aktywów finansowych, w tym:</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">516241.57</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">446807.66</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>a) w jednostkach powiązanych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">516241.57</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">446807.66</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>b) w pozostałych jednostkach</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>– zbycie aktywów finansowych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>– dywidendy i udziały w zyskach</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>– spłata udzielonych pożyczek długoterminowych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>– odsetki</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>– inne wpływy z aktywów finansowych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>4. Inne wpływy inwestycyjne</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>II. Wydatki</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">1791103.94</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">23000.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>1. Nabycie wartości niematerialnych i prawnych oraz rzeczowych aktywów trwałych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">1791103.94</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">23000.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>2. Inwestycje w nieruchomości oraz wartości niematerialne i prawne</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>3. Na aktywa finansowe, w tym:</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>a) w jednostkach powiązanych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t5"><div id="s5"><question>b) w pozostałych jednostkach</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s5">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>– nabycie aktywów finansowych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t6"><div id="s6"><question>– udzielone pożyczki długoterminowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s6">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>4. Inne wydatki inwestycyjne</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>III. Przepływy pieniężne netto z działalności inwestycyjnej (I–II)</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">-1274863.37</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">423807.66</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>I. Wpływy</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>1. Wpływy netto z wydania udziałów (emisji akcji) i innych instrumentów kapitałowych oraz dopłat do kapitału</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>2. Kredyty i pożyczki</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>3. Emisja dłużnych papierów wartościowych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>4. Inne wpływy finansowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>II. Wydatki</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>1. Nabycie udziałów (akcji) własnych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>2. Dywidendy i inne wypłaty na rzecz właścicieli</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>3. Inne, niż wypłaty na rzecz właścicieli, wydatki z tytułu podziału zysku</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>4. Spłaty kredytów i pożyczek</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>5. Wykup dłużnych papierów wartościowych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>6. Z tytułu innych zobowiązań finansowych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>7. Płatności zobowiązań z tytułu umów leasingu finansowego</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>8. Odsetki</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t4"><div id="s4"><question>9. Inne wydatki finansowe</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s4">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>III. Przepływy pieniężne netto z działalności finansowej (I–II)</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t2"><div id="s2"><question>D. Przepływy pieniężne netto razem (A.III±B.III±C.III)</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s2">-451647.05</div></answer></td>
+  <td style="text-align:right"><answer><div id="s2">24436611.75</div></answer></td>
+</tr><tr>
+  <td><div id="t2"><div id="s2"><question>E. Bilansowa zmiana stanu środków pieniężnych, w tym:</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s2">-451647.05</div></answer></td>
+  <td style="text-align:right"><answer><div id="s2">24436611.75</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>– zmiana stanu środków pieniężnych z tytułu różnic kursowych</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+</tr><tr>
+  <td><div id="t2"><div id="s2"><question>F. Środki pieniężne na początek okresu</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s2">34124832.72</div></answer></td>
+  <td style="text-align:right"><answer><div id="s2">9688220.97</div></answer></td>
+</tr><tr>
+  <td><div id="t2"><div id="s2"><question>G. Środki pieniężne na koniec okresu (F±D), w tym:</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s2">33673185.67</div></answer></td>
+  <td style="text-align:right"><answer><div id="s2">34124832.72</div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>– o ograniczonej możliwości dysponowania</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">1051156.78</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">727483.59</div></answer></td>
+</tr></table><div id='t1'><div id='s1'><p><question>Dodatkowe informacje i objaśnienia: </question><answer></answer></p></div></div><div id='t3'><div id='s3'><p><question>Opis: </question><answer>Dodatkowe informacje i objaśnienia</answer></p></div></div><div id='t4'><div id='s4'><p><question>Nazwa pliku z rozszerzeniem: </question><answer>Parexel_NOTY_20241231.pdf</answer></p></div></div><div id='t3'><div id='s3'><p><question>Załączony plik: </question><answer><a href='02_roczne-sprawozdan_92820b07_assets/1016_Parexel_NOTY_20241_ef669e8a.pdf' target='_blank' rel='noopener'>Parexel_NOTY_20241231.pdf</a></answer></p></div></div><div id='t1'><div id='s1'><p><question>Uzgodnienie podstawy opodatkowania podatkiem dochodowym z wynikiem finansowym brutto: </question><answer></answer></p></div></div><table><tr>
+  <td colspan="1"><div id="t3"><div id="s3"><question></question></div></div></td>
+  <td colspan="2" style="text-align:center"><question><div id="s3">Rok bieżący</div></question></td>
+  <td colspan="2" style="text-align:center"><question><div id="s3">Rok poprzedni</div></question></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question></question></div></div></td>
+  <td style="text-align:justify"><question><div id="s3">Wartość łączna</div></question></td>
+  <td style="text-align:justify"><question><div id="s3">w tym z zysków kapitałowych</div></question></td>
+  <td style="text-align:justify"><question><div id="s3">Wartość łączna</div></question></td>
+  <td style="text-align:justify"><question><div id="s3">w tym z zysków kapitałowych</div></question></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>A. Zysk (strata) brutto za dany rok</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">6394178.38</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3"></div></answer></td>
+  <td style="text-align:right"><answer><div id="s3"></div></answer></td>
+  <td style="text-align:right"><answer><div id="s3"></div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>B. Przychody zwolnione z opodatkowania, w tym:</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">618571.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3"></div></answer></td>
+  <td style="text-align:right"><answer><div id="s3"></div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>C. Przychody niepodlegające opodatkowaniu w roku bieżącym, w tym:</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3"></div></answer></td>
+  <td style="text-align:right"><answer><div id="s3"></div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>D. Przychody podlegające opodatkowaniu w roku bieżącym, ujęte w księgach lat ubiegłych, w tym:</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3"></div></answer></td>
+  <td style="text-align:right"><answer><div id="s3"></div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>E. Koszty niestanowiące kosztów uzyskania przychodów, w tym:</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">2392087.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3"></div></answer></td>
+  <td style="text-align:right"><answer><div id="s3"></div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>F. Koszty niestanowiące kosztów uzyskania przychodów rozpoznane w roku bieżącym:</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">15221060.24</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3"></div></answer></td>
+  <td style="text-align:right"><answer><div id="s3"></div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>G. Koszty uznane za koszty uzyskania przychodów w roku bieżącym, ujęte w księgach lat ubiegłych, w tym:</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">15065671.65</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3"></div></answer></td>
+  <td style="text-align:right"><answer><div id="s3"></div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>H. Strata z lat ubiegłych, w tym:</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3"></div></answer></td>
+  <td style="text-align:right"><answer><div id="s3"></div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>I. Inne zmiany podstawy opodatkowania, w tym:</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">-8323082.97</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3"></div></answer></td>
+  <td style="text-align:right"><answer><div id="s3"></div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>J. Podstawa opodatkowania podatkiem dochodowym</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3"></div></answer></td>
+  <td style="text-align:right"><answer><div id="s3"></div></answer></td>
+  <td style="text-align:right"><answer><div id="s3"></div></answer></td>
+</tr><tr>
+  <td><div id="t3"><div id="s3"><question>K. Podatek dochodowy</question></div></div></td>
+  <td style="text-align:right"><answer><div id="s3">0.00</div></answer></td>
+  <td style="text-align:right"><answer><div id="s3"></div></answer></td>
+  <td style="text-align:right"><answer><div id="s3"></div></answer></td>
+  <td style="text-align:right"><answer><div id="s3"></div></answer></td>
+</tr></table>
+  <div class="local-footnote">Prototyp lokalnego renderera do oceny wyglądu, kompletności i klikalności.</div>
+</body>
+</html>

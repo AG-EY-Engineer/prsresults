@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "krs": "0000002554",
+    "company": "PAREXEL POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "path": "companies/0000002554-parexel-polska/latest",
+    "summary": "companies/0000002554-parexel-polska/latest/summary.md",
+    "manifest": "companies/0000002554-parexel-polska/latest/manifest.json"
+  }
+]
