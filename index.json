@@ -48,6 +48,18 @@
     "management_report_ai_txt": "companies/0000310459-0000310459/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
+    "krs": "0000418977",
+    "company": "0000418977",
+    "path": "companies/0000418977-0000418977/latest",
+    "manifest": "companies/0000418977-0000418977/latest/manifest.json",
+    "gpt_manifest": "companies/0000418977-0000418977/latest/gpt_manifest.json",
+    "financial_statement_xml": "",
+    "financial_statement_ai_json": "",
+    "financial_statement_ai_view_json": "",
+    "management_report_pdf": "companies/0000418977-0000418977/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000418977-0000418977/latest/sprawozdanie_zarzadu_ai.txt"
+  },
+  {
     "krs": "0000739952",
     "company": "EY Doradztwo Podatkowe Krupa spółka komandytowa",
     "path": "companies/0000739952-ey-doradztwo-podatkowe-krupa-spoka-komandytowa/latest",
