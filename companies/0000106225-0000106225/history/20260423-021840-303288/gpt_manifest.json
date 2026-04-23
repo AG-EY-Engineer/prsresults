@@ -16,8 +16,8 @@
     {
       "kind": "management_report_ai_txt",
       "why": "Plain-text management report for narrative analysis.",
-      "path": "companies/0000106225-0000106225/latest/sprawozdanie_zarzadu_ai.txt",
-      "raw_url": "https://raw.githubusercontent.com/AG-EY-Engineer/prsresults/main/companies/0000106225-0000106225/latest/sprawozdanie_zarzadu_ai.txt"
+      "path": "",
+      "raw_url": ""
     },
     {
       "kind": "financial_statement_ai_json",
@@ -34,8 +34,8 @@
     {
       "kind": "management_report_pdf",
       "why": "Original source PDF.",
-      "path": "companies/0000106225-0000106225/latest/sprawozdanie_zarzadu.pdf",
-      "raw_url": "https://raw.githubusercontent.com/AG-EY-Engineer/prsresults/main/companies/0000106225-0000106225/latest/sprawozdanie_zarzadu.pdf"
+      "path": "",
+      "raw_url": ""
     }
   ],
   "analysis_targets": [
