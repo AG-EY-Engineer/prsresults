@@ -1,0 +1,2921 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-04-28T21:50:33",
+  "source_file": "01_skonsolidowane-roczne-s_30315f73.xml",
+  "metadata": {
+    "company_name": "\"NIBE-BIAWAR\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "nip": "0000030931",
+    "period_from": "2024-01-01",
+    "period_to": "2024-12-31",
+    "prepared_on": "2025-04-10",
+    "report_code": "SprFinSkonsolidowanaJednostkaInnaWZlotych",
+    "unit_of_measure": "PLN"
+  },
+  "analysis_hint": {
+    "primary_financial_table": "rzis",
+    "preferred_for_basic_numbers": [
+      "rzis",
+      "bilans",
+      "tax_note"
+    ],
+    "note": "Use this file first. For edge cases or disputed figures, fall back to sprawozdanie_finansowe_ai.json and source XML."
+  },
+  "sections": {
+    "bilans": {
+      "title": "Bilans",
+      "rows": [
+        {
+          "code": "Aktywa",
+          "label": "Aktywa",
+          "depth": 0,
+          "path_in_xml": "Bilans/Aktywa",
+          "current": "306070988.70",
+          "previous": "336466970.40",
+          "previous_closing": "336466970.40",
+          "amounts": {
+            "KwotaA": "306070988.70",
+            "KwotaB": "336466970.40",
+            "KwotaB1": "336466970.40"
+          }
+        },
+        {
+          "code": "A",
+          "label": "A",
+          "depth": 0,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_A",
+          "current": "166597348.13",
+          "previous": "146116889.76",
+          "previous_closing": "146116889.76",
+          "amounts": {
+            "KwotaA": "166597348.13",
+            "KwotaB": "146116889.76",
+            "KwotaB1": "146116889.76"
+          }
+        },
+        {
+          "code": "A.I",
+          "label": "A I",
+          "depth": 1,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_A/Aktywa_A_I",
+          "current": "1297854.52",
+          "previous": "774428.84",
+          "previous_closing": "774428.84",
+          "amounts": {
+            "KwotaA": "1297854.52",
+            "KwotaB": "774428.84",
+            "KwotaB1": "774428.84"
+          }
+        },
+        {
+          "code": "A.I.1",
+          "label": "A I 1",
+          "depth": 2,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_A/Aktywa_A_I/Aktywa_A_I_1",
+          "current": "0",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "0",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "A.I.2",
+          "label": "A I 2",
+          "depth": 2,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_A/Aktywa_A_I/Aktywa_A_I_2",
+          "current": "0",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "0",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "A.I.3",
+          "label": "A I 3",
+          "depth": 2,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_A/Aktywa_A_I/Aktywa_A_I_3",
+          "current": "1297854.52",
+          "previous": "774428.84",
+          "previous_closing": "774428.84",
+          "amounts": {
+            "KwotaA": "1297854.52",
+            "KwotaB": "774428.84",
+            "KwotaB1": "774428.84"
+          }
+        },
+        {
+          "code": "A.II",
+          "label": "A II",
+          "depth": 1,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_A/Aktywa_A_II",
+          "current": "0",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "0",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "A.III",
+          "label": "A III",
+          "depth": 1,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_A/Aktywa_A_III",
+          "current": "156811457.48",
+          "previous": "140907508.92",
+          "previous_closing": "140907508.92",
+          "amounts": {
+            "KwotaA": "156811457.48",
+            "KwotaB": "140907508.92",
+            "KwotaB1": "140907508.92"
+          }
+        },
+        {
+          "code": "A.III.1",
+          "label": "A III 1",
+          "depth": 2,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_A/Aktywa_A_III/Aktywa_A_III_1",
+          "current": "152271227.49",
+          "previous": "96712089.44",
+          "previous_closing": "96712089.44",
+          "amounts": {
+            "KwotaA": "152271227.49",
+            "KwotaB": "96712089.44",
+            "KwotaB1": "96712089.44"
+          }
+        },
+        {
+          "code": "A.III.1.A",
+          "label": "A III 1 A",
+          "depth": 3,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_A/Aktywa_A_III/Aktywa_A_III_1/Aktywa_A_III_1_A",
+          "current": "7510361.66",
+          "previous": "7510361.66",
+          "previous_closing": "7510361.66",
+          "amounts": {
+            "KwotaA": "7510361.66",
+            "KwotaB": "7510361.66",
+            "KwotaB1": "7510361.66"
+          }
+        },
+        {
+          "code": "A.III.1.B",
+          "label": "A III 1 B",
+          "depth": 3,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_A/Aktywa_A_III/Aktywa_A_III_1/Aktywa_A_III_1_B",
+          "current": "107144507.10",
+          "previous": "61522864.15",
+          "previous_closing": "61522864.15",
+          "amounts": {
+            "KwotaA": "107144507.10",
+            "KwotaB": "61522864.15",
+            "KwotaB1": "61522864.15"
+          }
+        },
+        {
+          "code": "A.III.1.C",
+          "label": "A III 1 C",
+          "depth": 3,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_A/Aktywa_A_III/Aktywa_A_III_1/Aktywa_A_III_1_C",
+          "current": "34823356.12",
+          "previous": "24721590.58",
+          "previous_closing": "24721590.58",
+          "amounts": {
+            "KwotaA": "34823356.12",
+            "KwotaB": "24721590.58",
+            "KwotaB1": "24721590.58"
+          }
+        },
+        {
+          "code": "A.III.1.D",
+          "label": "A III 1 D",
+          "depth": 3,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_A/Aktywa_A_III/Aktywa_A_III_1/Aktywa_A_III_1_D",
+          "current": "1446828.87",
+          "previous": "1427624.23",
+          "previous_closing": "1427624.23",
+          "amounts": {
+            "KwotaA": "1446828.87",
+            "KwotaB": "1427624.23",
+            "KwotaB1": "1427624.23"
+          }
+        },
+        {
+          "code": "A.III.1.E",
+          "label": "A III 1 E",
+          "depth": 3,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_A/Aktywa_A_III/Aktywa_A_III_1/Aktywa_A_III_1_E",
+          "current": "1346173.74",
+          "previous": "1529648.82",
+          "previous_closing": "1529648.82",
+          "amounts": {
+            "KwotaA": "1346173.74",
+            "KwotaB": "1529648.82",
+            "KwotaB1": "1529648.82"
+          }
+        },
+        {
+          "code": "A.III.2",
+          "label": "A III 2",
+          "depth": 2,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_A/Aktywa_A_III/Aktywa_A_III_2",
+          "current": "4536430.45",
+          "previous": "39607478.64",
+          "previous_closing": "39607478.64",
+          "amounts": {
+            "KwotaA": "4536430.45",
+            "KwotaB": "39607478.64",
+            "KwotaB1": "39607478.64"
+          }
+        },
+        {
+          "code": "A.III.3",
+          "label": "A III 3",
+          "depth": 2,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_A/Aktywa_A_III/Aktywa_A_III_3",
+          "current": "3799.54",
+          "previous": "4587940.84",
+          "previous_closing": "4587940.84",
+          "amounts": {
+            "KwotaA": "3799.54",
+            "KwotaB": "4587940.84",
+            "KwotaB1": "4587940.84"
+          }
+        },
+        {
+          "code": "A.IV",
+          "label": "A IV",
+          "depth": 1,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_A/Aktywa_A_IV",
+          "current": "0",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "0",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "A.V",
+          "label": "A V",
+          "depth": 1,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_A/Aktywa_A_V",
+          "current": "0",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "0",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "A.V.3",
+          "label": "A V 3",
+          "depth": 2,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_A/Aktywa_A_V/Aktywa_A_V_3",
+          "current": "0",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "0",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "A.V.3.A",
+          "label": "A V 3 A",
+          "depth": 3,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_A/Aktywa_A_V/Aktywa_A_V_3/Aktywa_A_V_3_A",
+          "current": "0",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "0",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "A.V.3.B",
+          "label": "A V 3 B",
+          "depth": 3,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_A/Aktywa_A_V/Aktywa_A_V_3/Aktywa_A_V_3_B",
+          "current": "0",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "0",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "A.V.3.C",
+          "label": "A V 3 C",
+          "depth": 3,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_A/Aktywa_A_V/Aktywa_A_V_3/Aktywa_A_V_3_C",
+          "current": "0",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "0",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "A.V.3.D",
+          "label": "A V 3 D",
+          "depth": 3,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_A/Aktywa_A_V/Aktywa_A_V_3/Aktywa_A_V_3_D",
+          "current": "0",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "0",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "A.VI",
+          "label": "A VI",
+          "depth": 1,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_A/Aktywa_A_VI",
+          "current": "8488036.13",
+          "previous": "4434952.00",
+          "previous_closing": "4434952.00",
+          "amounts": {
+            "KwotaA": "8488036.13",
+            "KwotaB": "4434952.00",
+            "KwotaB1": "4434952.00"
+          }
+        },
+        {
+          "code": "A.VI.1",
+          "label": "A VI 1",
+          "depth": 2,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_A/Aktywa_A_VI/Aktywa_A_VI_1",
+          "current": "8488036.13",
+          "previous": "4434952.00",
+          "previous_closing": "4434952.00",
+          "amounts": {
+            "KwotaA": "8488036.13",
+            "KwotaB": "4434952.00",
+            "KwotaB1": "4434952.00"
+          }
+        },
+        {
+          "code": "B",
+          "label": "B",
+          "depth": 0,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_B",
+          "current": "139473640.57",
+          "previous": "190350080.64",
+          "previous_closing": "190350080.64",
+          "amounts": {
+            "KwotaA": "139473640.57",
+            "KwotaB": "190350080.64",
+            "KwotaB1": "190350080.64"
+          }
+        },
+        {
+          "code": "B.I",
+          "label": "B I",
+          "depth": 1,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_B/Aktywa_B_I",
+          "current": "86877431.01",
+          "previous": "153548817.21",
+          "previous_closing": "153548817.21",
+          "amounts": {
+            "KwotaA": "86877431.01",
+            "KwotaB": "153548817.21",
+            "KwotaB1": "153548817.21"
+          }
+        },
+        {
+          "code": "B.I.1",
+          "label": "B I 1",
+          "depth": 2,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_B/Aktywa_B_I/Aktywa_B_I_1",
+          "current": "20158533.41",
+          "previous": "43472104.00",
+          "previous_closing": "48130738.78",
+          "amounts": {
+            "KwotaA": "20158533.41",
+            "KwotaB": "43472104.00",
+            "KwotaB1": "48130738.78"
+          }
+        },
+        {
+          "code": "B.I.2",
+          "label": "B I 2",
+          "depth": 2,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_B/Aktywa_B_I/Aktywa_B_I_2",
+          "current": "2674632.20",
+          "previous": "8197235.28",
+          "previous_closing": "3538600.50",
+          "amounts": {
+            "KwotaA": "2674632.20",
+            "KwotaB": "8197235.28",
+            "KwotaB1": "3538600.50"
+          }
+        },
+        {
+          "code": "B.I.3",
+          "label": "B I 3",
+          "depth": 2,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_B/Aktywa_B_I/Aktywa_B_I_3",
+          "current": "16093538.02",
+          "previous": "26907361.55",
+          "previous_closing": "26907361.55",
+          "amounts": {
+            "KwotaA": "16093538.02",
+            "KwotaB": "26907361.55",
+            "KwotaB1": "26907361.55"
+          }
+        },
+        {
+          "code": "B.I.4",
+          "label": "B I 4",
+          "depth": 2,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_B/Aktywa_B_I/Aktywa_B_I_4",
+          "current": "47950727.38",
+          "previous": "74964074.32",
+          "previous_closing": "74964074.32",
+          "amounts": {
+            "KwotaA": "47950727.38",
+            "KwotaB": "74964074.32",
+            "KwotaB1": "74964074.32"
+          }
+        },
+        {
+          "code": "B.I.5",
+          "label": "B I 5",
+          "depth": 2,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_B/Aktywa_B_I/Aktywa_B_I_5",
+          "current": "0",
+          "previous": "8042.06",
+          "previous_closing": "8042.06",
+          "amounts": {
+            "KwotaA": "0",
+            "KwotaB": "8042.06",
+            "KwotaB1": "8042.06"
+          }
+        },
+        {
+          "code": "B.II",
+          "label": "B II",
+          "depth": 1,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_B/Aktywa_B_II",
+          "current": "30793689.47",
+          "previous": "23073608.54",
+          "previous_closing": "23073608.54",
+          "amounts": {
+            "KwotaA": "30793689.47",
+            "KwotaB": "23073608.54",
+            "KwotaB1": "23073608.54"
+          }
+        },
+        {
+          "code": "B.II.1",
+          "label": "B II 1",
+          "depth": 2,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_B/Aktywa_B_II/Aktywa_B_II_1",
+          "current": "4518889.27",
+          "previous": "5492266.26",
+          "previous_closing": "5492266.26",
+          "amounts": {
+            "KwotaA": "4518889.27",
+            "KwotaB": "5492266.26",
+            "KwotaB1": "5492266.26"
+          }
+        },
+        {
+          "code": "B.II.1.A",
+          "label": "B II 1 A",
+          "depth": 3,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_B/Aktywa_B_II/Aktywa_B_II_1/Aktywa_B_II_1_A",
+          "current": "4500692.62",
+          "previous": "5492266.26",
+          "previous_closing": "5492266.26",
+          "amounts": {
+            "KwotaA": "4500692.62",
+            "KwotaB": "5492266.26",
+            "KwotaB1": "5492266.26"
+          }
+        },
+        {
+          "code": "B.II.1.A.1",
+          "label": "B II 1 A 1",
+          "depth": 4,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_B/Aktywa_B_II/Aktywa_B_II_1/Aktywa_B_II_1_A/Aktywa_B_II_1_A_1",
+          "current": "4500692.62",
+          "previous": "5492266.26",
+          "previous_closing": "5492266.26",
+          "amounts": {
+            "KwotaA": "4500692.62",
+            "KwotaB": "5492266.26",
+            "KwotaB1": "5492266.26"
+          }
+        },
+        {
+          "code": "B.II.1.B",
+          "label": "B II 1 B",
+          "depth": 3,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_B/Aktywa_B_II/Aktywa_B_II_1/Aktywa_B_II_1_B",
+          "current": "18196.65",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "18196.65",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "B.II.2",
+          "label": "B II 2",
+          "depth": 2,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_B/Aktywa_B_II/Aktywa_B_II_2",
+          "current": "0",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "0",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "B.II.2.A",
+          "label": "B II 2 A",
+          "depth": 3,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_B/Aktywa_B_II/Aktywa_B_II_2/Aktywa_B_II_2_A",
+          "current": "0",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "0",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "B.II.3",
+          "label": "B II 3",
+          "depth": 2,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_B/Aktywa_B_II/Aktywa_B_II_3",
+          "current": "26274800.20",
+          "previous": "17581342.28",
+          "previous_closing": "17581342.28",
+          "amounts": {
+            "KwotaA": "26274800.20",
+            "KwotaB": "17581342.28",
+            "KwotaB1": "17581342.28"
+          }
+        },
+        {
+          "code": "B.II.3.A",
+          "label": "B II 3 A",
+          "depth": 3,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_B/Aktywa_B_II/Aktywa_B_II_3/Aktywa_B_II_3_A",
+          "current": "9338539.03",
+          "previous": "12910839.52",
+          "previous_closing": "12910839.52",
+          "amounts": {
+            "KwotaA": "9338539.03",
+            "KwotaB": "12910839.52",
+            "KwotaB1": "12910839.52"
+          }
+        },
+        {
+          "code": "B.II.3.A.1",
+          "label": "B II 3 A 1",
+          "depth": 4,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_B/Aktywa_B_II/Aktywa_B_II_3/Aktywa_B_II_3_A/Aktywa_B_II_3_A_1",
+          "current": "9338539.03",
+          "previous": "12910839.52",
+          "previous_closing": "12910839.52",
+          "amounts": {
+            "KwotaA": "9338539.03",
+            "KwotaB": "12910839.52",
+            "KwotaB1": "12910839.52"
+          }
+        },
+        {
+          "code": "B.II.3.B",
+          "label": "B II 3 B",
+          "depth": 3,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_B/Aktywa_B_II/Aktywa_B_II_3/Aktywa_B_II_3_B",
+          "current": "14562564.15",
+          "previous": "2898014.70",
+          "previous_closing": "2898014.70",
+          "amounts": {
+            "KwotaA": "14562564.15",
+            "KwotaB": "2898014.70",
+            "KwotaB1": "2898014.70"
+          }
+        },
+        {
+          "code": "B.II.3.C",
+          "label": "B II 3 C",
+          "depth": 3,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_B/Aktywa_B_II/Aktywa_B_II_3/Aktywa_B_II_3_C",
+          "current": "2373697.02",
+          "previous": "1772488.06",
+          "previous_closing": "1772488.06",
+          "amounts": {
+            "KwotaA": "2373697.02",
+            "KwotaB": "1772488.06",
+            "KwotaB1": "1772488.06"
+          }
+        },
+        {
+          "code": "B.III",
+          "label": "B III",
+          "depth": 1,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_B/Aktywa_B_III",
+          "current": "21345570.57",
+          "previous": "13177645.03",
+          "previous_closing": "13177645.03",
+          "amounts": {
+            "KwotaA": "21345570.57",
+            "KwotaB": "13177645.03",
+            "KwotaB1": "13177645.03"
+          }
+        },
+        {
+          "code": "B.III.1",
+          "label": "B III 1",
+          "depth": 2,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_B/Aktywa_B_III/Aktywa_B_III_1",
+          "current": "21345570.57",
+          "previous": "13177645.03",
+          "previous_closing": "13177645.03",
+          "amounts": {
+            "KwotaA": "21345570.57",
+            "KwotaB": "13177645.03",
+            "KwotaB1": "13177645.03"
+          }
+        },
+        {
+          "code": "B.III.1.A",
+          "label": "B III 1 A",
+          "depth": 3,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_B/Aktywa_B_III/Aktywa_B_III_1/Aktywa_B_III_1_A",
+          "current": "20471749.86",
+          "previous": "11544861.95",
+          "previous_closing": "11544861.95",
+          "amounts": {
+            "KwotaA": "20471749.86",
+            "KwotaB": "11544861.95",
+            "KwotaB1": "11544861.95"
+          }
+        },
+        {
+          "code": "B.III.1.A.4",
+          "label": "B III 1 A 4",
+          "depth": 4,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_B/Aktywa_B_III/Aktywa_B_III_1/Aktywa_B_III_1_A/Aktywa_B_III_1_A_4",
+          "current": "20471749.86",
+          "previous": "11544861.95",
+          "previous_closing": "11544861.95",
+          "amounts": {
+            "KwotaA": "20471749.86",
+            "KwotaB": "11544861.95",
+            "KwotaB1": "11544861.95"
+          }
+        },
+        {
+          "code": "B.III.1.B",
+          "label": "B III 1 B",
+          "depth": 3,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_B/Aktywa_B_III/Aktywa_B_III_1/Aktywa_B_III_1_B",
+          "current": "0",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "0",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "B.III.1.C",
+          "label": "B III 1 C",
+          "depth": 3,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_B/Aktywa_B_III/Aktywa_B_III_1/Aktywa_B_III_1_C",
+          "current": "0",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "0",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "B.III.1.D",
+          "label": "B III 1 D",
+          "depth": 3,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_B/Aktywa_B_III/Aktywa_B_III_1/Aktywa_B_III_1_D",
+          "current": "873820.71",
+          "previous": "1632783.08",
+          "previous_closing": "1632783.08",
+          "amounts": {
+            "KwotaA": "873820.71",
+            "KwotaB": "1632783.08",
+            "KwotaB1": "1632783.08"
+          }
+        },
+        {
+          "code": "B.III.1.D.1",
+          "label": "B III 1 D 1",
+          "depth": 4,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_B/Aktywa_B_III/Aktywa_B_III_1/Aktywa_B_III_1_D/Aktywa_B_III_1_D_1",
+          "current": "873820.71",
+          "previous": "1632783.08",
+          "previous_closing": "1632783.08",
+          "amounts": {
+            "KwotaA": "873820.71",
+            "KwotaB": "1632783.08",
+            "KwotaB1": "1632783.08"
+          }
+        },
+        {
+          "code": "B.IV",
+          "label": "B IV",
+          "depth": 1,
+          "path_in_xml": "Bilans/Aktywa/Aktywa_B/Aktywa_B_IV",
+          "current": "456949.52",
+          "previous": "550009.86",
+          "previous_closing": "550009.86",
+          "amounts": {
+            "KwotaA": "456949.52",
+            "KwotaB": "550009.86",
+            "KwotaB1": "550009.86"
+          }
+        },
+        {
+          "code": "Pasywa",
+          "label": "Pasywa",
+          "depth": 0,
+          "path_in_xml": "Bilans/Pasywa",
+          "current": "306070988.70",
+          "previous": "336466970.40",
+          "previous_closing": "336466970.40",
+          "amounts": {
+            "KwotaA": "306070988.70",
+            "KwotaB": "336466970.40",
+            "KwotaB1": "336466970.40"
+          }
+        },
+        {
+          "code": "A_P",
+          "label": "A",
+          "depth": 0,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_A",
+          "current": "241965407.48",
+          "previous": "265167276.46",
+          "previous_closing": "265167276.46",
+          "amounts": {
+            "KwotaA": "241965407.48",
+            "KwotaB": "265167276.46",
+            "KwotaB1": "265167276.46"
+          }
+        },
+        {
+          "code": "A.I",
+          "label": "A I",
+          "depth": 1,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_A/Pasywa_A_I",
+          "current": "4200000",
+          "previous": "4200000",
+          "previous_closing": "4200000",
+          "amounts": {
+            "KwotaA": "4200000",
+            "KwotaB": "4200000",
+            "KwotaB1": "4200000"
+          }
+        },
+        {
+          "code": "A.II",
+          "label": "A II",
+          "depth": 1,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_A/Pasywa_A_II",
+          "current": "254004114.41",
+          "previous": "203998757.25",
+          "previous_closing": "203998757.25",
+          "amounts": {
+            "KwotaA": "254004114.41",
+            "KwotaB": "203998757.25",
+            "KwotaB1": "203998757.25"
+          }
+        },
+        {
+          "code": "A.III",
+          "label": "A III",
+          "depth": 1,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_A/Pasywa_A_III",
+          "current": "1767827.73",
+          "previous": "1767827.73",
+          "previous_closing": "1767827.73",
+          "amounts": {
+            "KwotaA": "1767827.73",
+            "KwotaB": "1767827.73",
+            "KwotaB1": "1767827.73"
+          }
+        },
+        {
+          "code": "A.VI",
+          "label": "A VI",
+          "depth": 1,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_A/Pasywa_A_VI",
+          "current": "195333.32",
+          "previous": "195333.32",
+          "previous_closing": "195333.32",
+          "amounts": {
+            "KwotaA": "195333.32",
+            "KwotaB": "195333.32",
+            "KwotaB1": "195333.32"
+          }
+        },
+        {
+          "code": "A.VII",
+          "label": "A VII",
+          "depth": 1,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_A/Pasywa_A_VII",
+          "current": "-18201867.98",
+          "previous": "55005358.16",
+          "previous_closing": "55005358.16",
+          "amounts": {
+            "KwotaA": "-18201867.98",
+            "KwotaB": "55005358.16",
+            "KwotaB1": "55005358.16"
+          }
+        },
+        {
+          "code": "C",
+          "label": "C",
+          "depth": 0,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_C",
+          "current": "0",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "0",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "D",
+          "label": "D",
+          "depth": 0,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_D",
+          "current": "64105581.22",
+          "previous": "71299693.94",
+          "previous_closing": "71299693.94",
+          "amounts": {
+            "KwotaA": "64105581.22",
+            "KwotaB": "71299693.94",
+            "KwotaB1": "71299693.94"
+          }
+        },
+        {
+          "code": "D.I",
+          "label": "D I",
+          "depth": 1,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_D/Pasywa_D_I",
+          "current": "5764305.62",
+          "previous": "8869905.71",
+          "previous_closing": "8869905.71",
+          "amounts": {
+            "KwotaA": "5764305.62",
+            "KwotaB": "8869905.71",
+            "KwotaB1": "8869905.71"
+          }
+        },
+        {
+          "code": "D.I.1",
+          "label": "D I 1",
+          "depth": 2,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_D/Pasywa_D_I/Pasywa_D_I_1",
+          "current": "13033.85",
+          "previous": "5143",
+          "previous_closing": "5143",
+          "amounts": {
+            "KwotaA": "13033.85",
+            "KwotaB": "5143",
+            "KwotaB1": "5143"
+          }
+        },
+        {
+          "code": "D.I.2",
+          "label": "D I 2",
+          "depth": 2,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_D/Pasywa_D_I/Pasywa_D_I_2",
+          "current": "3296588.50",
+          "previous": "5447668.56",
+          "previous_closing": "5447668.56",
+          "amounts": {
+            "KwotaA": "3296588.50",
+            "KwotaB": "5447668.56",
+            "KwotaB1": "5447668.56"
+          }
+        },
+        {
+          "code": "D.I.2.1",
+          "label": "D I 2 1",
+          "depth": 3,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_D/Pasywa_D_I/Pasywa_D_I_2/Pasywa_D_I_2_1",
+          "current": "1547124",
+          "previous": "2337911.00",
+          "previous_closing": "2337911.00",
+          "amounts": {
+            "KwotaA": "1547124",
+            "KwotaB": "2337911.00",
+            "KwotaB1": "2337911.00"
+          }
+        },
+        {
+          "code": "D.I.2.2",
+          "label": "D I 2 2",
+          "depth": 3,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_D/Pasywa_D_I/Pasywa_D_I_2/Pasywa_D_I_2_2",
+          "current": "1749464.50",
+          "previous": "3109757.56",
+          "previous_closing": "3109757.56",
+          "amounts": {
+            "KwotaA": "1749464.50",
+            "KwotaB": "3109757.56",
+            "KwotaB1": "3109757.56"
+          }
+        },
+        {
+          "code": "D.I.3",
+          "label": "D I 3",
+          "depth": 2,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_D/Pasywa_D_I/Pasywa_D_I_3",
+          "current": "2454683.27",
+          "previous": "3417094.15",
+          "previous_closing": "3417094.15",
+          "amounts": {
+            "KwotaA": "2454683.27",
+            "KwotaB": "3417094.15",
+            "KwotaB1": "3417094.15"
+          }
+        },
+        {
+          "code": "D.I.3.2",
+          "label": "D I 3 2",
+          "depth": 3,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_D/Pasywa_D_I/Pasywa_D_I_3/Pasywa_D_I_3_2",
+          "current": "2454683.27",
+          "previous": "3417094.15",
+          "previous_closing": "3417094.15",
+          "amounts": {
+            "KwotaA": "2454683.27",
+            "KwotaB": "3417094.15",
+            "KwotaB1": "3417094.15"
+          }
+        },
+        {
+          "code": "D.II",
+          "label": "D II",
+          "depth": 1,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_D/Pasywa_D_II",
+          "current": "251617.83",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "251617.83",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "D.II.3",
+          "label": "D II 3",
+          "depth": 2,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_D/Pasywa_D_II/Pasywa_D_II_3",
+          "current": "251617.83",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "251617.83",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "D.II.3.C",
+          "label": "D II 3 C",
+          "depth": 3,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_D/Pasywa_D_II/Pasywa_D_II_3/Pasywa_D_II_3_C",
+          "current": "251617.83",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "251617.83",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "D.III",
+          "label": "D III",
+          "depth": 1,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_D/Pasywa_D_III",
+          "current": "57004929.36",
+          "previous": "61368451.23",
+          "previous_closing": "61368451.23",
+          "amounts": {
+            "KwotaA": "57004929.36",
+            "KwotaB": "61368451.23",
+            "KwotaB1": "61368451.23"
+          }
+        },
+        {
+          "code": "D.III.1",
+          "label": "D III 1",
+          "depth": 2,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_D/Pasywa_D_III/Pasywa_D_III_1",
+          "current": "17220413.39",
+          "previous": "34047049.05",
+          "previous_closing": "34047049.05",
+          "amounts": {
+            "KwotaA": "17220413.39",
+            "KwotaB": "34047049.05",
+            "KwotaB1": "34047049.05"
+          }
+        },
+        {
+          "code": "D.III.1.A",
+          "label": "D III 1 A",
+          "depth": 3,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_D/Pasywa_D_III/Pasywa_D_III_1/Pasywa_D_III_1_A",
+          "current": "1448760.51",
+          "previous": "2231812.20",
+          "previous_closing": "2231812.20",
+          "amounts": {
+            "KwotaA": "1448760.51",
+            "KwotaB": "2231812.20",
+            "KwotaB1": "2231812.20"
+          }
+        },
+        {
+          "code": "D.III.1.A.1",
+          "label": "D III 1 A 1",
+          "depth": 4,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_D/Pasywa_D_III/Pasywa_D_III_1/Pasywa_D_III_1_A/Pasywa_D_III_1_A_1",
+          "current": "1448760.51",
+          "previous": "2231812.20",
+          "previous_closing": "2231812.20",
+          "amounts": {
+            "KwotaA": "1448760.51",
+            "KwotaB": "2231812.20",
+            "KwotaB1": "2231812.20"
+          }
+        },
+        {
+          "code": "D.III.1.B",
+          "label": "D III 1 B",
+          "depth": 3,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_D/Pasywa_D_III/Pasywa_D_III_1/Pasywa_D_III_1_B",
+          "current": "15771652.88",
+          "previous": "31815236.85",
+          "previous_closing": "31815236.85",
+          "amounts": {
+            "KwotaA": "15771652.88",
+            "KwotaB": "31815236.85",
+            "KwotaB1": "31815236.85"
+          }
+        },
+        {
+          "code": "D.III.2",
+          "label": "D III 2",
+          "depth": 2,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_D/Pasywa_D_III/Pasywa_D_III_2",
+          "current": "0",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "0",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "D.III.2.A",
+          "label": "D III 2 A",
+          "depth": 3,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_D/Pasywa_D_III/Pasywa_D_III_2/Pasywa_D_III_2_A",
+          "current": "0",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "0",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "D.III.3",
+          "label": "D III 3",
+          "depth": 2,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_D/Pasywa_D_III/Pasywa_D_III_3",
+          "current": "39431984.47",
+          "previous": "26900678.46",
+          "previous_closing": "26900678.46",
+          "amounts": {
+            "KwotaA": "39431984.47",
+            "KwotaB": "26900678.46",
+            "KwotaB1": "26900678.46"
+          }
+        },
+        {
+          "code": "D.III.3.A",
+          "label": "D III 3 A",
+          "depth": 3,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_D/Pasywa_D_III/Pasywa_D_III_3/Pasywa_D_III_3_A",
+          "current": "20000000",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "20000000",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "D.III.3.C",
+          "label": "D III 3 C",
+          "depth": 3,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_D/Pasywa_D_III/Pasywa_D_III_3/Pasywa_D_III_3_C",
+          "current": "143135.98",
+          "previous": "12455.73",
+          "previous_closing": "12455.73",
+          "amounts": {
+            "KwotaA": "143135.98",
+            "KwotaB": "12455.73",
+            "KwotaB1": "12455.73"
+          }
+        },
+        {
+          "code": "D.III.3.D",
+          "label": "D III 3 D",
+          "depth": 3,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_D/Pasywa_D_III/Pasywa_D_III_3/Pasywa_D_III_3_D",
+          "current": "10225789.58",
+          "previous": "10755471.25",
+          "previous_closing": "10755471.25",
+          "amounts": {
+            "KwotaA": "10225789.58",
+            "KwotaB": "10755471.25",
+            "KwotaB1": "10755471.25"
+          }
+        },
+        {
+          "code": "D.III.3.D.1",
+          "label": "D III 3 D 1",
+          "depth": 4,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_D/Pasywa_D_III/Pasywa_D_III_3/Pasywa_D_III_3_D/Pasywa_D_III_3_D_1",
+          "current": "10225789.58",
+          "previous": "10755471.25",
+          "previous_closing": "10755471.25",
+          "amounts": {
+            "KwotaA": "10225789.58",
+            "KwotaB": "10755471.25",
+            "KwotaB1": "10755471.25"
+          }
+        },
+        {
+          "code": "D.III.3.E",
+          "label": "D III 3 E",
+          "depth": 3,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_D/Pasywa_D_III/Pasywa_D_III_3/Pasywa_D_III_3_E",
+          "current": "1702.47",
+          "previous": "680.71",
+          "previous_closing": "680.71",
+          "amounts": {
+            "KwotaA": "1702.47",
+            "KwotaB": "680.71",
+            "KwotaB1": "680.71"
+          }
+        },
+        {
+          "code": "D.III.3.G",
+          "label": "D III 3 G",
+          "depth": 3,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_D/Pasywa_D_III/Pasywa_D_III_3/Pasywa_D_III_3_G",
+          "current": "1962166.61",
+          "previous": "7604786.02",
+          "previous_closing": "7604786.02",
+          "amounts": {
+            "KwotaA": "1962166.61",
+            "KwotaB": "7604786.02",
+            "KwotaB1": "7604786.02"
+          }
+        },
+        {
+          "code": "D.III.3.H",
+          "label": "D III 3 H",
+          "depth": 3,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_D/Pasywa_D_III/Pasywa_D_III_3/Pasywa_D_III_3_H",
+          "current": "1864011.27",
+          "previous": "1981773.85",
+          "previous_closing": "1981773.85",
+          "amounts": {
+            "KwotaA": "1864011.27",
+            "KwotaB": "1981773.85",
+            "KwotaB1": "1981773.85"
+          }
+        },
+        {
+          "code": "D.III.3.I",
+          "label": "D III 3 I",
+          "depth": 3,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_D/Pasywa_D_III/Pasywa_D_III_3/Pasywa_D_III_3_I",
+          "current": "5235178.56",
+          "previous": "6545510.90",
+          "previous_closing": "6545510.90",
+          "amounts": {
+            "KwotaA": "5235178.56",
+            "KwotaB": "6545510.90",
+            "KwotaB1": "6545510.90"
+          }
+        },
+        {
+          "code": "D.III.4",
+          "label": "D III 4",
+          "depth": 2,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_D/Pasywa_D_III/Pasywa_D_III_4",
+          "current": "352531.50",
+          "previous": "420723.72",
+          "previous_closing": "420723.72",
+          "amounts": {
+            "KwotaA": "352531.50",
+            "KwotaB": "420723.72",
+            "KwotaB1": "420723.72"
+          }
+        },
+        {
+          "code": "D.IV",
+          "label": "D IV",
+          "depth": 1,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_D/Pasywa_D_IV",
+          "current": "1084728.41",
+          "previous": "1061337.00",
+          "previous_closing": "1061337.00",
+          "amounts": {
+            "KwotaA": "1084728.41",
+            "KwotaB": "1061337.00",
+            "KwotaB1": "1061337.00"
+          }
+        },
+        {
+          "code": "D.IV.2",
+          "label": "D IV 2",
+          "depth": 2,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_D/Pasywa_D_IV/Pasywa_D_IV_2",
+          "current": "1084728.41",
+          "previous": "1061337.00",
+          "previous_closing": "1061337.00",
+          "amounts": {
+            "KwotaA": "1084728.41",
+            "KwotaB": "1061337.00",
+            "KwotaB1": "1061337.00"
+          }
+        },
+        {
+          "code": "D.IV.2.1",
+          "label": "D IV 2 1",
+          "depth": 3,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_D/Pasywa_D_IV/Pasywa_D_IV_2/Pasywa_D_IV_2_1",
+          "current": "1081453.60",
+          "previous": "1061337.00",
+          "previous_closing": "1061337.00",
+          "amounts": {
+            "KwotaA": "1081453.60",
+            "KwotaB": "1061337.00",
+            "KwotaB1": "1061337.00"
+          }
+        },
+        {
+          "code": "D.IV.2.2",
+          "label": "D IV 2 2",
+          "depth": 3,
+          "path_in_xml": "Bilans/Pasywa/Pasywa_D/Pasywa_D_IV/Pasywa_D_IV_2/Pasywa_D_IV_2_2",
+          "current": "3274.81",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "3274.81",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        }
+      ]
+    },
+    "rzis": {
+      "title": "Rachunek zysków i strat",
+      "rows": [
+        {
+          "code": "A",
+          "label": "A",
+          "depth": 0,
+          "path_in_xml": "RZiS/RZiSPor/A",
+          "current": "155913364.99",
+          "previous": "393288178.85",
+          "previous_closing": "393288178.85",
+          "amounts": {
+            "KwotaA": "155913364.99",
+            "KwotaB": "393288178.85",
+            "KwotaB1": "393288178.85"
+          }
+        },
+        {
+          "code": "A.J",
+          "label": "A J",
+          "depth": 1,
+          "path_in_xml": "RZiS/RZiSPor/A/A_J",
+          "current": "44564934.56",
+          "previous": "163383642.00",
+          "previous_closing": "163383642.00",
+          "amounts": {
+            "KwotaA": "44564934.56",
+            "KwotaB": "163383642.00",
+            "KwotaB1": "163383642.00"
+          }
+        },
+        {
+          "code": "A.I",
+          "label": "A I",
+          "depth": 1,
+          "path_in_xml": "RZiS/RZiSPor/A/A_I",
+          "current": "105977181.66",
+          "previous": "286987112.20",
+          "previous_closing": "286987112.20",
+          "amounts": {
+            "KwotaA": "105977181.66",
+            "KwotaB": "286987112.20",
+            "KwotaB1": "286987112.20"
+          }
+        },
+        {
+          "code": "A.II",
+          "label": "A II",
+          "depth": 1,
+          "path_in_xml": "RZiS/RZiSPor/A/A_II",
+          "current": "-8427967.05",
+          "previous": "8878122.48",
+          "previous_closing": "8878122.48",
+          "amounts": {
+            "KwotaA": "-8427967.05",
+            "KwotaB": "8878122.48",
+            "KwotaB1": "8878122.48"
+          }
+        },
+        {
+          "code": "A.III",
+          "label": "A III",
+          "depth": 1,
+          "path_in_xml": "RZiS/RZiSPor/A/A_III",
+          "current": "142338.03",
+          "previous": "1315264.30",
+          "previous_closing": "1315264.30",
+          "amounts": {
+            "KwotaA": "142338.03",
+            "KwotaB": "1315264.30",
+            "KwotaB1": "1315264.30"
+          }
+        },
+        {
+          "code": "A.IV",
+          "label": "A IV",
+          "depth": 1,
+          "path_in_xml": "RZiS/RZiSPor/A/A_IV",
+          "current": "58221812.35",
+          "previous": "96107679.87",
+          "previous_closing": "96107679.87",
+          "amounts": {
+            "KwotaA": "58221812.35",
+            "KwotaB": "96107679.87",
+            "KwotaB1": "96107679.87"
+          }
+        },
+        {
+          "code": "B",
+          "label": "B",
+          "depth": 0,
+          "path_in_xml": "RZiS/RZiSPor/B",
+          "current": "157826641.93",
+          "previous": "319248038.86",
+          "previous_closing": "319248038.86",
+          "amounts": {
+            "KwotaA": "157826641.93",
+            "KwotaB": "319248038.86",
+            "KwotaB1": "319248038.86"
+          }
+        },
+        {
+          "code": "B.I",
+          "label": "B I",
+          "depth": 1,
+          "path_in_xml": "RZiS/RZiSPor/B/B_I",
+          "current": "7280049.11",
+          "previous": "4949352.52",
+          "previous_closing": "4949352.52",
+          "amounts": {
+            "KwotaA": "7280049.11",
+            "KwotaB": "4949352.52",
+            "KwotaB1": "4949352.52"
+          }
+        },
+        {
+          "code": "B.II",
+          "label": "B II",
+          "depth": 1,
+          "path_in_xml": "RZiS/RZiSPor/B/B_II",
+          "current": "53580604.95",
+          "previous": "171275355.98",
+          "previous_closing": "171275355.98",
+          "amounts": {
+            "KwotaA": "53580604.95",
+            "KwotaB": "171275355.98",
+            "KwotaB1": "171275355.98"
+          }
+        },
+        {
+          "code": "B.III",
+          "label": "B III",
+          "depth": 1,
+          "path_in_xml": "RZiS/RZiSPor/B/B_III",
+          "current": "9925367.62",
+          "previous": "13149650.31",
+          "previous_closing": "13149650.31",
+          "amounts": {
+            "KwotaA": "9925367.62",
+            "KwotaB": "13149650.31",
+            "KwotaB1": "13149650.31"
+          }
+        },
+        {
+          "code": "B.IV",
+          "label": "B IV",
+          "depth": 1,
+          "path_in_xml": "RZiS/RZiSPor/B/B_IV",
+          "current": "3505211.68",
+          "previous": "3873999.20",
+          "previous_closing": "3873999.20",
+          "amounts": {
+            "KwotaA": "3505211.68",
+            "KwotaB": "3873999.20",
+            "KwotaB1": "3873999.20"
+          }
+        },
+        {
+          "code": "B.V",
+          "label": "B V",
+          "depth": 1,
+          "path_in_xml": "RZiS/RZiSPor/B/B_V",
+          "current": "30881910.89",
+          "previous": "40505780.25",
+          "previous_closing": "40505780.25",
+          "amounts": {
+            "KwotaA": "30881910.89",
+            "KwotaB": "40505780.25",
+            "KwotaB1": "40505780.25"
+          }
+        },
+        {
+          "code": "B.VI",
+          "label": "B VI",
+          "depth": 1,
+          "path_in_xml": "RZiS/RZiSPor/B/B_VI",
+          "current": "6364028.67",
+          "previous": "9678751.87",
+          "previous_closing": "9678751.87",
+          "amounts": {
+            "KwotaA": "6364028.67",
+            "KwotaB": "9678751.87",
+            "KwotaB1": "9678751.87"
+          }
+        },
+        {
+          "code": "B.VI.1",
+          "label": "B VI 1",
+          "depth": 2,
+          "path_in_xml": "RZiS/RZiSPor/B/B_VI/B_VI_1",
+          "current": "2677833.85",
+          "previous": "3681152.76",
+          "previous_closing": "3681152.76",
+          "amounts": {
+            "KwotaA": "2677833.85",
+            "KwotaB": "3681152.76",
+            "KwotaB1": "3681152.76"
+          }
+        },
+        {
+          "code": "B.VII",
+          "label": "B VII",
+          "depth": 1,
+          "path_in_xml": "RZiS/RZiSPor/B/B_VII",
+          "current": "3026658.90",
+          "previous": "6632280.93",
+          "previous_closing": "6632280.93",
+          "amounts": {
+            "KwotaA": "3026658.90",
+            "KwotaB": "6632280.93",
+            "KwotaB1": "6632280.93"
+          }
+        },
+        {
+          "code": "B.VIII",
+          "label": "B VIII",
+          "depth": 1,
+          "path_in_xml": "RZiS/RZiSPor/B/B_VIII",
+          "current": "43262810.11",
+          "previous": "69182867.80",
+          "previous_closing": "69182867.80",
+          "amounts": {
+            "KwotaA": "43262810.11",
+            "KwotaB": "69182867.80",
+            "KwotaB1": "69182867.80"
+          }
+        },
+        {
+          "code": "C",
+          "label": "C",
+          "depth": 0,
+          "path_in_xml": "RZiS/RZiSPor/C",
+          "current": "-1913276.94",
+          "previous": "74040139.99",
+          "previous_closing": "74040139.99",
+          "amounts": {
+            "KwotaA": "-1913276.94",
+            "KwotaB": "74040139.99",
+            "KwotaB1": "74040139.99"
+          }
+        },
+        {
+          "code": "D",
+          "label": "D",
+          "depth": 0,
+          "path_in_xml": "RZiS/RZiSPor/D",
+          "current": "669239.11",
+          "previous": "1084024.55",
+          "previous_closing": "1084024.55",
+          "amounts": {
+            "KwotaA": "669239.11",
+            "KwotaB": "1084024.55",
+            "KwotaB1": "1084024.55"
+          }
+        },
+        {
+          "code": "D.I",
+          "label": "D I",
+          "depth": 1,
+          "path_in_xml": "RZiS/RZiSPor/D/D_I",
+          "current": "47212.93",
+          "previous": "40462.84",
+          "previous_closing": "40462.84",
+          "amounts": {
+            "KwotaA": "47212.93",
+            "KwotaB": "40462.84",
+            "KwotaB1": "40462.84"
+          }
+        },
+        {
+          "code": "D.IV",
+          "label": "D IV",
+          "depth": 1,
+          "path_in_xml": "RZiS/RZiSPor/D/D_IV",
+          "current": "622026.18",
+          "previous": "1043561.71",
+          "previous_closing": "1043561.71",
+          "amounts": {
+            "KwotaA": "622026.18",
+            "KwotaB": "1043561.71",
+            "KwotaB1": "1043561.71"
+          }
+        },
+        {
+          "code": "E",
+          "label": "E",
+          "depth": 0,
+          "path_in_xml": "RZiS/RZiSPor/E",
+          "current": "18214295.47",
+          "previous": "7916276.33",
+          "previous_closing": "7916276.33",
+          "amounts": {
+            "KwotaA": "18214295.47",
+            "KwotaB": "7916276.33",
+            "KwotaB1": "7916276.33"
+          }
+        },
+        {
+          "code": "E.II",
+          "label": "E II",
+          "depth": 1,
+          "path_in_xml": "RZiS/RZiSPor/E/E_II",
+          "current": "16804577.31",
+          "previous": "6338371.22",
+          "previous_closing": "6338371.22",
+          "amounts": {
+            "KwotaA": "16804577.31",
+            "KwotaB": "6338371.22",
+            "KwotaB1": "6338371.22"
+          }
+        },
+        {
+          "code": "E.III",
+          "label": "E III",
+          "depth": 1,
+          "path_in_xml": "RZiS/RZiSPor/E/E_III",
+          "current": "1409718.16",
+          "previous": "1577905.11",
+          "previous_closing": "1577905.11",
+          "amounts": {
+            "KwotaA": "1409718.16",
+            "KwotaB": "1577905.11",
+            "KwotaB1": "1577905.11"
+          }
+        },
+        {
+          "code": "F",
+          "label": "F",
+          "depth": 0,
+          "path_in_xml": "RZiS/RZiSPor/F",
+          "current": "-19458333.30",
+          "previous": "67207888.21",
+          "previous_closing": "67207888.21",
+          "amounts": {
+            "KwotaA": "-19458333.30",
+            "KwotaB": "67207888.21",
+            "KwotaB1": "67207888.21"
+          }
+        },
+        {
+          "code": "G",
+          "label": "G",
+          "depth": 0,
+          "path_in_xml": "RZiS/RZiSPor/G",
+          "current": "631331.72",
+          "previous": "2418459.92",
+          "previous_closing": "2418459.92",
+          "amounts": {
+            "KwotaA": "631331.72",
+            "KwotaB": "2418459.92",
+            "KwotaB1": "2418459.92"
+          }
+        },
+        {
+          "code": "G.II",
+          "label": "G II",
+          "depth": 1,
+          "path_in_xml": "RZiS/RZiSPor/G/G_II",
+          "current": "624294.05",
+          "previous": "2410451.05",
+          "previous_closing": "2410451.05",
+          "amounts": {
+            "KwotaA": "624294.05",
+            "KwotaB": "2410451.05",
+            "KwotaB1": "2410451.05"
+          }
+        },
+        {
+          "code": "G.II.J",
+          "label": "G II J",
+          "depth": 2,
+          "path_in_xml": "RZiS/RZiSPor/G/G_II/G_II_J",
+          "current": "462860.43",
+          "previous": "2359401.44",
+          "previous_closing": "2359401.44",
+          "amounts": {
+            "KwotaA": "462860.43",
+            "KwotaB": "2359401.44",
+            "KwotaB1": "2359401.44"
+          }
+        },
+        {
+          "code": "G.V",
+          "label": "G V",
+          "depth": 1,
+          "path_in_xml": "RZiS/RZiSPor/G/G_V",
+          "current": "7037.67",
+          "previous": "8008.87",
+          "previous_closing": "8008.87",
+          "amounts": {
+            "KwotaA": "7037.67",
+            "KwotaB": "8008.87",
+            "KwotaB1": "8008.87"
+          }
+        },
+        {
+          "code": "H",
+          "label": "H",
+          "depth": 0,
+          "path_in_xml": "RZiS/RZiSPor/H",
+          "current": "2812566.68",
+          "previous": "1751780.97",
+          "previous_closing": "1751780.97",
+          "amounts": {
+            "KwotaA": "2812566.68",
+            "KwotaB": "1751780.97",
+            "KwotaB1": "1751780.97"
+          }
+        },
+        {
+          "code": "H.I",
+          "label": "H I",
+          "depth": 1,
+          "path_in_xml": "RZiS/RZiSPor/H/H_I",
+          "current": "2619087.50",
+          "previous": "1290095.87",
+          "previous_closing": "1290095.87",
+          "amounts": {
+            "KwotaA": "2619087.50",
+            "KwotaB": "1290095.87",
+            "KwotaB1": "1290095.87"
+          }
+        },
+        {
+          "code": "H.I.J",
+          "label": "H I J",
+          "depth": 2,
+          "path_in_xml": "RZiS/RZiSPor/H/H_I/H_I_J",
+          "current": "1865594.28",
+          "previous": "601021.06",
+          "previous_closing": "601021.06",
+          "amounts": {
+            "KwotaA": "1865594.28",
+            "KwotaB": "601021.06",
+            "KwotaB1": "601021.06"
+          }
+        },
+        {
+          "code": "H.IV",
+          "label": "H IV",
+          "depth": 1,
+          "path_in_xml": "RZiS/RZiSPor/H/H_IV",
+          "current": "193479.18",
+          "previous": "461685.10",
+          "previous_closing": "461685.10",
+          "amounts": {
+            "KwotaA": "193479.18",
+            "KwotaB": "461685.10",
+            "KwotaB1": "461685.10"
+          }
+        },
+        {
+          "code": "J",
+          "label": "J",
+          "depth": 0,
+          "path_in_xml": "RZiS/RZiSPor/J",
+          "current": "-21639568.26",
+          "previous": "67874567.16",
+          "previous_closing": "67874567.16",
+          "amounts": {
+            "KwotaA": "-21639568.26",
+            "KwotaB": "67874567.16",
+            "KwotaB1": "67874567.16"
+          }
+        },
+        {
+          "code": "K",
+          "label": "K",
+          "depth": 0,
+          "path_in_xml": "RZiS/RZiSPor/K",
+          "current": "0",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "0",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "L",
+          "label": "L",
+          "depth": 0,
+          "path_in_xml": "RZiS/RZiSPor/L",
+          "current": "0",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "0",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "N",
+          "label": "N",
+          "depth": 0,
+          "path_in_xml": "RZiS/RZiSPor/N",
+          "current": "-21639568.26",
+          "previous": "67874567.16",
+          "previous_closing": "67874567.16",
+          "amounts": {
+            "KwotaA": "-21639568.26",
+            "KwotaB": "67874567.16",
+            "KwotaB1": "67874567.16"
+          }
+        },
+        {
+          "code": "O",
+          "label": "O",
+          "depth": 0,
+          "path_in_xml": "RZiS/RZiSPor/O",
+          "current": "-3437700.28",
+          "previous": "12869209",
+          "previous_closing": "12869209",
+          "amounts": {
+            "KwotaA": "-3437700.28",
+            "KwotaB": "12869209",
+            "KwotaB1": "12869209"
+          }
+        },
+        {
+          "code": "S",
+          "label": "S",
+          "depth": 0,
+          "path_in_xml": "RZiS/RZiSPor/S",
+          "current": "-18201867.98",
+          "previous": "55005358.16",
+          "previous_closing": "55005358.16",
+          "amounts": {
+            "KwotaA": "-18201867.98",
+            "KwotaB": "55005358.16",
+            "KwotaB1": "55005358.16"
+          }
+        }
+      ]
+    },
+    "equity": {
+      "title": "Zestawienie zmian w kapitale",
+      "rows": [
+        {
+          "code": "I",
+          "label": "I",
+          "depth": 0,
+          "path_in_xml": "ZestZmianWKapitale/I",
+          "current": "265167276.46",
+          "previous": "216161918.30",
+          "previous_closing": "216161918.30",
+          "amounts": {
+            "KwotaA": "265167276.46",
+            "KwotaB": "216161918.30",
+            "KwotaB1": "216161918.30"
+          }
+        },
+        {
+          "code": "IA",
+          "label": "IA",
+          "depth": 0,
+          "path_in_xml": "ZestZmianWKapitale/IA",
+          "current": "265167276.46",
+          "previous": "216161918.30",
+          "previous_closing": "216161918.30",
+          "amounts": {
+            "KwotaA": "265167276.46",
+            "KwotaB": "216161918.30",
+            "KwotaB1": "216161918.30"
+          }
+        },
+        {
+          "code": "IA.1",
+          "label": "IA 1",
+          "depth": 0,
+          "path_in_xml": "ZestZmianWKapitale/IA/IA_1",
+          "current": "4200000",
+          "previous": "4200000",
+          "previous_closing": "4200000",
+          "amounts": {
+            "KwotaA": "4200000",
+            "KwotaB": "4200000",
+            "KwotaB1": "4200000"
+          }
+        },
+        {
+          "code": "IA.1.2",
+          "label": "IA 1 2",
+          "depth": 1,
+          "path_in_xml": "ZestZmianWKapitale/IA/IA_1/IA_1_2",
+          "current": "4200000",
+          "previous": "4200000",
+          "previous_closing": "4200000",
+          "amounts": {
+            "KwotaA": "4200000",
+            "KwotaB": "4200000",
+            "KwotaB1": "4200000"
+          }
+        },
+        {
+          "code": "IA.4",
+          "label": "IA 4",
+          "depth": 0,
+          "path_in_xml": "ZestZmianWKapitale/IA/IA_4",
+          "current": "203998757.25",
+          "previous": "147294948.43",
+          "previous_closing": "147294948.43",
+          "amounts": {
+            "KwotaA": "203998757.25",
+            "KwotaB": "147294948.43",
+            "KwotaB1": "147294948.43"
+          }
+        },
+        {
+          "code": "IA.4.1",
+          "label": "IA 4 1",
+          "depth": 1,
+          "path_in_xml": "ZestZmianWKapitale/IA/IA_4/IA_4_1",
+          "current": "50005357.16",
+          "previous": "56703808.82",
+          "previous_closing": "56703808.82",
+          "amounts": {
+            "KwotaA": "50005357.16",
+            "KwotaB": "56703808.82",
+            "KwotaB1": "56703808.82"
+          }
+        },
+        {
+          "code": "IA.4.1.A",
+          "label": "IA 4 1 A",
+          "depth": 2,
+          "path_in_xml": "ZestZmianWKapitale/IA/IA_4/IA_4_1/IA_4_1_A",
+          "current": "50005357.16",
+          "previous": "56703808.82",
+          "previous_closing": "56703808.82",
+          "amounts": {
+            "KwotaA": "50005357.16",
+            "KwotaB": "56703808.82",
+            "KwotaB1": "56703808.82"
+          }
+        },
+        {
+          "code": "IA.4.1.A.3",
+          "label": "IA 4 1 A 3",
+          "depth": 3,
+          "path_in_xml": "ZestZmianWKapitale/IA/IA_4/IA_4_1/IA_4_1_A/IA_4_1_A_3",
+          "current": "50005357.16",
+          "previous": "56703808.82",
+          "previous_closing": "56703808.82",
+          "amounts": {
+            "KwotaA": "50005357.16",
+            "KwotaB": "56703808.82",
+            "KwotaB1": "56703808.82"
+          }
+        },
+        {
+          "code": "IA.4.2",
+          "label": "IA 4 2",
+          "depth": 1,
+          "path_in_xml": "ZestZmianWKapitale/IA/IA_4/IA_4_2",
+          "current": "254004114.41",
+          "previous": "203998757.25",
+          "previous_closing": "203998757.25",
+          "amounts": {
+            "KwotaA": "254004114.41",
+            "KwotaB": "203998757.25",
+            "KwotaB1": "203998757.25"
+          }
+        },
+        {
+          "code": "IA.5",
+          "label": "IA 5",
+          "depth": 0,
+          "path_in_xml": "ZestZmianWKapitale/IA/IA_5",
+          "current": "1767827.73",
+          "previous": "1767827.73",
+          "previous_closing": "1767827.73",
+          "amounts": {
+            "KwotaA": "1767827.73",
+            "KwotaB": "1767827.73",
+            "KwotaB1": "1767827.73"
+          }
+        },
+        {
+          "code": "IA.5.2",
+          "label": "IA 5 2",
+          "depth": 1,
+          "path_in_xml": "ZestZmianWKapitale/IA/IA_5/IA_5_2",
+          "current": "1767827.73",
+          "previous": "1767827.73",
+          "previous_closing": "1767827.73",
+          "amounts": {
+            "KwotaA": "1767827.73",
+            "KwotaB": "1767827.73",
+            "KwotaB1": "1767827.73"
+          }
+        },
+        {
+          "code": "IA.8",
+          "label": "IA 8",
+          "depth": 0,
+          "path_in_xml": "ZestZmianWKapitale/IA/IA_8",
+          "current": "195333.32",
+          "previous": "-383713.01",
+          "previous_closing": "-383713.01",
+          "amounts": {
+            "KwotaA": "195333.32",
+            "KwotaB": "-383713.01",
+            "KwotaB1": "-383713.01"
+          }
+        },
+        {
+          "code": "IA.8.1",
+          "label": "IA 8 1",
+          "depth": 1,
+          "path_in_xml": "ZestZmianWKapitale/IA/IA_8/IA_8_1",
+          "current": "195333.32",
+          "previous": "1337421.27",
+          "previous_closing": "1337421.27",
+          "amounts": {
+            "KwotaA": "195333.32",
+            "KwotaB": "1337421.27",
+            "KwotaB1": "1337421.27"
+          }
+        },
+        {
+          "code": "IA.8.2",
+          "label": "IA 8 2",
+          "depth": 1,
+          "path_in_xml": "ZestZmianWKapitale/IA/IA_8/IA_8_2",
+          "current": "195333.32",
+          "previous": "1337421.27",
+          "previous_closing": "1337421.27",
+          "amounts": {
+            "KwotaA": "195333.32",
+            "KwotaB": "1337421.27",
+            "KwotaB1": "1337421.27"
+          }
+        },
+        {
+          "code": "IA.8.2.A",
+          "label": "IA 8 2 A",
+          "depth": 2,
+          "path_in_xml": "ZestZmianWKapitale/IA/IA_8/IA_8_2/IA_8_2_A",
+          "current": "55005358.16",
+          "previous": "63282855.15",
+          "previous_closing": "63282855.15",
+          "amounts": {
+            "KwotaA": "55005358.16",
+            "KwotaB": "63282855.15",
+            "KwotaB1": "63282855.15"
+          }
+        },
+        {
+          "code": "IA.8.2.A.1",
+          "label": "IA 8 2 A 1",
+          "depth": 3,
+          "path_in_xml": "ZestZmianWKapitale/IA/IA_8/IA_8_2/IA_8_2_A/IA_8_2_A_1",
+          "current": "55005358.16",
+          "previous": "63282855.15",
+          "previous_closing": "63282855.15",
+          "amounts": {
+            "KwotaA": "55005358.16",
+            "KwotaB": "63282855.15",
+            "KwotaB1": "63282855.15"
+          }
+        },
+        {
+          "code": "IA.8.2.B",
+          "label": "IA 8 2 B",
+          "depth": 2,
+          "path_in_xml": "ZestZmianWKapitale/IA/IA_8/IA_8_2/IA_8_2_B",
+          "current": "55005358.16",
+          "previous": "64424943.10",
+          "previous_closing": "64424943.10",
+          "amounts": {
+            "KwotaA": "55005358.16",
+            "KwotaB": "64424943.10",
+            "KwotaB1": "64424943.10"
+          }
+        },
+        {
+          "code": "IA.8.3",
+          "label": "IA 8 3",
+          "depth": 1,
+          "path_in_xml": "ZestZmianWKapitale/IA/IA_8/IA_8_3",
+          "current": "195333.32",
+          "previous": "195333.32",
+          "previous_closing": "195333.32",
+          "amounts": {
+            "KwotaA": "195333.32",
+            "KwotaB": "195333.32",
+            "KwotaB1": "195333.32"
+          }
+        },
+        {
+          "code": "IA.8.4",
+          "label": "IA 8 4",
+          "depth": 1,
+          "path_in_xml": "ZestZmianWKapitale/IA/IA_8/IA_8_4",
+          "current": "0",
+          "previous": "1142087.95",
+          "previous_closing": "1142087.95",
+          "amounts": {
+            "KwotaA": "0",
+            "KwotaB": "1142087.95",
+            "KwotaB1": "1142087.95"
+          }
+        },
+        {
+          "code": "IA.8.5",
+          "label": "IA 8 5",
+          "depth": 1,
+          "path_in_xml": "ZestZmianWKapitale/IA/IA_8/IA_8_5",
+          "current": "0",
+          "previous": "1142087.95",
+          "previous_closing": "1142087.95",
+          "amounts": {
+            "KwotaA": "0",
+            "KwotaB": "1142087.95",
+            "KwotaB1": "1142087.95"
+          }
+        },
+        {
+          "code": "IA.8.5.B",
+          "label": "IA 8 5 B",
+          "depth": 2,
+          "path_in_xml": "ZestZmianWKapitale/IA/IA_8/IA_8_5/IA_8_5_B",
+          "current": "0",
+          "previous": "1142087.95",
+          "previous_closing": "1142087.95",
+          "amounts": {
+            "KwotaA": "0",
+            "KwotaB": "1142087.95",
+            "KwotaB1": "1142087.95"
+          }
+        },
+        {
+          "code": "IA.8.6",
+          "label": "IA 8 6",
+          "depth": 1,
+          "path_in_xml": "ZestZmianWKapitale/IA/IA_8/IA_8_6",
+          "current": "0",
+          "previous": "0.00",
+          "previous_closing": "0.00",
+          "amounts": {
+            "KwotaA": "0",
+            "KwotaB": "0.00",
+            "KwotaB1": "0.00"
+          }
+        },
+        {
+          "code": "IA.8.7",
+          "label": "IA 8 7",
+          "depth": 1,
+          "path_in_xml": "ZestZmianWKapitale/IA/IA_8/IA_8_7",
+          "current": "195333.32",
+          "previous": "195333.32",
+          "previous_closing": "195333.32",
+          "amounts": {
+            "KwotaA": "195333.32",
+            "KwotaB": "195333.32",
+            "KwotaB1": "195333.32"
+          }
+        },
+        {
+          "code": "IA.9",
+          "label": "IA 9",
+          "depth": 0,
+          "path_in_xml": "ZestZmianWKapitale/IA/IA_9",
+          "current": "-18201867.98",
+          "previous": "55005358.16",
+          "previous_closing": "55005358.16",
+          "amounts": {
+            "KwotaA": "-18201867.98",
+            "KwotaB": "55005358.16",
+            "KwotaB1": "55005358.16"
+          }
+        },
+        {
+          "code": "IA.9.A",
+          "label": "IA 9 A",
+          "depth": 1,
+          "path_in_xml": "ZestZmianWKapitale/IA/IA_9/IA_9_A",
+          "current": "0",
+          "previous": "55005358.16",
+          "previous_closing": "55005358.16",
+          "amounts": {
+            "KwotaA": "0",
+            "KwotaB": "55005358.16",
+            "KwotaB1": "55005358.16"
+          }
+        },
+        {
+          "code": "IA.9.B",
+          "label": "IA 9 B",
+          "depth": 1,
+          "path_in_xml": "ZestZmianWKapitale/IA/IA_9/IA_9_B",
+          "current": "18201867.98",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "18201867.98",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "II",
+          "label": "II",
+          "depth": 0,
+          "path_in_xml": "ZestZmianWKapitale/II",
+          "current": "241965407.48",
+          "previous": "265167276.46",
+          "previous_closing": "265167276.46",
+          "amounts": {
+            "KwotaA": "241965407.48",
+            "KwotaB": "265167276.46",
+            "KwotaB1": "265167276.46"
+          }
+        },
+        {
+          "code": "III",
+          "label": "III",
+          "depth": 0,
+          "path_in_xml": "ZestZmianWKapitale/III",
+          "current": "241790257.48",
+          "previous": "259167276.46",
+          "previous_closing": "259167276.46",
+          "amounts": {
+            "KwotaA": "241790257.48",
+            "KwotaB": "259167276.46",
+            "KwotaB1": "259167276.46"
+          }
+        }
+      ]
+    },
+    "cashflow": {
+      "title": "Rachunek przepływów pieniężnych",
+      "rows": [
+        {
+          "code": "A.I",
+          "label": "A I",
+          "depth": 1,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/A/A_I",
+          "current": "-18201867.98",
+          "previous": "55005358.16",
+          "previous_closing": "55005358.16",
+          "amounts": {
+            "KwotaA": "-18201867.98",
+            "KwotaB": "55005358.16",
+            "KwotaB1": "55005358.16"
+          }
+        },
+        {
+          "code": "A.II",
+          "label": "A II",
+          "depth": 1,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/A/A_II",
+          "current": "51616687.79",
+          "previous": "-88923752.52",
+          "previous_closing": "-88923752.52",
+          "amounts": {
+            "KwotaA": "51616687.79",
+            "KwotaB": "-88923752.52",
+            "KwotaB1": "-88923752.52"
+          }
+        },
+        {
+          "code": "A.II.3",
+          "label": "A II 3",
+          "depth": 2,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/A/A_II/A_II_3",
+          "current": "7280049.11",
+          "previous": "4949352.52",
+          "previous_closing": "4949352.52",
+          "amounts": {
+            "KwotaA": "7280049.11",
+            "KwotaB": "4949352.52",
+            "KwotaB1": "4949352.52"
+          }
+        },
+        {
+          "code": "A.II.7",
+          "label": "A II 7",
+          "depth": 2,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/A/A_II/A_II_7",
+          "current": "1993611.87",
+          "previous": "-2410451.05",
+          "previous_closing": "-2410451.05",
+          "amounts": {
+            "KwotaA": "1993611.87",
+            "KwotaB": "-2410451.05",
+            "KwotaB1": "-2410451.05"
+          }
+        },
+        {
+          "code": "A.II.8",
+          "label": "A II 8",
+          "depth": 2,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/A/A_II/A_II_8",
+          "current": "-47212.93",
+          "previous": "-40462.84",
+          "previous_closing": "-40462.84",
+          "amounts": {
+            "KwotaA": "-47212.93",
+            "KwotaB": "-40462.84",
+            "KwotaB1": "-40462.84"
+          }
+        },
+        {
+          "code": "A.II.9",
+          "label": "A II 9",
+          "depth": 2,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/A/A_II/A_II_9",
+          "current": "-3105600.09",
+          "previous": "-926444.80",
+          "previous_closing": "-926444.80",
+          "amounts": {
+            "KwotaA": "-3105600.09",
+            "KwotaB": "-926444.80",
+            "KwotaB1": "-926444.80"
+          }
+        },
+        {
+          "code": "A.II.10",
+          "label": "A II 10",
+          "depth": 2,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/A/A_II/A_II_10",
+          "current": "66671386.20",
+          "previous": "-49427441.22",
+          "previous_closing": "-49427441.22",
+          "amounts": {
+            "KwotaA": "66671386.20",
+            "KwotaB": "-49427441.22",
+            "KwotaB1": "-49427441.22"
+          }
+        },
+        {
+          "code": "A.II.11",
+          "label": "A II 11",
+          "depth": 2,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/A/A_II/A_II_11",
+          "current": "-7720080.93",
+          "previous": "2008897.43",
+          "previous_closing": "2008897.43",
+          "amounts": {
+            "KwotaA": "-7720080.93",
+            "KwotaB": "2008897.43",
+            "KwotaB1": "2008897.43"
+          }
+        },
+        {
+          "code": "A.II.12",
+          "label": "A II 12",
+          "depth": 2,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/A/A_II/A_II_12",
+          "current": "-9518832.06",
+          "previous": "-42067022.33",
+          "previous_closing": "-42067022.33",
+          "amounts": {
+            "KwotaA": "-9518832.06",
+            "KwotaB": "-42067022.33",
+            "KwotaB1": "-42067022.33"
+          }
+        },
+        {
+          "code": "A.II.13",
+          "label": "A II 13",
+          "depth": 2,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/A/A_II/A_II_13",
+          "current": "-3936632.38",
+          "previous": "-1010180.23",
+          "previous_closing": "-1010180.23",
+          "amounts": {
+            "KwotaA": "-3936632.38",
+            "KwotaB": "-1010180.23",
+            "KwotaB1": "-1010180.23"
+          }
+        },
+        {
+          "code": "A.II.14",
+          "label": "A II 14",
+          "depth": 2,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/A/A_II/A_II_14",
+          "current": "-1",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "-1",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "A.III",
+          "label": "A III",
+          "depth": 1,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/A/A_III",
+          "current": "33414819.81",
+          "previous": "-33918394.36",
+          "previous_closing": "-33918394.36",
+          "amounts": {
+            "KwotaA": "33414819.81",
+            "KwotaB": "-33918394.36",
+            "KwotaB1": "-33918394.36"
+          }
+        },
+        {
+          "code": "B.I",
+          "label": "B I",
+          "depth": 1,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/B/B_I",
+          "current": "711752.23",
+          "previous": "92515865.37",
+          "previous_closing": "92515865.37",
+          "amounts": {
+            "KwotaA": "711752.23",
+            "KwotaB": "92515865.37",
+            "KwotaB1": "92515865.37"
+          }
+        },
+        {
+          "code": "B.I.1",
+          "label": "B I 1",
+          "depth": 2,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/B/B_I/B_I_1",
+          "current": "87458.18",
+          "previous": "42276.42",
+          "previous_closing": "42276.42",
+          "amounts": {
+            "KwotaA": "87458.18",
+            "KwotaB": "42276.42",
+            "KwotaB1": "42276.42"
+          }
+        },
+        {
+          "code": "B.I.3",
+          "label": "B I 3",
+          "depth": 2,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/B/B_I/B_I_3",
+          "current": "624294.05",
+          "previous": "92473588.95",
+          "previous_closing": "92473588.95",
+          "amounts": {
+            "KwotaA": "624294.05",
+            "KwotaB": "92473588.95",
+            "KwotaB1": "92473588.95"
+          }
+        },
+        {
+          "code": "B.I.3.B",
+          "label": "B I 3 B",
+          "depth": 3,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/B/B_I/B_I_3/B_I_3_B",
+          "current": "624294.05",
+          "previous": "92473588.95",
+          "previous_closing": "92473588.95",
+          "amounts": {
+            "KwotaA": "624294.05",
+            "KwotaB": "92473588.95",
+            "KwotaB1": "92473588.95"
+          }
+        },
+        {
+          "code": "B.I.3.B.4",
+          "label": "B I 3 B 4",
+          "depth": 4,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/B/B_I/B_I_3/B_I_3_B/B_I_3_B_4",
+          "current": "624294.05",
+          "previous": "2410451.05",
+          "previous_closing": "2410451.05",
+          "amounts": {
+            "KwotaA": "624294.05",
+            "KwotaB": "2410451.05",
+            "KwotaB1": "2410451.05"
+          }
+        },
+        {
+          "code": "B.I.3.B.5",
+          "label": "B I 3 B 5",
+          "depth": 4,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/B/B_I/B_I_3/B_I_3_B/B_I_3_B_5",
+          "current": "0",
+          "previous": "90063137.90",
+          "previous_closing": "90063137.90",
+          "amounts": {
+            "KwotaA": "0",
+            "KwotaB": "90063137.90",
+            "KwotaB1": "90063137.90"
+          }
+        },
+        {
+          "code": "B.II",
+          "label": "B II",
+          "depth": 1,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/B/B_II",
+          "current": "31616823.18",
+          "previous": "52303440.26",
+          "previous_closing": "52303440.26",
+          "amounts": {
+            "KwotaA": "31616823.18",
+            "KwotaB": "52303440.26",
+            "KwotaB1": "52303440.26"
+          }
+        },
+        {
+          "code": "B.II.1",
+          "label": "B II 1",
+          "depth": 2,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/B/B_II/B_II_1",
+          "current": "22689935.27",
+          "previous": "52303440.26",
+          "previous_closing": "52303440.26",
+          "amounts": {
+            "KwotaA": "22689935.27",
+            "KwotaB": "52303440.26",
+            "KwotaB1": "52303440.26"
+          }
+        },
+        {
+          "code": "B.II.3",
+          "label": "B II 3",
+          "depth": 2,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/B/B_II/B_II_3",
+          "current": "8926887.91",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "8926887.91",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "B.II.3.B",
+          "label": "B II 3 B",
+          "depth": 3,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/B/B_II/B_II_3/B_II_3_B",
+          "current": "8926887.91",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "8926887.91",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "B.II.3.B.1",
+          "label": "B II 3 B 1",
+          "depth": 4,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/B/B_II/B_II_3/B_II_3_B/B_II_3_B_1",
+          "current": "8926887.91",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "8926887.91",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "B.III",
+          "label": "B III",
+          "depth": 1,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/B/B_III",
+          "current": "-30905070.95",
+          "previous": "40212425.11",
+          "previous_closing": "40212425.11",
+          "amounts": {
+            "KwotaA": "-30905070.95",
+            "KwotaB": "40212425.11",
+            "KwotaB1": "40212425.11"
+          }
+        },
+        {
+          "code": "C.I",
+          "label": "C I",
+          "depth": 1,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/C/C_I",
+          "current": "20382395.73",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "20382395.73",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "C.I.2",
+          "label": "C I 2",
+          "depth": 2,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/C/C_I/C_I_2",
+          "current": "20000000",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "20000000",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "C.I.4",
+          "label": "C I 4",
+          "depth": 2,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/C/C_I/C_I_4",
+          "current": "382395.73",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "382395.73",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "C.II",
+          "label": "C II",
+          "depth": 1,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/C/C_II",
+          "current": "23651106.96",
+          "previous": "6000000",
+          "previous_closing": "6000000",
+          "amounts": {
+            "KwotaA": "23651106.96",
+            "KwotaB": "6000000",
+            "KwotaB1": "6000000"
+          }
+        },
+        {
+          "code": "C.II.2",
+          "label": "C II 2",
+          "depth": 2,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/C/C_II/C_II_2",
+          "current": "5000000",
+          "previous": "6000000",
+          "previous_closing": "6000000",
+          "amounts": {
+            "KwotaA": "5000000",
+            "KwotaB": "6000000",
+            "KwotaB1": "6000000"
+          }
+        },
+        {
+          "code": "C.II.4",
+          "label": "C II 4",
+          "depth": 2,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/C/C_II/C_II_4",
+          "current": "16033103.39",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "16033103.39",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "C.II.6",
+          "label": "C II 6",
+          "depth": 2,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/C/C_II/C_II_6",
+          "current": "97.65",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "97.65",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "C.II.8",
+          "label": "C II 8",
+          "depth": 2,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/C/C_II/C_II_8",
+          "current": "2617905.92",
+          "previous": "0",
+          "previous_closing": "0",
+          "amounts": {
+            "KwotaA": "2617905.92",
+            "KwotaB": "0",
+            "KwotaB1": "0"
+          }
+        },
+        {
+          "code": "C.III",
+          "label": "C III",
+          "depth": 1,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/C/C_III",
+          "current": "-3268711.23",
+          "previous": "-6000000",
+          "previous_closing": "-6000000",
+          "amounts": {
+            "KwotaA": "-3268711.23",
+            "KwotaB": "-6000000",
+            "KwotaB1": "-6000000"
+          }
+        },
+        {
+          "code": "D",
+          "label": "D",
+          "depth": 0,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/D",
+          "current": "-758962.37",
+          "previous": "294030.75",
+          "previous_closing": "294030.75",
+          "amounts": {
+            "KwotaA": "-758962.37",
+            "KwotaB": "294030.75",
+            "KwotaB1": "294030.75"
+          }
+        },
+        {
+          "code": "E",
+          "label": "E",
+          "depth": 0,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/E",
+          "current": "-758962.37",
+          "previous": "294030.75",
+          "previous_closing": "294030.75",
+          "amounts": {
+            "KwotaA": "-758962.37",
+            "KwotaB": "294030.75",
+            "KwotaB1": "294030.75"
+          }
+        },
+        {
+          "code": "E.1",
+          "label": "E 1",
+          "depth": 1,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/E/E_1",
+          "current": "3851.19",
+          "previous": "30329.06",
+          "previous_closing": "30329.06",
+          "amounts": {
+            "KwotaA": "3851.19",
+            "KwotaB": "30329.06",
+            "KwotaB1": "30329.06"
+          }
+        },
+        {
+          "code": "F",
+          "label": "F",
+          "depth": 0,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/F",
+          "current": "1632783.08",
+          "previous": "1338752.33",
+          "previous_closing": "1338752.33",
+          "amounts": {
+            "KwotaA": "1632783.08",
+            "KwotaB": "1338752.33",
+            "KwotaB1": "1338752.33"
+          }
+        },
+        {
+          "code": "G",
+          "label": "G",
+          "depth": 0,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/G",
+          "current": "873820.71",
+          "previous": "1632783.08",
+          "previous_closing": "1632783.08",
+          "amounts": {
+            "KwotaA": "873820.71",
+            "KwotaB": "1632783.08",
+            "KwotaB1": "1632783.08"
+          }
+        },
+        {
+          "code": "G.1",
+          "label": "G 1",
+          "depth": 1,
+          "path_in_xml": "RachPrzeplywow/PrzeplywyPosr/G/G_1",
+          "current": "458732.15",
+          "previous": "1600130.15",
+          "previous_closing": "1600130.15",
+          "amounts": {
+            "KwotaA": "458732.15",
+            "KwotaB": "1600130.15",
+            "KwotaB1": "1600130.15"
+          }
+        }
+      ]
+    },
+    "tax_note": {
+      "title": "Uzgodnienie podstawy opodatkowania",
+      "rows": [
+        {
+          "code": "P_ID_1",
+          "label": "A. Zysk (strata) brutto za dany rok",
+          "path_in_xml": "DodatkoweInformacjeIObjasnieniaJednostkaInna/InformacjaDodatkowaDotyczacaPodatkuDochodowego/P_ID_1",
+          "current_total": "-21639568.26",
+          "current_capital": "",
+          "previous_total": "67874567.16",
+          "previous_capital": ""
+        },
+        {
+          "code": "P_ID_2",
+          "label": "B. Przychody zwolnione z opodatkowania, w tym:",
+          "path_in_xml": "DodatkoweInformacjeIObjasnieniaJednostkaInna/InformacjaDodatkowaDotyczacaPodatkuDochodowego/P_ID_2",
+          "current_total": "352878.53",
+          "current_capital": "0",
+          "previous_total": "352878.53",
+          "previous_capital": "894791.20"
+        },
+        {
+          "code": "P_ID_3",
+          "label": "C. Przychody niepodlegające opodatkowaniu w roku bieżącym, w tym:",
+          "path_in_xml": "DodatkoweInformacjeIObjasnieniaJednostkaInna/InformacjaDodatkowaDotyczacaPodatkuDochodowego/P_ID_3",
+          "current_total": "30685.52",
+          "current_capital": "0",
+          "previous_total": "30685.52",
+          "previous_capital": "0"
+        },
+        {
+          "code": "P_ID_4",
+          "label": "D. Przychody podlegające opodatkowaniu w roku bieżącym, ujęte w księgach lat ubiegłych, w tym:",
+          "path_in_xml": "DodatkoweInformacjeIObjasnieniaJednostkaInna/InformacjaDodatkowaDotyczacaPodatkuDochodowego/P_ID_4",
+          "current_total": "98823.77",
+          "current_capital": "0",
+          "previous_total": "98823.77",
+          "previous_capital": "75748.84"
+        },
+        {
+          "code": "P_ID_5",
+          "label": "E. Koszty niestanowiące kosztów uzyskania przychodów, w tym:",
+          "path_in_xml": "DodatkoweInformacjeIObjasnieniaJednostkaInna/InformacjaDodatkowaDotyczacaPodatkuDochodowego/P_ID_5",
+          "current_total": "1338820.71",
+          "current_capital": "0",
+          "previous_total": "1338820.71",
+          "previous_capital": "7685808.71"
+        },
+        {
+          "code": "P_ID_6",
+          "label": "F. Koszty niestanowiące kosztów uzyskania przychodów rozpoznane w roku bieżącym:",
+          "path_in_xml": "DodatkoweInformacjeIObjasnieniaJednostkaInna/InformacjaDodatkowaDotyczacaPodatkuDochodowego/P_ID_6",
+          "current_total": "14188624.91",
+          "current_capital": "0",
+          "previous_total": "14188624.91",
+          "previous_capital": "-334979.98"
+        },
+        {
+          "code": "P_ID_7",
+          "label": "G. Koszty uznane za koszty uzyskania przychodów w roku bieżącym, ujęte w księgach lat ubiegłych, w tym:",
+          "path_in_xml": "DodatkoweInformacjeIObjasnieniaJednostkaInna/InformacjaDodatkowaDotyczacaPodatkuDochodowego/P_ID_7",
+          "current_total": "354391.06",
+          "current_capital": "0",
+          "previous_total": "354391.06",
+          "previous_capital": "1176133.63"
+        },
+        {
+          "code": "P_ID_8",
+          "label": "H. Strata z lat ubiegłych, w tym:",
+          "path_in_xml": "DodatkoweInformacjeIObjasnieniaJednostkaInna/InformacjaDodatkowaDotyczacaPodatkuDochodowego/P_ID_8",
+          "current_total": "0",
+          "current_capital": "0",
+          "previous_total": "",
+          "previous_capital": ""
+        },
+        {
+          "code": "P_ID_9",
+          "label": "I. Inne zmiany podstawy opodatkowania, w tym:",
+          "path_in_xml": "DodatkoweInformacjeIObjasnieniaJednostkaInna/InformacjaDodatkowaDotyczacaPodatkuDochodowego/P_ID_9",
+          "current_total": "23391.41",
+          "current_capital": "0",
+          "previous_total": "23391.41",
+          "previous_capital": "-36700"
+        },
+        {
+          "code": "P_ID_10",
+          "label": "J. Podstawa opodatkowania podatkiem dochodowym",
+          "path_in_xml": "DodatkoweInformacjeIObjasnieniaJednostkaInna/InformacjaDodatkowaDotyczacaPodatkuDochodowego/P_ID_10",
+          "current_total": "-4676425.00",
+          "current_capital": "",
+          "previous_total": "73398785.00",
+          "previous_capital": ""
+        },
+        {
+          "code": "P_ID_11",
+          "label": "K. Podatek dochodowy",
+          "path_in_xml": "DodatkoweInformacjeIObjasnieniaJednostkaInna/InformacjaDodatkowaDotyczacaPodatkuDochodowego/P_ID_11",
+          "current_total": "0",
+          "current_capital": "",
+          "previous_total": "13945769.00",
+          "previous_capital": ""
+        }
+      ]
+    }
+  }
+}
