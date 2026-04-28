@@ -2,11 +2,17 @@
   "schema_version": "1.0",
   "company_name": "0000418977",
   "krs": "0000418977",
-  "published_at": "2026-04-29",
+  "published_at": "2026-04-23",
   "canonical_path": "companies/0000418977-0000418977/latest",
   "unit_of_measure": "",
-  "start_here": "management_report_ai_txt",
+  "start_here": "financial_statement_ai_view_json",
   "read_order": [
+    {
+      "kind": "financial_statement_ai_view_json",
+      "why": "Fast labeled view of RZiS, bilans, cashflow, equity, and tax note rows.",
+      "path": "",
+      "raw_url": ""
+    },
     {
       "kind": "management_report_ai_txt",
       "why": "Plain-text management report for narrative analysis.",
@@ -14,16 +20,16 @@
       "raw_url": "https://raw.githubusercontent.com/AG-EY-Engineer/prsresults/main/companies/0000418977-0000418977/latest/sprawozdanie_zarzadu_ai.txt"
     },
     {
-      "kind": "financial_statement_ai_txt",
-      "why": "Plain-text extraction from PDF financial statement when XML is unavailable.",
-      "path": "companies/0000418977-0000418977/latest/sprawozdanie_finansowe_ai.txt",
-      "raw_url": "https://raw.githubusercontent.com/AG-EY-Engineer/prsresults/main/companies/0000418977-0000418977/latest/sprawozdanie_finansowe_ai.txt"
+      "kind": "financial_statement_ai_json",
+      "why": "Faithful XML mirror for detailed verification and edge cases.",
+      "path": "",
+      "raw_url": ""
     },
     {
-      "kind": "financial_statement_pdf",
-      "why": "Original PDF financial statement.",
-      "path": "companies/0000418977-0000418977/latest/sprawozdanie_finansowe.pdf",
-      "raw_url": "https://raw.githubusercontent.com/AG-EY-Engineer/prsresults/main/companies/0000418977-0000418977/latest/sprawozdanie_finansowe.pdf"
+      "kind": "financial_statement_xml",
+      "why": "Original source XML.",
+      "path": "",
+      "raw_url": ""
     },
     {
       "kind": "management_report_pdf",

@@ -2,20 +2,10 @@
   "company_name": "0000418977",
   "krs": "0000418977",
   "status": "downloaded",
-  "published_at": "2026-04-29",
+  "published_at": "2026-04-23",
   "canonical_path": "companies/0000418977-0000418977/latest",
   "history_retention": 3,
   "files": [
-    {
-      "name": "sprawozdanie_finansowe.pdf",
-      "kind": "financial_statement_pdf",
-      "path": "companies/0000418977-0000418977/latest/sprawozdanie_finansowe.pdf"
-    },
-    {
-      "name": "sprawozdanie_finansowe_ai.txt",
-      "kind": "financial_statement_ai_text",
-      "path": "companies/0000418977-0000418977/latest/sprawozdanie_finansowe_ai.txt"
-    },
     {
       "name": "sprawozdanie_zarzadu.pdf",
       "kind": "management_report_pdf",

@@ -200,6 +200,8 @@
     "financial_statement_xml": "",
     "financial_statement_ai_json": "",
     "financial_statement_ai_view_json": "",
+    "financial_statement_pdf": "companies/0000418977-0000418977/latest/sprawozdanie_finansowe.pdf",
+    "financial_statement_ai_txt": "companies/0000418977-0000418977/latest/sprawozdanie_finansowe_ai.txt",
     "management_report_pdf": "companies/0000418977-0000418977/latest/sprawozdanie_zarzadu.pdf",
     "management_report_ai_txt": "companies/0000418977-0000418977/latest/sprawozdanie_zarzadu_ai.txt"
   },
