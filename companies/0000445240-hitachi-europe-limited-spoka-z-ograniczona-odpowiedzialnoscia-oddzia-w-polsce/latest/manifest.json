@@ -1,0 +1,25 @@
+{
+  "company_name": "HITACHI EUROPE LIMITED (SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ) ODDZIAŁ W POLSCE",
+  "krs": "0000445240",
+  "status": "downloaded",
+  "published_at": "2026-05-17",
+  "canonical_path": "companies/0000445240-hitachi-europe-limited-spoka-z-ograniczona-odpowiedzialnoscia-oddzia-w-polsce/latest",
+  "history_retention": 3,
+  "files": [
+    {
+      "name": "sprawozdanie_finansowe.xml",
+      "kind": "financial_statement_xml",
+      "path": "companies/0000445240-hitachi-europe-limited-spoka-z-ograniczona-odpowiedzialnoscia-oddzia-w-polsce/latest/sprawozdanie_finansowe.xml"
+    },
+    {
+      "name": "sprawozdanie_finansowe_ai.json",
+      "kind": "financial_statement_ai_json",
+      "path": "companies/0000445240-hitachi-europe-limited-spoka-z-ograniczona-odpowiedzialnoscia-oddzia-w-polsce/latest/sprawozdanie_finansowe_ai.json"
+    },
+    {
+      "name": "sprawozdanie_finansowe_ai_view.json",
+      "kind": "financial_statement_ai_view_json",
+      "path": "companies/0000445240-hitachi-europe-limited-spoka-z-ograniczona-odpowiedzialnoscia-oddzia-w-polsce/latest/sprawozdanie_finansowe_ai_view.json"
+    }
+  ]
+}
