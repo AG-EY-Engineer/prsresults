@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-05-17T19:37:23",
+  "source_file": "01_roczne-sprawozdanie-finansowe__Hitachi-Digital-P_752446e3.xml",
+  "metadata": {
+    "period_from": "2024-06-06",
+    "period_to": "2024-12-31",
+    "prepared_on": "2025-11-24",
+    "report_code": "SprFinJednostkaMikroWZlotych",
+    "unit_of_measure": "PLN"
+  },
+  "analysis_hint": {
+    "primary_financial_table": "rzis",
+    "preferred_for_basic_numbers": [
+      "rzis",
+      "bilans",
+      "tax_note"
+    ],
+    "note": "Use this file first. For edge cases or disputed figures, fall back to sprawozdanie_finansowe_ai.json and source XML."
+  },
+  "sections": {}
+}
