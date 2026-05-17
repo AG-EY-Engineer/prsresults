@@ -94,6 +94,20 @@
     "management_report_ai_txt": "companies/0000025742-0000025742/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
+    "krs": "0000029914",
+    "company": "Schneider Electric Polska sp. z o.o.",
+    "path": "companies/0000029914-schneider-electric-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest",
+    "manifest": "companies/0000029914-schneider-electric-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/manifest.json",
+    "gpt_manifest": "companies/0000029914-schneider-electric-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/gpt_manifest.json",
+    "financial_statement_xml": "companies/0000029914-schneider-electric-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.xml",
+    "financial_statement_ai_json": "companies/0000029914-schneider-electric-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.json",
+    "financial_statement_ai_view_json": "companies/0000029914-schneider-electric-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_statement_pdf": "",
+    "financial_statement_ai_txt": "",
+    "management_report_pdf": "companies/0000029914-schneider-electric-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000029914-schneider-electric-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
+  },
+  {
     "krs": "0000030931",
     "company": "\"NIBE-BIAWAR\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "path": "companies/0000030931-nibe-biawar-sp-ka-z-ograniczon-odpowiedzialno-ci/latest",
