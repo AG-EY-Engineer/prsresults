@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-05-18T18:23:33",
-  "source_file": "sprawozdanie_finansowe.xml",
+  "generated_at": "2026-05-18T15:19:41",
+  "source_file": "02_roczne-sprawozdanie-finansowe__TUnZ_Sprawozdanie-finans_bf1297f8.xml",
   "root_tag": "ZakladUbezpieczenWTys",
   "root_namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/ZakladUbezpieczenWTysiacach",
   "namespaces": {
