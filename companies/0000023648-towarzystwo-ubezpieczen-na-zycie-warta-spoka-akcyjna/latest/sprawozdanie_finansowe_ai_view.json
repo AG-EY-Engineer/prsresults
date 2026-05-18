@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-05-18T15:19:41",
+  "source_file": "02_roczne-sprawozdanie-finansowe__TUnZ_Sprawozdanie-finans_bf1297f8.xml",
+  "metadata": {
+    "period_from": "2024-01-01",
+    "period_to": "2024-12-31",
+    "prepared_on": "2025-03-25",
+    "report_code": "SprFinZakladUbezpieczenWTysiacach",
+    "unit_of_measure": "tys. PLN"
+  },
+  "analysis_hint": {
+    "primary_financial_table": "rzis",
+    "preferred_for_basic_numbers": [
+      "rzis",
+      "bilans",
+      "tax_note"
+    ],
+    "note": "Use this file first. For edge cases or disputed figures, fall back to sprawozdanie_finansowe_ai.json and source XML."
+  },
+  "sections": {}
+}
