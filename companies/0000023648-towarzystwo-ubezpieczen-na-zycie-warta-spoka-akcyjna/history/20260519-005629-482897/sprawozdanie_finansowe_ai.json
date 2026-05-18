@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-05-19T00:56:28",
+  "generated_at": "2026-05-18T18:23:33",
   "source_file": "sprawozdanie_finansowe.xml",
   "root_tag": "ZakladUbezpieczenWTys",
   "root_namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/ZakladUbezpieczenWTysiacach",
