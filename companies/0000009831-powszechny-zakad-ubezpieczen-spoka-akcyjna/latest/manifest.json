@@ -1,0 +1,20 @@
+{
+  "company_name": "POWSZECHNY ZAKAD UBEZPIECZEN SPOKA AKCYJNA",
+  "krs": "0000009831",
+  "status": "downloaded",
+  "published_at": "2026-05-18",
+  "canonical_path": "companies/0000009831-powszechny-zakad-ubezpieczen-spoka-akcyjna/latest",
+  "history_retention": 3,
+  "files": [
+    {
+      "name": "sprawozdanie_finansowe.pdf",
+      "kind": "financial_statement_pdf",
+      "path": "companies/0000009831-powszechny-zakad-ubezpieczen-spoka-akcyjna/latest/sprawozdanie_finansowe.pdf"
+    },
+    {
+      "name": "sprawozdanie_finansowe_ai.txt",
+      "kind": "financial_statement_ai_text",
+      "path": "companies/0000009831-powszechny-zakad-ubezpieczen-spoka-akcyjna/latest/sprawozdanie_finansowe_ai.txt"
+    }
+  ]
+}
