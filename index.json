@@ -674,6 +674,20 @@
     "management_report_ai_txt": "companies/0000606530-callstack.io-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
+    "krs": "0000660949",
+    "company": "Radio Muzyka Fakty Grupa RMF Sp. z o.o. sp.k.",
+    "path": "companies/0000660949-radio-muzyka-fakty-grupa-rmf-spoka-z-ograniczona-odpowiedzialnoscia-spoka-komand/latest",
+    "manifest": "companies/0000660949-radio-muzyka-fakty-grupa-rmf-spoka-z-ograniczona-odpowiedzialnoscia-spoka-komand/latest/manifest.json",
+    "gpt_manifest": "companies/0000660949-radio-muzyka-fakty-grupa-rmf-spoka-z-ograniczona-odpowiedzialnoscia-spoka-komand/latest/gpt_manifest.json",
+    "financial_statement_xml": "companies/0000660949-radio-muzyka-fakty-grupa-rmf-spoka-z-ograniczona-odpowiedzialnoscia-spoka-komand/latest/sprawozdanie_finansowe.xml",
+    "financial_statement_ai_json": "companies/0000660949-radio-muzyka-fakty-grupa-rmf-spoka-z-ograniczona-odpowiedzialnoscia-spoka-komand/latest/sprawozdanie_finansowe_ai.json",
+    "financial_statement_ai_view_json": "companies/0000660949-radio-muzyka-fakty-grupa-rmf-spoka-z-ograniczona-odpowiedzialnoscia-spoka-komand/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_statement_pdf": "",
+    "financial_statement_ai_txt": "",
+    "management_report_pdf": "companies/0000660949-radio-muzyka-fakty-grupa-rmf-spoka-z-ograniczona-odpowiedzialnoscia-spoka-komand/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000660949-radio-muzyka-fakty-grupa-rmf-spoka-z-ograniczona-odpowiedzialnoscia-spoka-komand/latest/sprawozdanie_zarzadu_ai.txt"
+  },
+  {
     "krs": "0000661579",
     "company": "STOCZNIA CESARSKA DEVELOPMENT SPOKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
     "path": "companies/0000661579-stocznia-cesarska-development-spoka-z-ograniczona-odpowiedzialnoscia/latest",
