@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-05-18T16:26:03",
-  "source_file": "sprawozdanie_finansowe.xml",
+  "generated_at": "2026-05-18T16:06:53",
+  "source_file": "02_roczne-sprawozdanie-finanso_1630ada5_25cbb085_from_xades.xml",
   "root_tag": "JednostkaInna",
   "root_namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2025/01/01/JednostkaInnaWZlotych",
   "namespaces": {
