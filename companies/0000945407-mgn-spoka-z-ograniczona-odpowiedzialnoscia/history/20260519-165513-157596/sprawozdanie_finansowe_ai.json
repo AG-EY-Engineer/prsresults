@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-05-19T16:55:13",
-  "source_file": "sprawozdanie_finansowe.xml",
+  "generated_at": "2026-05-19T15:35:57",
+  "source_file": "02_roczne-sprawozdanie-finansowe__eSPR_report-16-1_23ba18cf.xml",
   "root_tag": "JednostkaMala",
   "root_namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2025/01/01/JednostkaMalaWZlotych",
   "namespaces": {
