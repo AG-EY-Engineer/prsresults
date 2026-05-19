@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-05-19T21:30:59",
-  "source_file": "sprawozdanie_finansowe.xml",
+  "generated_at": "2026-05-19T17:02:04",
+  "source_file": "01_roczne-sprawozdanie-finansowe__MGN-SPOKA-Z-OGRANICZONA-.xml",
   "root_tag": "JednostkaInna",
   "root_namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2025/01/01/JednostkaInnaWZlotych",
   "namespaces": {
