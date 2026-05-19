@@ -1,0 +1,3232 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-05-19T21:32:49",
+  "source_file": "02_roczne-sprawozdanie-finansowe__JAZON-SP.-Z-O.O._000e9aa3.xml",
+  "root_tag": "JednostkaMala",
+  "root_namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaWZlotych",
+  "namespaces": {
+    "default": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaWZlotych",
+    "ns1": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+    "ns2": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+    "ns3": "http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2016/01/25/eD/DefinicjeTypy/",
+    "ns4": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaInnaStruktury",
+    "p5": "http://www.w3.org/2001/XMLSchema-instance"
+  },
+  "metadata": {
+    "period_from": "2024-01-01",
+    "period_to": "2024-12-31",
+    "prepared_on": "2025-03-26",
+    "report_code": "SprFinJednostkaMalaWZlotych"
+  },
+  "leaf_index": [
+    {
+      "path": "JednostkaMala/Naglowek/OkresOd",
+      "tag": "OkresOd",
+      "value": "2024-01-01"
+    },
+    {
+      "path": "JednostkaMala/Naglowek/OkresDo",
+      "tag": "OkresDo",
+      "value": "2024-12-31"
+    },
+    {
+      "path": "JednostkaMala/Naglowek/DataSporzadzenia",
+      "tag": "DataSporzadzenia",
+      "value": "2025-03-26"
+    },
+    {
+      "path": "JednostkaMala/Naglowek/KodSprawozdania",
+      "tag": "KodSprawozdania",
+      "value": "SprFinJednostkaMalaWZlotych"
+    },
+    {
+      "path": "JednostkaMala/Naglowek/WariantSprawozdania",
+      "tag": "WariantSprawozdania",
+      "value": "1"
+    },
+    {
+      "path": "JednostkaMala/WprowadzenieDoSprawozdaniaFinansowegoJednostkaMala/P_1/P_1A/NazwaFirmy",
+      "tag": "NazwaFirmy",
+      "value": "JAZON SP. Z O.O."
+    },
+    {
+      "path": "JednostkaMala/WprowadzenieDoSprawozdaniaFinansowegoJednostkaMala/P_1/P_1A/Siedziba/Wojewodztwo",
+      "tag": "Wojewodztwo",
+      "value": "Podlaskie"
+    },
+    {
+      "path": "JednostkaMala/WprowadzenieDoSprawozdaniaFinansowegoJednostkaMala/P_1/P_1A/Siedziba/Powiat",
+      "tag": "Powiat",
+      "value": "BIAŁOSTOCKI"
+    },
+    {
+      "path": "JednostkaMala/WprowadzenieDoSprawozdaniaFinansowegoJednostkaMala/P_1/P_1A/Siedziba/Gmina",
+      "tag": "Gmina",
+      "value": "M.BIAŁYSTOK"
+    },
+    {
+      "path": "JednostkaMala/WprowadzenieDoSprawozdaniaFinansowegoJednostkaMala/P_1/P_1A/Siedziba/Miejscowosc",
+      "tag": "Miejscowosc",
+      "value": "BIAŁYSTOK"
+    },
+    {
+      "path": "JednostkaMala/WprowadzenieDoSprawozdaniaFinansowegoJednostkaMala/P_1/P_1B/Adres/KodKraju",
+      "tag": "KodKraju",
+      "value": "PL"
+    },
+    {
+      "path": "JednostkaMala/WprowadzenieDoSprawozdaniaFinansowegoJednostkaMala/P_1/P_1B/Adres/Wojewodztwo",
+      "tag": "Wojewodztwo",
+      "value": "Podlaskie"
+    },
+    {
+      "path": "JednostkaMala/WprowadzenieDoSprawozdaniaFinansowegoJednostkaMala/P_1/P_1B/Adres/Powiat",
+      "tag": "Powiat",
+      "value": "BIAŁOSTOCKI"
+    },
+    {
+      "path": "JednostkaMala/WprowadzenieDoSprawozdaniaFinansowegoJednostkaMala/P_1/P_1B/Adres/Gmina",
+      "tag": "Gmina",
+      "value": "M.BIAŁYSTOK"
+    },
+    {
+      "path": "JednostkaMala/WprowadzenieDoSprawozdaniaFinansowegoJednostkaMala/P_1/P_1B/Adres/Ulica",
+      "tag": "Ulica",
+      "value": "WŁADYSŁAWA WYSOCKIEGO"
+    },
+    {
+      "path": "JednostkaMala/WprowadzenieDoSprawozdaniaFinansowegoJednostkaMala/P_1/P_1B/Adres/NrDomu",
+      "tag": "NrDomu",
+      "value": "164A"
+    },
+    {
+      "path": "JednostkaMala/WprowadzenieDoSprawozdaniaFinansowegoJednostkaMala/P_1/P_1B/Adres/Miejscowosc",
+      "tag": "Miejscowosc",
+      "value": "BIAŁYSTOK"
+    },
+    {
+      "path": "JednostkaMala/WprowadzenieDoSprawozdaniaFinansowegoJednostkaMala/P_1/P_1B/Adres/KodPocztowy",
+      "tag": "KodPocztowy",
+      "value": "15-167"
+    },
+    {
+      "path": "JednostkaMala/WprowadzenieDoSprawozdaniaFinansowegoJednostkaMala/P_1/P_1B/Adres/Poczta",
+      "tag": "Poczta",
+      "value": "BIAŁYSTOK"
+    },
+    {
+      "path": "JednostkaMala/WprowadzenieDoSprawozdaniaFinansowegoJednostkaMala/P_1/P_1C",
+      "tag": "P_1C",
+      "value": "9661402585"
+    },
+    {
+      "path": "JednostkaMala/WprowadzenieDoSprawozdaniaFinansowegoJednostkaMala/P_1/P_1D",
+      "tag": "P_1D",
+      "value": "0000024255"
+    },
+    {
+      "path": "JednostkaMala/WprowadzenieDoSprawozdaniaFinansowegoJednostkaMala/P_3/DataOd",
+      "tag": "DataOd",
+      "value": "2024-01-01"
+    },
+    {
+      "path": "JednostkaMala/WprowadzenieDoSprawozdaniaFinansowegoJednostkaMala/P_3/DataDo",
+      "tag": "DataDo",
+      "value": "2024-12-31"
+    },
+    {
+      "path": "JednostkaMala/WprowadzenieDoSprawozdaniaFinansowegoJednostkaMala/P_4",
+      "tag": "P_4",
+      "value": "FIRMA JAZON SP.ZO.O. ZGODNIE Z USTAWĄ Z DNIA 29 WRZEŚNIA 1994R O RACHUNKOWOŚCI Z PÓŹ. ZMIANAMI JEST JEDNOSTKĄ MAŁĄ W STOSUNKU DO KTÓREJ ORAGAN ZATWIERDZAJĄCY PODJĄŁ DECYZJĘ O SPRZĄDZENIU SPRAWOZDANIA FINANSOWEGO DLA JEDNOSTEK MAŁYCH KORZYSTAJĄCYCH Z UPROSZCZEŃ ODNOSZĄCYCH SIĘ DO SPRAWOZDANIA FINANSOWEGO O KTÓRYM MOWA W ART.45 ust.2 U.O.R."
+    },
+    {
+      "path": "JednostkaMala/WprowadzenieDoSprawozdaniaFinansowegoJednostkaMala/P_5/P_5A",
+      "tag": "P_5A",
+      "value": "true"
+    },
+    {
+      "path": "JednostkaMala/WprowadzenieDoSprawozdaniaFinansowegoJednostkaMala/P_5/P_5B",
+      "tag": "P_5B",
+      "value": "true"
+    },
+    {
+      "path": "JednostkaMala/WprowadzenieDoSprawozdaniaFinansowegoJednostkaMala/P_6/P_6A",
+      "tag": "P_6A",
+      "value": "SPRAWOZDANIE FINANSOWE ZOSTAŁO SPORZĄDZONE ZGODNIE Z ZASADAMI WYNIKAJĄCYMI Z USTAWY Z DNIA 29 WRZEŚNIA 1994 R O RACHUNKOWOŚCI Z PÓŹ. ZMIANAMI. DO WYCENY ŚRODKÓW PIENIĘŻNYCH W WALUTACH OBCYCH NA DZIEŃ 31.12.2024 STOSUJE SIĘ ŚREDNIE KURSY DLA TYCH WALUT OGŁOSZONE PRZEZ NBP. AMORTYZACJA NALICZANA JEST ZGODNIE Z USTAWĄ O PODATKU DOCHODOWYM OD OSÓB PRAWNYCH W WYSOKOŚCI UZNANEJ ZA KOSZT UZYSKANIA PRZYCHODU."
+    },
+    {
+      "path": "JednostkaMala/WprowadzenieDoSprawozdaniaFinansowegoJednostkaMala/P_6/P_6B",
+      "tag": "P_6B",
+      "value": "RACHUNEK ZYSKÓW I STRAT SPORZĄDZANY JEST W WERSJI PORÓWNAWCZEJ. NA WYNIK FINANSOWY NETTO SKŁADA SIĘ: WYNIK DZIAŁALNOŚCI OPERACYJNEJ, W TYM Z POZOSTAŁYCH PRZYCHODÓW I KOSZTÓW OPERACYJNYCH, WYNIK OPERACJI FINANSOWYCH, OBOWIĄZKOWE OBCIĄŻENIE WYNIKU FINANSOWEGO Z TYTUŁU PODATKU DOCHODOWEGO OD OSÓB PRAWNYCH."
+    },
+    {
+      "path": "JednostkaMala/WprowadzenieDoSprawozdaniaFinansowegoJednostkaMala/P_6/P_6C",
+      "tag": "P_6C",
+      "value": "SPRAWOZDANIE FINANSOWE JAZON SP.ZO.O. UL. WYSOCKIEGO 164A, 15-167 BIAŁYSTOK ZA 2024 ROK SKŁADA SIĘ ZGODNIE Z ZALĄCZNIKIEM 5 U.O.R.: BILANS NA DZIEŃ 31.12.2024 ROK, RACHUNEK ZYSKÓW I STRAT ZA 2024 ROK, INFORMACJI DODATKOWEJ, OBEJMUJĄCEJ WPROWADZENIE DO SPRAWOZDANIA FINANSOWEGO ORAZ DODATKOWE INFORMACJE I WYJAŚNIENIA. SPRAWOZDANIE FINANSOWE SPORZĄDZA SIĘ W POSTACI ELEKTRONICZNEJ ORAZ OPATRUJE SIĘ PODPISEM ELEKTRONICZNYM LUB PROFILEM ZAUFANYM"
+    },
+    {
+      "path": "JednostkaMala/WprowadzenieDoSprawozdaniaFinansowegoJednostkaMala/P_6/P_6D",
+      "tag": "P_6D",
+      "value": "W ROKU OBROTOWYM NIE BYŁO ZMIAN ZASAD (POLITYKI) RACHUNKOWOŚCI, NIE BYŁO ZMIAN SPOSOBU SPORZĄDZANIA SPRAWOZDANIA FINANSOWEGO."
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/KwotaA",
+      "tag": "KwotaA",
+      "value": "21031678.78"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/KwotaB",
+      "tag": "KwotaB",
+      "value": "21628802.45"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_A/KwotaA",
+      "tag": "KwotaA",
+      "value": "7326190.53"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_A/KwotaB",
+      "tag": "KwotaB",
+      "value": "8674312.62"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_A/Aktywa_A_I/KwotaA",
+      "tag": "KwotaA",
+      "value": "249638.8"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_A/Aktywa_A_I/KwotaB",
+      "tag": "KwotaB",
+      "value": "486510.6"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_A/Aktywa_A_II/KwotaA",
+      "tag": "KwotaA",
+      "value": "7076551.73"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_A/Aktywa_A_II/KwotaB",
+      "tag": "KwotaB",
+      "value": "8187802.02"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_A/Aktywa_A_II/Aktywa_A_II_1/KwotaA",
+      "tag": "KwotaA",
+      "value": "7057452.74"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_A/Aktywa_A_II/Aktywa_A_II_1/KwotaB",
+      "tag": "KwotaB",
+      "value": "5732479.46"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_A/Aktywa_A_II/Aktywa_A_II_2/KwotaA",
+      "tag": "KwotaA",
+      "value": "19098.99"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_A/Aktywa_A_II/Aktywa_A_II_2/KwotaB",
+      "tag": "KwotaB",
+      "value": "2455322.56"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_A/Aktywa_A_III/KwotaA",
+      "tag": "KwotaA",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_A/Aktywa_A_III/KwotaB",
+      "tag": "KwotaB",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_A/Aktywa_A_IV/KwotaA",
+      "tag": "KwotaA",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_A/Aktywa_A_IV/KwotaB",
+      "tag": "KwotaB",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_A/Aktywa_A_IV/Aktywa_A_IV_1/KwotaA",
+      "tag": "KwotaA",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_A/Aktywa_A_IV/Aktywa_A_IV_1/KwotaB",
+      "tag": "KwotaB",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_A/Aktywa_A_IV/Aktywa_A_IV_2/KwotaA",
+      "tag": "KwotaA",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_A/Aktywa_A_IV/Aktywa_A_IV_2/KwotaB",
+      "tag": "KwotaB",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_A/Aktywa_A_V/KwotaA",
+      "tag": "KwotaA",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_A/Aktywa_A_V/KwotaB",
+      "tag": "KwotaB",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_B/KwotaA",
+      "tag": "KwotaA",
+      "value": "13705488.25"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_B/KwotaB",
+      "tag": "KwotaB",
+      "value": "12954489.83"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_B/Aktywa_B_I/KwotaA",
+      "tag": "KwotaA",
+      "value": "7215627.07"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_B/Aktywa_B_I/KwotaB",
+      "tag": "KwotaB",
+      "value": "8126145.97"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_B/Aktywa_B_II/KwotaA",
+      "tag": "KwotaA",
+      "value": "6099112.11"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_B/Aktywa_B_II/KwotaB",
+      "tag": "KwotaB",
+      "value": "4579996.73"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_B/Aktywa_B_II/Aktywa_B_II_A/KwotaA",
+      "tag": "KwotaA",
+      "value": "5677496.37"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_B/Aktywa_B_II/Aktywa_B_II_A/KwotaB",
+      "tag": "KwotaB",
+      "value": "3263451.82"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_B/Aktywa_B_II/Aktywa_B_II_A/Aktywa_B_II_A_1/KwotaA",
+      "tag": "KwotaA",
+      "value": "5677496.37"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_B/Aktywa_B_II/Aktywa_B_II_A/Aktywa_B_II_A_1/KwotaB",
+      "tag": "KwotaB",
+      "value": "3263451.82"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_B/Aktywa_B_II/Aktywa_B_II_A/Aktywa_B_II_A_2/KwotaA",
+      "tag": "KwotaA",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_B/Aktywa_B_II/Aktywa_B_II_A/Aktywa_B_II_A_2/KwotaB",
+      "tag": "KwotaB",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_B/Aktywa_B_III/KwotaA",
+      "tag": "KwotaA",
+      "value": "343725.88"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_B/Aktywa_B_III/KwotaB",
+      "tag": "KwotaB",
+      "value": "1922750.48"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_B/Aktywa_B_III/Aktywa_B_III_A/KwotaA",
+      "tag": "KwotaA",
+      "value": "343725.88"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_B/Aktywa_B_III/Aktywa_B_III_A/KwotaB",
+      "tag": "KwotaB",
+      "value": "192275.48"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_B/Aktywa_B_III/Aktywa_B_III_A/Aktywa_B_III_A_1/KwotaA",
+      "tag": "KwotaA",
+      "value": "343725.88"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_B/Aktywa_B_III/Aktywa_B_III_A/Aktywa_B_III_A_1/KwotaB",
+      "tag": "KwotaB",
+      "value": "192275.48"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_B/Aktywa_B_IV/KwotaA",
+      "tag": "KwotaA",
+      "value": "47023.19"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_B/Aktywa_B_IV/KwotaB",
+      "tag": "KwotaB",
+      "value": "56071.65"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_C/KwotaA",
+      "tag": "KwotaA",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_C/KwotaB",
+      "tag": "KwotaB",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_D/KwotaA",
+      "tag": "KwotaA",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Aktywa/Aktywa_D/KwotaB",
+      "tag": "KwotaB",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/KwotaA",
+      "tag": "KwotaA",
+      "value": "21031678.78"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/KwotaB",
+      "tag": "KwotaB",
+      "value": "21628802.45"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_A/KwotaA",
+      "tag": "KwotaA",
+      "value": "5631971.03"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_A/KwotaB",
+      "tag": "KwotaB",
+      "value": "5604118.69"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_A/Pasywa_A_I/KwotaA",
+      "tag": "KwotaA",
+      "value": "881000"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_A/Pasywa_A_I/KwotaB",
+      "tag": "KwotaB",
+      "value": "881000"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_A/Pasywa_A_II/KwotaA",
+      "tag": "KwotaA",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_A/Pasywa_A_II/KwotaB",
+      "tag": "KwotaB",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_A/Pasywa_A_II/Pasywa_A_II_1/KwotaA",
+      "tag": "KwotaA",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_A/Pasywa_A_II/Pasywa_A_II_1/KwotaB",
+      "tag": "KwotaB",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_A/Pasywa_A_III/KwotaA",
+      "tag": "KwotaA",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_A/Pasywa_A_III/KwotaB",
+      "tag": "KwotaB",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_A/Pasywa_A_III/Pasywa_A_III_1/KwotaA",
+      "tag": "KwotaA",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_A/Pasywa_A_III/Pasywa_A_III_1/KwotaB",
+      "tag": "KwotaB",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_A/Pasywa_A_IV/KwotaA",
+      "tag": "KwotaA",
+      "value": "6784866.32"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_A/Pasywa_A_IV/KwotaB",
+      "tag": "KwotaB",
+      "value": "6784866.32"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_A/Pasywa_A_V/KwotaA",
+      "tag": "KwotaA",
+      "value": "-2061747.63"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_A/Pasywa_A_V/KwotaB",
+      "tag": "KwotaB",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_A/Pasywa_A_VI/KwotaA",
+      "tag": "KwotaA",
+      "value": "27852.34"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_A/Pasywa_A_VI/KwotaB",
+      "tag": "KwotaB",
+      "value": "-2061747.63"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_A/Pasywa_A_VII/KwotaA",
+      "tag": "KwotaA",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_A/Pasywa_A_VII/KwotaB",
+      "tag": "KwotaB",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_B/KwotaA",
+      "tag": "KwotaA",
+      "value": "15399707.75"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_B/KwotaB",
+      "tag": "KwotaB",
+      "value": "16024683.76"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_B/Pasywa_B_I/KwotaA",
+      "tag": "KwotaA",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_B/Pasywa_B_I/KwotaB",
+      "tag": "KwotaB",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_B/Pasywa_B_I/Pasywa_B_I_1/KwotaA",
+      "tag": "KwotaA",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_B/Pasywa_B_I/Pasywa_B_I_1/KwotaB",
+      "tag": "KwotaB",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_B/Pasywa_B_II/KwotaA",
+      "tag": "KwotaA",
+      "value": "6731650"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_B/Pasywa_B_II/KwotaB",
+      "tag": "KwotaB",
+      "value": "3532200"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_B/Pasywa_B_II/Pasywa_B_II_1/KwotaA",
+      "tag": "KwotaA",
+      "value": "6731650"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_B/Pasywa_B_II/Pasywa_B_II_1/KwotaB",
+      "tag": "KwotaB",
+      "value": "3532200"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_B/Pasywa_B_III/KwotaA",
+      "tag": "KwotaA",
+      "value": "4807756.88"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_B/Pasywa_B_III/KwotaB",
+      "tag": "KwotaB",
+      "value": "12136843.02"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_B/Pasywa_B_III/Pasywa_B_III_A/KwotaA",
+      "tag": "KwotaA",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_B/Pasywa_B_III/Pasywa_B_III_A/KwotaB",
+      "tag": "KwotaB",
+      "value": "5332840.14"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_B/Pasywa_B_III/Pasywa_B_III_B/KwotaA",
+      "tag": "KwotaA",
+      "value": "1774353.28"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_B/Pasywa_B_III/Pasywa_B_III_B/KwotaB",
+      "tag": "KwotaB",
+      "value": "5682561.23"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_B/Pasywa_B_III/Pasywa_B_III_B/Pasywa_B_III_B_1/KwotaA",
+      "tag": "KwotaA",
+      "value": "1774353.28"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_B/Pasywa_B_III/Pasywa_B_III_B/Pasywa_B_III_B_1/KwotaB",
+      "tag": "KwotaB",
+      "value": "5682561.23"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_B/Pasywa_B_III/Pasywa_B_III_B/Pasywa_B_III_B_2/KwotaA",
+      "tag": "KwotaA",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_B/Pasywa_B_III/Pasywa_B_III_B/Pasywa_B_III_B_2/KwotaB",
+      "tag": "KwotaB",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_B/Pasywa_B_III/Pasywa_B_III_C/KwotaA",
+      "tag": "KwotaA",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_B/Pasywa_B_III/Pasywa_B_III_C/KwotaB",
+      "tag": "KwotaB",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_B/Pasywa_B_IV/KwotaA",
+      "tag": "KwotaA",
+      "value": "3860300.87"
+    },
+    {
+      "path": "JednostkaMala/BilansJednostkaMala/Pasywa/Pasywa_B/Pasywa_B_IV/KwotaB",
+      "tag": "KwotaB",
+      "value": "355640.74"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/A/KwotaA",
+      "tag": "KwotaA",
+      "value": "25013506.15"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/A/KwotaB",
+      "tag": "KwotaB",
+      "value": "23557637.83"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/A/A_I/KwotaA",
+      "tag": "KwotaA",
+      "value": "24710684.5"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/A/A_I/KwotaB",
+      "tag": "KwotaB",
+      "value": "24111701.53"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/A/A_II/KwotaA",
+      "tag": "KwotaA",
+      "value": "302821.65"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/A/A_II/KwotaB",
+      "tag": "KwotaB",
+      "value": "-554063.7"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/A/A_III/KwotaA",
+      "tag": "KwotaA",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/A/A_III/KwotaB",
+      "tag": "KwotaB",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/B/KwotaA",
+      "tag": "KwotaA",
+      "value": "25733450.93"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/B/KwotaB",
+      "tag": "KwotaB",
+      "value": "25855396.92"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/B/B_I/KwotaA",
+      "tag": "KwotaA",
+      "value": "1404633.56"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/B/B_I/KwotaB",
+      "tag": "KwotaB",
+      "value": "234574.43"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/B/B_II/KwotaA",
+      "tag": "KwotaA",
+      "value": "5076104.55"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/B/B_II/KwotaB",
+      "tag": "KwotaB",
+      "value": "5859664.97"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/B/B_III/KwotaA",
+      "tag": "KwotaA",
+      "value": "3476351.77"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/B/B_III/KwotaB",
+      "tag": "KwotaB",
+      "value": "4028785.61"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/B/B_IV/KwotaA",
+      "tag": "KwotaA",
+      "value": "6217062"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/B/B_IV/KwotaB",
+      "tag": "KwotaB",
+      "value": "6255303.71"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/B/B_V/KwotaA",
+      "tag": "KwotaA",
+      "value": "1285810.21"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/B/B_V/KwotaB",
+      "tag": "KwotaB",
+      "value": "1400193.71"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/B/B_V/B_V_1/KwotaA",
+      "tag": "KwotaA",
+      "value": "561379.5"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/B/B_V/B_V_1/KwotaB",
+      "tag": "KwotaB",
+      "value": "562977.33"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/B/B_VI/KwotaA",
+      "tag": "KwotaA",
+      "value": "8273488.84"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/B/B_VI/KwotaB",
+      "tag": "KwotaB",
+      "value": "8076874.49"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/B/B_VI/B_VI_1/KwotaA",
+      "tag": "KwotaA",
+      "value": "5960323.57"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/B/B_VI/B_VI_1/KwotaB",
+      "tag": "KwotaB",
+      "value": "5119479.91"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/C/KwotaA",
+      "tag": "KwotaA",
+      "value": "-719944.78"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/C/KwotaB",
+      "tag": "KwotaB",
+      "value": "-2297759.09"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/D/KwotaA",
+      "tag": "KwotaA",
+      "value": "1082038.05"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/D/KwotaB",
+      "tag": "KwotaB",
+      "value": "683232.34"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/D/D_1/KwotaA",
+      "tag": "KwotaA",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/D/D_1/KwotaB",
+      "tag": "KwotaB",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/E/KwotaA",
+      "tag": "KwotaA",
+      "value": "5385.96"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/E/KwotaB",
+      "tag": "KwotaB",
+      "value": "66530.1"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/E/E_1/KwotaA",
+      "tag": "KwotaA",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/E/E_1/KwotaB",
+      "tag": "KwotaB",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/F/KwotaA",
+      "tag": "KwotaA",
+      "value": "443.62"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/F/KwotaB",
+      "tag": "KwotaB",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/F/F_I/KwotaA",
+      "tag": "KwotaA",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/F/F_I/KwotaB",
+      "tag": "KwotaB",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/F/F_I/F_I_1/KwotaA",
+      "tag": "KwotaA",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/F/F_I/F_I_1/KwotaB",
+      "tag": "KwotaB",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/F/F_II/KwotaA",
+      "tag": "KwotaA",
+      "value": "443.62"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/F/F_II/KwotaB",
+      "tag": "KwotaB",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/F/F_II/F_II_1/KwotaA",
+      "tag": "KwotaA",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/F/F_II/F_II_1/KwotaB",
+      "tag": "KwotaB",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/F/F_III/KwotaA",
+      "tag": "KwotaA",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/F/F_III/KwotaB",
+      "tag": "KwotaB",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/F/F_III/F_III_1/KwotaA",
+      "tag": "KwotaA",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/F/F_III/F_III_1/KwotaB",
+      "tag": "KwotaB",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/F/F_IV/KwotaA",
+      "tag": "KwotaA",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/F/F_IV/KwotaB",
+      "tag": "KwotaB",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/G/KwotaA",
+      "tag": "KwotaA",
+      "value": "329298.59"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/G/KwotaB",
+      "tag": "KwotaB",
+      "value": "380690.78"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/G/G_I/KwotaA",
+      "tag": "KwotaA",
+      "value": "190828.6"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/G/G_I/KwotaB",
+      "tag": "KwotaB",
+      "value": "98514.48"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/G/G_I/G_I_1/KwotaA",
+      "tag": "KwotaA",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/G/G_I/G_I_1/KwotaB",
+      "tag": "KwotaB",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/G/G_II/KwotaA",
+      "tag": "KwotaA",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/G/G_II/KwotaB",
+      "tag": "KwotaB",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/G/G_II/G_II_1/KwotaA",
+      "tag": "KwotaA",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/G/G_II/G_II_1/KwotaB",
+      "tag": "KwotaB",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/G/G_III/KwotaA",
+      "tag": "KwotaA",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/G/G_III/KwotaB",
+      "tag": "KwotaB",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/H/KwotaA",
+      "tag": "KwotaA",
+      "value": "27852.34"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/H/KwotaB",
+      "tag": "KwotaB",
+      "value": "-2061747.63"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/I/KwotaA",
+      "tag": "KwotaA",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/I/KwotaB",
+      "tag": "KwotaB",
+      "value": "0"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/J/KwotaA",
+      "tag": "KwotaA",
+      "value": "27852.34"
+    },
+    {
+      "path": "JednostkaMala/RZiSJednostkaMala/RZiSPor/J/KwotaB",
+      "tag": "KwotaB",
+      "value": "-2061747.63"
+    },
+    {
+      "path": "JednostkaMala/DodatkoweInformacjeIObjasnieniaJednostkaMala/DodatkoweInformacjeIObjasnienia/Opis",
+      "tag": "Opis",
+      "value": "DODATKOWE INFORMACJE I WYJAŚNIENIA 1) Szczegółowy zakres zmian wartości grup rodzajowych środków trwałych i wartości niematerialnych: Stan na 01.01.2024 rok Rzeczowe aktywa trwałe -wartość inwentarzowa 9 481 702,53 umorzenie 3 749 223,07 netto 5 732 479,46 rzeczowe aktywa trwałe w budowie 2 455 322,56 Razem rzeczowe aktywa trwałe wartość inwentarzowa 11 937 025,09 umorzenie 3749 223,07 wartość netto 8 187 802,02. Wartości niematerialne i prawne 799 912,82 umorzenie 319 785,22 netto wartości niematerialne i prawne 480 127,60 Wartości niematerialne i prawne w budowie 6 383,00 Razem wartości niematerialne i prawne wartość inwentarzowa 806 295,82 umorzenie 319 785,22 wartość netto 486 510,60. Stan na 31.12.2024 rok Rzeczowe aktywa trwałe -wartość inwentarzowa 11 971 245,57 umorzenie 4 913 792,83 netto 7 057 452,74 rzeczowe aktywa trwałe w budowie 19 098,99 Razem rzeczowe aktywa trwałe wartość inwentarzowa 11 990 344,56 umorzenie 4 913 792,83 wartość netto 7 076 551,73. Wartości niematerialne i prawne 799 912,82 umorzenie 559 849,02 netto wartości niematerialne i prawne 240 063,80 Wartości niematerialne i prawne w budowie 9 575,00 Razem wartości niematerialne i prawne wartość inwentarzowa 809 487,82 umorzenie 559 849,02 wartość netto 249 638,80 2) w roku obrotowym nie było odpisów aktualizujących wartość aktywów trwałych i zmian w aktualizacji. Kapitał podstawowy firmy wynosi 881 000,00 PLN.Głównym udziałowcem jest Jan Zadykowicz. Fundusz rezerwowy firmy wynosi 6 784 866,32 i pozostał bez zmian. Strata z roku 2023 zostanie pokryta zyskiem lat następych. Propozycja podziału zysku z 2024 roku zostanie rozpatrzona na zgromadzeniu wspólników. W 2024 roku nie tworzono rezerw na należności wątpliwe. Przeciętne zatrudnienie w 2024 roku wyniosło 72,29 W roku obrotowym nie udzielono pożyczek i zaliczek osobom wchodzącym w skład organów zarządzających. W roku obrotowym nie było zmian zasad (polityki) rachunkowości. WYJAŚNIENIE RÓŻNIC PODATKOWYCH Przychody z RZIS =26 095 987,82 storno przeszacowań 2023 roku= +42016,63 przeszacowania 2024 rok =-2213,41 zmiana stanu produktów= -302 821,65 przychody finansowe ujęte per saldem ( r kursowe) + 80 043,57 Razem = 25 913 012,96 CIT 8 Koszty z RZIS = 26 068 135,48 storno przeszacowań 2023 roku +15 065,01 przeszacowania 2024 roku = -14 569,43 zmiana stanu produktów = -302 821,65 koszty nskup = -1068 472,71 koszty finansowe ujęte per saldem ( r. kursowe) = +80 043,57 RAZEM =24 777 380,27 CIT 8"
+    },
+    {
+      "path": "JednostkaMala/Signature/SignedInfo/Reference/Transforms/Transform/XPath",
+      "tag": "XPath",
+      "value": "not(ancestor-or-self::ds:Signature)"
+    },
+    {
+      "path": "JednostkaMala/Signature/SignedInfo/Reference/DigestValue",
+      "tag": "DigestValue",
+      "value": "mcftx+xsQwLdNf3n/hAVrmPRsMtaRlXyBEjvDgnVJVo="
+    },
+    {
+      "path": "JednostkaMala/Signature/SignedInfo/Reference/DigestValue",
+      "tag": "DigestValue",
+      "value": "PePUKaTgk/7qAok4YiJPwKjx5Z78QFiQxDG/wFFZhAY="
+    },
+    {
+      "path": "JednostkaMala/Signature/SignatureValue",
+      "tag": "SignatureValue",
+      "value": "V5myHPGXOLC4ECHuAo/olsJeX8yMxRR1toLdBbylFAtiwlp2Y82epX7J5jCSW1DOaPH4Eu6LLlpiJfuboeN3lgJhQz9kc4N+RIdsC5NxyFwjZj/hicE913+7W2193X+z6zgV1TUaxPbJoU7+5H6WOVimFKZkxl8WuBw8CKi0SYR/26uuW6wx8I0521Kcne2WHHWYBCKtB6hNUPWd8VM3bBzfmMYm20Wz+YqIWIf5kKm6wq1LJyQzO2LVmfYm6K+ggLhBcI/fZrNx/dNRk6Zf9fKepWw7maPBsF4MzJjwz+Ws/1rSViJwNUfChANLI+hhAxPG6Y/s1In3B/xBB/UGpQ=="
+    },
+    {
+      "path": "JednostkaMala/Signature/KeyInfo/X509Data/X509Certificate",
+      "tag": "X509Certificate",
+      "value": "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"
+    },
+    {
+      "path": "JednostkaMala/Signature/Object/QualifyingProperties/SignedProperties/SignedSignatureProperties/SigningTime",
+      "tag": "SigningTime",
+      "value": "2025-03-26T12:57:05.403+01:00"
+    },
+    {
+      "path": "JednostkaMala/Signature/Object/QualifyingProperties/SignedProperties/SignedSignatureProperties/SigningCertificate/Cert/CertDigest/DigestValue",
+      "tag": "DigestValue",
+      "value": "oB5cVe844NVVRs0BJuC1s9HnioQZsnMztAUTvHTal2I="
+    },
+    {
+      "path": "JednostkaMala/Signature/Object/QualifyingProperties/SignedProperties/SignedSignatureProperties/SigningCertificate/Cert/IssuerSerial/X509IssuerName",
+      "tag": "X509IssuerName",
+      "value": "CN=Centrum Kwalifikowane EuroCert,O=EuroCert Sp. z o.o.,C=PL,2.5.4.97=#0c10564154504c2d39353132333532333739"
+    },
+    {
+      "path": "JednostkaMala/Signature/Object/QualifyingProperties/SignedProperties/SignedSignatureProperties/SigningCertificate/Cert/IssuerSerial/X509SerialNumber",
+      "tag": "X509SerialNumber",
+      "value": "20892124217292921814138920212746575688618877"
+    },
+    {
+      "path": "JednostkaMala/Signature/Object/QualifyingProperties/SignedProperties/SignedSignatureProperties/SignerRole/ClaimedRoles/ClaimedRole/PodpisZP/DaneZP/DaneZPOsobyFizycznej/Nazwisko",
+      "tag": "Nazwisko",
+      "value": "BOGUSZ"
+    },
+    {
+      "path": "JednostkaMala/Signature/Object/QualifyingProperties/SignedProperties/SignedSignatureProperties/SignerRole/ClaimedRoles/ClaimedRole/PodpisZP/DaneZP/DaneZPOsobyFizycznej/Imie",
+      "tag": "Imie",
+      "value": "EWA"
+    },
+    {
+      "path": "JednostkaMala/Signature/Object/QualifyingProperties/SignedProperties/SignedSignatureProperties/SignerRole/ClaimedRoles/ClaimedRole/PodpisZP/DaneZP/DaneZPOsobyFizycznej/PESEL",
+      "tag": "PESEL",
+      "value": "67011205040"
+    },
+    {
+      "path": "JednostkaMala/Signature/Object/QualifyingProperties/SignedProperties/SignedSignatureProperties/SignerRole/ClaimedRoles/ClaimedRole/PodpisZP/DaneZP/DaneZPOsobyFizycznej/IdZaufanegoProfilu",
+      "tag": "IdZaufanegoProfilu",
+      "value": "28221345"
+    },
+    {
+      "path": "JednostkaMala/Signature/Object/QualifyingProperties/SignedProperties/SignedSignatureProperties/SignerRole/ClaimedRoles/ClaimedRole/PodpisZP/DaneZP/DaneZPOsobyFizycznej/IdKontaUzytkownikaEpuap",
+      "tag": "IdKontaUzytkownikaEpuap",
+      "value": "20190328112826"
+    },
+    {
+      "path": "JednostkaMala/Signature/Object/QualifyingProperties/SignedProperties/SignedSignatureProperties/SignerRole/ClaimedRoles/ClaimedRole/PodpisZP/DanePodpisu/IdKontaUzytkownikaEpuap",
+      "tag": "IdKontaUzytkownikaEpuap",
+      "value": "20190328112826"
+    },
+    {
+      "path": "JednostkaMala/Signature/Object/QualifyingProperties/SignedProperties/SignedSignatureProperties/SignerRole/ClaimedRoles/ClaimedRole/PodpisZP/DanePodpisu/IdPolitykiAutoryzacji",
+      "tag": "IdPolitykiAutoryzacji",
+      "value": "103"
+    },
+    {
+      "path": "JednostkaMala/Signature/SignedInfo/Reference/Transforms/Transform/XPath",
+      "tag": "XPath",
+      "value": "not(ancestor-or-self::ds:Signature)"
+    },
+    {
+      "path": "JednostkaMala/Signature/SignedInfo/Reference/DigestValue",
+      "tag": "DigestValue",
+      "value": "mcftx+xsQwLdNf3n/hAVrmPRsMtaRlXyBEjvDgnVJVo="
+    },
+    {
+      "path": "JednostkaMala/Signature/SignedInfo/Reference/DigestValue",
+      "tag": "DigestValue",
+      "value": "ktffrrX0Q+COQQsHdFnlTLCjAMxsQIPSSKnhzmSJ7iE="
+    },
+    {
+      "path": "JednostkaMala/Signature/SignatureValue",
+      "tag": "SignatureValue",
+      "value": "VvGay5A23KUzR2yJGF6Y0uS1+SvVLv1ZwYo3AJ0hDQIfpoZ/bPuAwWzKCcsIFB9mW/ksClbPB7tfnBMbMSkkrOm0maLo6TGAViZ5CCRc/J4P4OXqE2wlD50k5RzIfekXp4YByEE0Jdbr9IiPbIeseaU2v90dnKJwoeAYI6EP0v/U5VH0sNr3CO8hkfRRhkqn8P0nGSo5WQgqpr49Y8+cNz6RKThto924EMtTA0PCfIvQvTwYpVbhIoOAxWQzoBeJnOpaN4RDcmGYFwAoXiViDCkNFPLLw/lkBrfsIWlgeVLzdnLHV+JmT3ztKY2HrPVq2YACCuxbXX4PEKc5sLf5+g=="
+    },
+    {
+      "path": "JednostkaMala/Signature/KeyInfo/X509Data/X509Certificate",
+      "tag": "X509Certificate",
+      "value": "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"
+    },
+    {
+      "path": "JednostkaMala/Signature/Object/QualifyingProperties/SignedProperties/SignedSignatureProperties/SigningTime",
+      "tag": "SigningTime",
+      "value": "2025-03-26T14:02:05.476Z"
+    },
+    {
+      "path": "JednostkaMala/Signature/Object/QualifyingProperties/SignedProperties/SignedSignatureProperties/SigningCertificate/Cert/CertDigest/DigestValue",
+      "tag": "DigestValue",
+      "value": "Y8gGV5J9vRVGObizhccINQdKHi0="
+    },
+    {
+      "path": "JednostkaMala/Signature/Object/QualifyingProperties/SignedProperties/SignedSignatureProperties/SigningCertificate/Cert/IssuerSerial/X509IssuerName",
+      "tag": "X509IssuerName",
+      "value": "2.5.4.97=#0C10564154504C2D35323530303031303930, CN=CUZ Sigillum - QCA1, O=Polska Wytwórnia Papierów Wartościowych S.A., C=PL"
+    },
+    {
+      "path": "JednostkaMala/Signature/Object/QualifyingProperties/SignedProperties/SignedSignatureProperties/SigningCertificate/Cert/IssuerSerial/X509SerialNumber",
+      "tag": "X509SerialNumber",
+      "value": "1503524204080828086"
+    },
+    {
+      "path": "JednostkaMala/Signature/Object/QualifyingProperties/SignedProperties/SignedDataObjectProperties/DataObjectFormat/MimeType",
+      "tag": "MimeType",
+      "value": "text/xml"
+    },
+    {
+      "path": "JednostkaMala/Signature/Object/QualifyingProperties/SignedProperties/SignedDataObjectProperties/CommitmentTypeIndication/CommitmentTypeId/Identifier",
+      "tag": "Identifier",
+      "value": "http://uri.etsi.org/01903/v1.2.2#ProofOfApproval"
+    }
+  ],
+  "tree": {
+    "tag": "JednostkaMala",
+    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaWZlotych",
+    "attributes": {
+      "{http://www.w3.org/2001/XMLSchema-instance}schemaLocation": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaWZlotych https://www.gov.pl/attachment/e9bdabee-64d1-4628-9673-14ae948ad2f6"
+    },
+    "children": [
+      {
+        "tag": "Naglowek",
+        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaWZlotych",
+        "children": [
+          {
+            "tag": "OkresOd",
+            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+            "text": "2024-01-01"
+          },
+          {
+            "tag": "OkresDo",
+            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+            "text": "2024-12-31"
+          },
+          {
+            "tag": "DataSporzadzenia",
+            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+            "text": "2025-03-26"
+          },
+          {
+            "tag": "KodSprawozdania",
+            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+            "attributes": {
+              "kodSystemowy": "SFJMAZ (1)",
+              "wersjaSchemy": "1-2"
+            },
+            "text": "SprFinJednostkaMalaWZlotych"
+          },
+          {
+            "tag": "WariantSprawozdania",
+            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+            "text": "1"
+          }
+        ]
+      },
+      {
+        "tag": "WprowadzenieDoSprawozdaniaFinansowegoJednostkaMala",
+        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaWZlotych",
+        "children": [
+          {
+            "tag": "P_1",
+            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaWZlotych",
+            "children": [
+              {
+                "tag": "P_1A",
+                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaWZlotych",
+                "children": [
+                  {
+                    "tag": "NazwaFirmy",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "text": "JAZON SP. Z O.O."
+                  },
+                  {
+                    "tag": "Siedziba",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "children": [
+                      {
+                        "tag": "Wojewodztwo",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "Podlaskie"
+                      },
+                      {
+                        "tag": "Powiat",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "BIAŁOSTOCKI"
+                      },
+                      {
+                        "tag": "Gmina",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "M.BIAŁYSTOK"
+                      },
+                      {
+                        "tag": "Miejscowosc",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "BIAŁYSTOK"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "P_1B",
+                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaWZlotych",
+                "children": [
+                  {
+                    "tag": "Adres",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "children": [
+                      {
+                        "tag": "KodKraju",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "PL"
+                      },
+                      {
+                        "tag": "Wojewodztwo",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "Podlaskie"
+                      },
+                      {
+                        "tag": "Powiat",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "BIAŁOSTOCKI"
+                      },
+                      {
+                        "tag": "Gmina",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "M.BIAŁYSTOK"
+                      },
+                      {
+                        "tag": "Ulica",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "WŁADYSŁAWA WYSOCKIEGO"
+                      },
+                      {
+                        "tag": "NrDomu",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "164A"
+                      },
+                      {
+                        "tag": "Miejscowosc",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "BIAŁYSTOK"
+                      },
+                      {
+                        "tag": "KodPocztowy",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "15-167"
+                      },
+                      {
+                        "tag": "Poczta",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "BIAŁYSTOK"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "P_1C",
+                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaWZlotych",
+                "text": "9661402585"
+              },
+              {
+                "tag": "P_1D",
+                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaWZlotych",
+                "text": "0000024255"
+              }
+            ]
+          },
+          {
+            "tag": "P_3",
+            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaWZlotych",
+            "children": [
+              {
+                "tag": "DataOd",
+                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                "text": "2024-01-01"
+              },
+              {
+                "tag": "DataDo",
+                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                "text": "2024-12-31"
+              }
+            ]
+          },
+          {
+            "tag": "P_4",
+            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaWZlotych",
+            "text": "FIRMA JAZON SP.ZO.O. ZGODNIE Z USTAWĄ Z DNIA 29 WRZEŚNIA 1994R O RACHUNKOWOŚCI Z PÓŹ. ZMIANAMI JEST JEDNOSTKĄ MAŁĄ W STOSUNKU DO KTÓREJ ORAGAN ZATWIERDZAJĄCY PODJĄŁ DECYZJĘ O SPRZĄDZENIU SPRAWOZDANIA FINANSOWEGO DLA JEDNOSTEK MAŁYCH KORZYSTAJĄCYCH Z UPROSZCZEŃ ODNOSZĄCYCH SIĘ DO SPRAWOZDANIA FINANSOWEGO O KTÓRYM MOWA W ART.45 ust.2 U.O.R."
+          },
+          {
+            "tag": "P_5",
+            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaWZlotych",
+            "children": [
+              {
+                "tag": "P_5A",
+                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaWZlotych",
+                "text": "true"
+              },
+              {
+                "tag": "P_5B",
+                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaWZlotych",
+                "text": "true"
+              }
+            ]
+          },
+          {
+            "tag": "P_6",
+            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaWZlotych",
+            "children": [
+              {
+                "tag": "P_6A",
+                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaWZlotych",
+                "text": "SPRAWOZDANIE FINANSOWE ZOSTAŁO SPORZĄDZONE ZGODNIE Z ZASADAMI WYNIKAJĄCYMI Z USTAWY Z DNIA 29 WRZEŚNIA 1994 R O RACHUNKOWOŚCI Z PÓŹ. ZMIANAMI. DO WYCENY ŚRODKÓW PIENIĘŻNYCH W WALUTACH OBCYCH NA DZIEŃ 31.12.2024 STOSUJE SIĘ ŚREDNIE KURSY DLA TYCH WALUT OGŁOSZONE PRZEZ NBP. AMORTYZACJA NALICZANA JEST ZGODNIE Z USTAWĄ O PODATKU DOCHODOWYM OD OSÓB PRAWNYCH W WYSOKOŚCI UZNANEJ ZA KOSZT UZYSKANIA PRZYCHODU."
+              },
+              {
+                "tag": "P_6B",
+                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaWZlotych",
+                "text": "RACHUNEK ZYSKÓW I STRAT SPORZĄDZANY JEST W WERSJI PORÓWNAWCZEJ. NA WYNIK FINANSOWY NETTO SKŁADA SIĘ: WYNIK DZIAŁALNOŚCI OPERACYJNEJ, W TYM Z POZOSTAŁYCH PRZYCHODÓW I KOSZTÓW OPERACYJNYCH, WYNIK OPERACJI FINANSOWYCH, OBOWIĄZKOWE OBCIĄŻENIE WYNIKU FINANSOWEGO Z TYTUŁU PODATKU DOCHODOWEGO OD OSÓB PRAWNYCH."
+              },
+              {
+                "tag": "P_6C",
+                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaWZlotych",
+                "text": "SPRAWOZDANIE FINANSOWE JAZON SP.ZO.O. UL. WYSOCKIEGO 164A, 15-167 BIAŁYSTOK ZA 2024 ROK SKŁADA SIĘ ZGODNIE Z ZALĄCZNIKIEM 5 U.O.R.: BILANS NA DZIEŃ 31.12.2024 ROK, RACHUNEK ZYSKÓW I STRAT ZA 2024 ROK, INFORMACJI DODATKOWEJ, OBEJMUJĄCEJ WPROWADZENIE DO SPRAWOZDANIA FINANSOWEGO ORAZ DODATKOWE INFORMACJE I WYJAŚNIENIA. SPRAWOZDANIE FINANSOWE SPORZĄDZA SIĘ W POSTACI ELEKTRONICZNEJ ORAZ OPATRUJE SIĘ PODPISEM ELEKTRONICZNYM LUB PROFILEM ZAUFANYM"
+              },
+              {
+                "tag": "P_6D",
+                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaWZlotych",
+                "text": "W ROKU OBROTOWYM NIE BYŁO ZMIAN ZASAD (POLITYKI) RACHUNKOWOŚCI, NIE BYŁO ZMIAN SPOSOBU SPORZĄDZANIA SPRAWOZDANIA FINANSOWEGO."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "BilansJednostkaMala",
+        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaWZlotych",
+        "children": [
+          {
+            "tag": "Aktywa",
+            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+            "children": [
+              {
+                "tag": "KwotaA",
+                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                "text": "21031678.78"
+              },
+              {
+                "tag": "KwotaB",
+                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                "text": "21628802.45"
+              },
+              {
+                "tag": "Aktywa_A",
+                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                "children": [
+                  {
+                    "tag": "KwotaA",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "text": "7326190.53"
+                  },
+                  {
+                    "tag": "KwotaB",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "text": "8674312.62"
+                  },
+                  {
+                    "tag": "Aktywa_A_I",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "249638.8"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "486510.6"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "Aktywa_A_II",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "7076551.73"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "8187802.02"
+                      },
+                      {
+                        "tag": "Aktywa_A_II_1",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                        "children": [
+                          {
+                            "tag": "KwotaA",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "7057452.74"
+                          },
+                          {
+                            "tag": "KwotaB",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "5732479.46"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "Aktywa_A_II_2",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                        "children": [
+                          {
+                            "tag": "KwotaA",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "19098.99"
+                          },
+                          {
+                            "tag": "KwotaB",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "2455322.56"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "Aktywa_A_III",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "0"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "Aktywa_A_IV",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "0"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "0"
+                      },
+                      {
+                        "tag": "Aktywa_A_IV_1",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                        "children": [
+                          {
+                            "tag": "KwotaA",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "0"
+                          },
+                          {
+                            "tag": "KwotaB",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "0"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "Aktywa_A_IV_2",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                        "children": [
+                          {
+                            "tag": "KwotaA",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "0"
+                          },
+                          {
+                            "tag": "KwotaB",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "0"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "Aktywa_A_V",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "0"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "0"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "Aktywa_B",
+                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                "children": [
+                  {
+                    "tag": "KwotaA",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "text": "13705488.25"
+                  },
+                  {
+                    "tag": "KwotaB",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "text": "12954489.83"
+                  },
+                  {
+                    "tag": "Aktywa_B_I",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "7215627.07"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "8126145.97"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "Aktywa_B_II",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "6099112.11"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "4579996.73"
+                      },
+                      {
+                        "tag": "Aktywa_B_II_A",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                        "children": [
+                          {
+                            "tag": "KwotaA",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "5677496.37"
+                          },
+                          {
+                            "tag": "KwotaB",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "3263451.82"
+                          },
+                          {
+                            "tag": "Aktywa_B_II_A_1",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                            "children": [
+                              {
+                                "tag": "KwotaA",
+                                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                                "text": "5677496.37"
+                              },
+                              {
+                                "tag": "KwotaB",
+                                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                                "text": "3263451.82"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "Aktywa_B_II_A_2",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                            "children": [
+                              {
+                                "tag": "KwotaA",
+                                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                                "text": "0"
+                              },
+                              {
+                                "tag": "KwotaB",
+                                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                                "text": "0"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "Aktywa_B_III",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "343725.88"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "1922750.48"
+                      },
+                      {
+                        "tag": "Aktywa_B_III_A",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                        "children": [
+                          {
+                            "tag": "KwotaA",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "343725.88"
+                          },
+                          {
+                            "tag": "KwotaB",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "192275.48"
+                          },
+                          {
+                            "tag": "Aktywa_B_III_A_1",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                            "children": [
+                              {
+                                "tag": "KwotaA",
+                                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                                "text": "343725.88"
+                              },
+                              {
+                                "tag": "KwotaB",
+                                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                                "text": "192275.48"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "Aktywa_B_IV",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "47023.19"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "56071.65"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "Aktywa_C",
+                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                "children": [
+                  {
+                    "tag": "KwotaA",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "text": "0"
+                  },
+                  {
+                    "tag": "KwotaB",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "text": "0"
+                  }
+                ]
+              },
+              {
+                "tag": "Aktywa_D",
+                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                "children": [
+                  {
+                    "tag": "KwotaA",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "text": "0"
+                  },
+                  {
+                    "tag": "KwotaB",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "text": "0"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "Pasywa",
+            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+            "children": [
+              {
+                "tag": "KwotaA",
+                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                "text": "21031678.78"
+              },
+              {
+                "tag": "KwotaB",
+                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                "text": "21628802.45"
+              },
+              {
+                "tag": "Pasywa_A",
+                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                "children": [
+                  {
+                    "tag": "KwotaA",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "text": "5631971.03"
+                  },
+                  {
+                    "tag": "KwotaB",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "text": "5604118.69"
+                  },
+                  {
+                    "tag": "Pasywa_A_I",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "881000"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "881000"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "Pasywa_A_II",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "0"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "0"
+                      },
+                      {
+                        "tag": "Pasywa_A_II_1",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                        "children": [
+                          {
+                            "tag": "KwotaA",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "0"
+                          },
+                          {
+                            "tag": "KwotaB",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "0"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "Pasywa_A_III",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "0"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "0"
+                      },
+                      {
+                        "tag": "Pasywa_A_III_1",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                        "children": [
+                          {
+                            "tag": "KwotaA",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "0"
+                          },
+                          {
+                            "tag": "KwotaB",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "0"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "Pasywa_A_IV",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "6784866.32"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "6784866.32"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "Pasywa_A_V",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "-2061747.63"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "Pasywa_A_VI",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "27852.34"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "-2061747.63"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "Pasywa_A_VII",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "0"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "0"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "Pasywa_B",
+                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                "children": [
+                  {
+                    "tag": "KwotaA",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "text": "15399707.75"
+                  },
+                  {
+                    "tag": "KwotaB",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "text": "16024683.76"
+                  },
+                  {
+                    "tag": "Pasywa_B_I",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "0"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "0"
+                      },
+                      {
+                        "tag": "Pasywa_B_I_1",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                        "children": [
+                          {
+                            "tag": "KwotaA",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "0"
+                          },
+                          {
+                            "tag": "KwotaB",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "0"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "Pasywa_B_II",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "6731650"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "3532200"
+                      },
+                      {
+                        "tag": "Pasywa_B_II_1",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                        "children": [
+                          {
+                            "tag": "KwotaA",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "6731650"
+                          },
+                          {
+                            "tag": "KwotaB",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "3532200"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "Pasywa_B_III",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "4807756.88"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "12136843.02"
+                      },
+                      {
+                        "tag": "Pasywa_B_III_A",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                        "children": [
+                          {
+                            "tag": "KwotaA",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "0"
+                          },
+                          {
+                            "tag": "KwotaB",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "5332840.14"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "Pasywa_B_III_B",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                        "children": [
+                          {
+                            "tag": "KwotaA",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "1774353.28"
+                          },
+                          {
+                            "tag": "KwotaB",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "5682561.23"
+                          },
+                          {
+                            "tag": "Pasywa_B_III_B_1",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                            "children": [
+                              {
+                                "tag": "KwotaA",
+                                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                                "text": "1774353.28"
+                              },
+                              {
+                                "tag": "KwotaB",
+                                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                                "text": "5682561.23"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "Pasywa_B_III_B_2",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                            "children": [
+                              {
+                                "tag": "KwotaA",
+                                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                                "text": "0"
+                              },
+                              {
+                                "tag": "KwotaB",
+                                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                                "text": "0"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "Pasywa_B_III_C",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                        "children": [
+                          {
+                            "tag": "KwotaA",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "0"
+                          },
+                          {
+                            "tag": "KwotaB",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "0"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "Pasywa_B_IV",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "3860300.87"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "355640.74"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "RZiSJednostkaMala",
+        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaWZlotych",
+        "children": [
+          {
+            "tag": "RZiSPor",
+            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+            "children": [
+              {
+                "tag": "A",
+                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                "children": [
+                  {
+                    "tag": "KwotaA",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "text": "25013506.15"
+                  },
+                  {
+                    "tag": "KwotaB",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "text": "23557637.83"
+                  },
+                  {
+                    "tag": "A_I",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "24710684.5"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "24111701.53"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "A_II",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "302821.65"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "-554063.7"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "A_III",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "0"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "0"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "B",
+                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                "children": [
+                  {
+                    "tag": "KwotaA",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "text": "25733450.93"
+                  },
+                  {
+                    "tag": "KwotaB",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "text": "25855396.92"
+                  },
+                  {
+                    "tag": "B_I",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "1404633.56"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "234574.43"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "B_II",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "5076104.55"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "5859664.97"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "B_III",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "3476351.77"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "4028785.61"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "B_IV",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "6217062"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "6255303.71"
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "B_V",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "1285810.21"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "1400193.71"
+                      },
+                      {
+                        "tag": "B_V_1",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                        "children": [
+                          {
+                            "tag": "KwotaA",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "561379.5"
+                          },
+                          {
+                            "tag": "KwotaB",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "562977.33"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "B_VI",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "8273488.84"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "8076874.49"
+                      },
+                      {
+                        "tag": "B_VI_1",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                        "children": [
+                          {
+                            "tag": "KwotaA",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "5960323.57"
+                          },
+                          {
+                            "tag": "KwotaB",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "5119479.91"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "C",
+                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                "children": [
+                  {
+                    "tag": "KwotaA",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "text": "-719944.78"
+                  },
+                  {
+                    "tag": "KwotaB",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "text": "-2297759.09"
+                  }
+                ]
+              },
+              {
+                "tag": "D",
+                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                "children": [
+                  {
+                    "tag": "KwotaA",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "text": "1082038.05"
+                  },
+                  {
+                    "tag": "KwotaB",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "text": "683232.34"
+                  },
+                  {
+                    "tag": "D_1",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "0"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "0"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "E",
+                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                "children": [
+                  {
+                    "tag": "KwotaA",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "text": "5385.96"
+                  },
+                  {
+                    "tag": "KwotaB",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "text": "66530.1"
+                  },
+                  {
+                    "tag": "E_1",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "0"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "0"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "F",
+                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                "children": [
+                  {
+                    "tag": "KwotaA",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "text": "443.62"
+                  },
+                  {
+                    "tag": "KwotaB",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "text": "0"
+                  },
+                  {
+                    "tag": "F_I",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "0"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "0"
+                      },
+                      {
+                        "tag": "F_I_1",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                        "children": [
+                          {
+                            "tag": "KwotaA",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "0"
+                          },
+                          {
+                            "tag": "KwotaB",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "0"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "F_II",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "443.62"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "0"
+                      },
+                      {
+                        "tag": "F_II_1",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                        "children": [
+                          {
+                            "tag": "KwotaA",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "0"
+                          },
+                          {
+                            "tag": "KwotaB",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "0"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "F_III",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "0"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "0"
+                      },
+                      {
+                        "tag": "F_III_1",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                        "children": [
+                          {
+                            "tag": "KwotaA",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "0"
+                          },
+                          {
+                            "tag": "KwotaB",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "0"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "F_IV",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "0"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "0"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "G",
+                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                "children": [
+                  {
+                    "tag": "KwotaA",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "text": "329298.59"
+                  },
+                  {
+                    "tag": "KwotaB",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "text": "380690.78"
+                  },
+                  {
+                    "tag": "G_I",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "190828.6"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "98514.48"
+                      },
+                      {
+                        "tag": "G_I_1",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                        "children": [
+                          {
+                            "tag": "KwotaA",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "0"
+                          },
+                          {
+                            "tag": "KwotaB",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "0"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "G_II",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "0"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "0"
+                      },
+                      {
+                        "tag": "G_II_1",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                        "children": [
+                          {
+                            "tag": "KwotaA",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "0"
+                          },
+                          {
+                            "tag": "KwotaB",
+                            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                            "text": "0"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "G_III",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                    "children": [
+                      {
+                        "tag": "KwotaA",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "0"
+                      },
+                      {
+                        "tag": "KwotaB",
+                        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                        "text": "0"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "H",
+                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                "children": [
+                  {
+                    "tag": "KwotaA",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "text": "27852.34"
+                  },
+                  {
+                    "tag": "KwotaB",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "text": "-2061747.63"
+                  }
+                ]
+              },
+              {
+                "tag": "I",
+                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                "children": [
+                  {
+                    "tag": "KwotaA",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "text": "0"
+                  },
+                  {
+                    "tag": "KwotaB",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "text": "0"
+                  }
+                ]
+              },
+              {
+                "tag": "J",
+                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury",
+                "children": [
+                  {
+                    "tag": "KwotaA",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "text": "27852.34"
+                  },
+                  {
+                    "tag": "KwotaB",
+                    "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                    "text": "-2061747.63"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "DodatkoweInformacjeIObjasnieniaJednostkaMala",
+        "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaWZlotych",
+        "children": [
+          {
+            "tag": "DodatkoweInformacjeIObjasnienia",
+            "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaWZlotych",
+            "children": [
+              {
+                "tag": "Opis",
+                "namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/",
+                "text": "DODATKOWE INFORMACJE I WYJAŚNIENIA 1) Szczegółowy zakres zmian wartości grup rodzajowych środków trwałych i wartości niematerialnych: Stan na 01.01.2024 rok Rzeczowe aktywa trwałe -wartość inwentarzowa 9 481 702,53 umorzenie 3 749 223,07 netto 5 732 479,46 rzeczowe aktywa trwałe w budowie 2 455 322,56 Razem rzeczowe aktywa trwałe wartość inwentarzowa 11 937 025,09 umorzenie 3749 223,07 wartość netto 8 187 802,02. Wartości niematerialne i prawne 799 912,82 umorzenie 319 785,22 netto wartości niematerialne i prawne 480 127,60 Wartości niematerialne i prawne w budowie 6 383,00 Razem wartości niematerialne i prawne wartość inwentarzowa 806 295,82 umorzenie 319 785,22 wartość netto 486 510,60. Stan na 31.12.2024 rok Rzeczowe aktywa trwałe -wartość inwentarzowa 11 971 245,57 umorzenie 4 913 792,83 netto 7 057 452,74 rzeczowe aktywa trwałe w budowie 19 098,99 Razem rzeczowe aktywa trwałe wartość inwentarzowa 11 990 344,56 umorzenie 4 913 792,83 wartość netto 7 076 551,73. Wartości niematerialne i prawne 799 912,82 umorzenie 559 849,02 netto wartości niematerialne i prawne 240 063,80 Wartości niematerialne i prawne w budowie 9 575,00 Razem wartości niematerialne i prawne wartość inwentarzowa 809 487,82 umorzenie 559 849,02 wartość netto 249 638,80 2) w roku obrotowym nie było odpisów aktualizujących wartość aktywów trwałych i zmian w aktualizacji. Kapitał podstawowy firmy wynosi 881 000,00 PLN.Głównym udziałowcem jest Jan Zadykowicz. Fundusz rezerwowy firmy wynosi 6 784 866,32 i pozostał bez zmian. Strata z roku 2023 zostanie pokryta zyskiem lat następych. Propozycja podziału zysku z 2024 roku zostanie rozpatrzona na zgromadzeniu wspólników. W 2024 roku nie tworzono rezerw na należności wątpliwe. Przeciętne zatrudnienie w 2024 roku wyniosło 72,29 W roku obrotowym nie udzielono pożyczek i zaliczek osobom wchodzącym w skład organów zarządzających. W roku obrotowym nie było zmian zasad (polityki) rachunkowości. WYJAŚNIENIE RÓŻNIC PODATKOWYCH Przychody z RZIS =26 095 987,82 storno przeszacowań 2023 roku= +42016,63 przeszacowania 2024 rok =-2213,41 zmiana stanu produktów= -302 821,65 przychody finansowe ujęte per saldem ( r kursowe) + 80 043,57 Razem = 25 913 012,96 CIT 8 Koszty z RZIS = 26 068 135,48 storno przeszacowań 2023 roku +15 065,01 przeszacowania 2024 roku = -14 569,43 zmiana stanu produktów = -302 821,65 koszty nskup = -1068 472,71 koszty finansowe ujęte per saldem ( r. kursowe) = +80 043,57 RAZEM =24 777 380,27 CIT 8"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "Signature",
+        "namespace": "http://www.w3.org/2000/09/xmldsig#",
+        "attributes": {
+          "Id": "Signature-cbc46caf-32e4-40f4-8d48-cf86020a3b69"
+        },
+        "children": [
+          {
+            "tag": "SignedInfo",
+            "namespace": "http://www.w3.org/2000/09/xmldsig#",
+            "children": [
+              {
+                "tag": "CanonicalizationMethod",
+                "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                "attributes": {
+                  "Algorithm": "http://www.w3.org/2001/10/xml-exc-c14n#"
+                }
+              },
+              {
+                "tag": "SignatureMethod",
+                "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                "attributes": {
+                  "Algorithm": "http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"
+                }
+              },
+              {
+                "tag": "Reference",
+                "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                "attributes": {
+                  "URI": ""
+                },
+                "children": [
+                  {
+                    "tag": "Transforms",
+                    "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                    "children": [
+                      {
+                        "tag": "Transform",
+                        "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                        "attributes": {
+                          "Algorithm": "http://www.w3.org/TR/1999/REC-xpath-19991116"
+                        },
+                        "children": [
+                          {
+                            "tag": "XPath",
+                            "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                            "text": "not(ancestor-or-self::ds:Signature)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "DigestMethod",
+                    "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                    "attributes": {
+                      "Algorithm": "http://www.w3.org/2001/04/xmlenc#sha256"
+                    }
+                  },
+                  {
+                    "tag": "DigestValue",
+                    "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                    "text": "mcftx+xsQwLdNf3n/hAVrmPRsMtaRlXyBEjvDgnVJVo="
+                  }
+                ]
+              },
+              {
+                "tag": "Reference",
+                "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                "attributes": {
+                  "Type": "http://uri.etsi.org/01903#SignedProperties",
+                  "URI": "#SignedProps-cbc46caf-32e4-40f4-8d48-cf86020a3b69"
+                },
+                "children": [
+                  {
+                    "tag": "Transforms",
+                    "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                    "children": [
+                      {
+                        "tag": "Transform",
+                        "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                        "attributes": {
+                          "Algorithm": "http://www.w3.org/2001/10/xml-exc-c14n#"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "DigestMethod",
+                    "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                    "attributes": {
+                      "Algorithm": "http://www.w3.org/2001/04/xmlenc#sha256"
+                    }
+                  },
+                  {
+                    "tag": "DigestValue",
+                    "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                    "text": "PePUKaTgk/7qAok4YiJPwKjx5Z78QFiQxDG/wFFZhAY="
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "SignatureValue",
+            "namespace": "http://www.w3.org/2000/09/xmldsig#",
+            "attributes": {
+              "Id": "SignatureValue-cbc46caf-32e4-40f4-8d48-cf86020a3b69"
+            },
+            "text": "V5myHPGXOLC4ECHuAo/olsJeX8yMxRR1toLdBbylFAtiwlp2Y82epX7J5jCSW1DOaPH4Eu6LLlpiJfuboeN3lgJhQz9kc4N+RIdsC5NxyFwjZj/hicE913+7W2193X+z6zgV1TUaxPbJoU7+5H6WOVimFKZkxl8WuBw8CKi0SYR/26uuW6wx8I0521Kcne2WHHWYBCKtB6hNUPWd8VM3bBzfmMYm20Wz+YqIWIf5kKm6wq1LJyQzO2LVmfYm6K+ggLhBcI/fZrNx/dNRk6Zf9fKepWw7maPBsF4MzJjwz+Ws/1rSViJwNUfChANLI+hhAxPG6Y/s1In3B/xBB/UGpQ=="
+          },
+          {
+            "tag": "KeyInfo",
+            "namespace": "http://www.w3.org/2000/09/xmldsig#",
+            "children": [
+              {
+                "tag": "X509Data",
+                "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                "children": [
+                  {
+                    "tag": "X509Certificate",
+                    "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                    "text": "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"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "Object",
+            "namespace": "http://www.w3.org/2000/09/xmldsig#",
+            "attributes": {
+              "Id": "QualifyingInfos-cbc46caf-32e4-40f4-8d48-cf86020a3b69"
+            },
+            "children": [
+              {
+                "tag": "QualifyingProperties",
+                "namespace": "http://uri.etsi.org/01903/v1.3.2#",
+                "attributes": {
+                  "Id": "QualifyingProps-cbc46caf-32e4-40f4-8d48-cf86020a3b69",
+                  "Target": "#Signature-cbc46caf-32e4-40f4-8d48-cf86020a3b69"
+                },
+                "children": [
+                  {
+                    "tag": "SignedProperties",
+                    "namespace": "http://uri.etsi.org/01903/v1.3.2#",
+                    "attributes": {
+                      "Id": "SignedProps-cbc46caf-32e4-40f4-8d48-cf86020a3b69"
+                    },
+                    "children": [
+                      {
+                        "tag": "SignedSignatureProperties",
+                        "namespace": "http://uri.etsi.org/01903/v1.3.2#",
+                        "children": [
+                          {
+                            "tag": "SigningTime",
+                            "namespace": "http://uri.etsi.org/01903/v1.3.2#",
+                            "text": "2025-03-26T12:57:05.403+01:00"
+                          },
+                          {
+                            "tag": "SigningCertificate",
+                            "namespace": "http://uri.etsi.org/01903/v1.3.2#",
+                            "children": [
+                              {
+                                "tag": "Cert",
+                                "namespace": "http://uri.etsi.org/01903/v1.3.2#",
+                                "children": [
+                                  {
+                                    "tag": "CertDigest",
+                                    "namespace": "http://uri.etsi.org/01903/v1.3.2#",
+                                    "children": [
+                                      {
+                                        "tag": "DigestMethod",
+                                        "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                                        "attributes": {
+                                          "Algorithm": "http://www.w3.org/2001/04/xmlenc#sha256"
+                                        }
+                                      },
+                                      {
+                                        "tag": "DigestValue",
+                                        "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                                        "text": "oB5cVe844NVVRs0BJuC1s9HnioQZsnMztAUTvHTal2I="
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "IssuerSerial",
+                                    "namespace": "http://uri.etsi.org/01903/v1.3.2#",
+                                    "children": [
+                                      {
+                                        "tag": "X509IssuerName",
+                                        "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                                        "text": "CN=Centrum Kwalifikowane EuroCert,O=EuroCert Sp. z o.o.,C=PL,2.5.4.97=#0c10564154504c2d39353132333532333739"
+                                      },
+                                      {
+                                        "tag": "X509SerialNumber",
+                                        "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                                        "text": "20892124217292921814138920212746575688618877"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "SignaturePolicyIdentifier",
+                            "namespace": "http://uri.etsi.org/01903/v1.3.2#",
+                            "children": [
+                              {
+                                "tag": "SignaturePolicyImplied",
+                                "namespace": "http://uri.etsi.org/01903/v1.3.2#"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "SignerRole",
+                            "namespace": "http://uri.etsi.org/01903/v1.3.2#",
+                            "children": [
+                              {
+                                "tag": "ClaimedRoles",
+                                "namespace": "http://uri.etsi.org/01903/v1.3.2#",
+                                "children": [
+                                  {
+                                    "tag": "ClaimedRole",
+                                    "namespace": "http://uri.etsi.org/01903/v1.3.2#",
+                                    "children": [
+                                      {
+                                        "tag": "PodpisZP",
+                                        "namespace": "http://crd.gov.pl/xml/schematy/ppzp/",
+                                        "children": [
+                                          {
+                                            "tag": "DaneZP",
+                                            "namespace": "http://crd.gov.pl/xml/schematy/ppzp/",
+                                            "children": [
+                                              {
+                                                "tag": "DaneZPOsobyFizycznej",
+                                                "namespace": "http://crd.gov.pl/xml/schematy/ppzp/",
+                                                "children": [
+                                                  {
+                                                    "tag": "Nazwisko",
+                                                    "namespace": "http://crd.gov.pl/xml/schematy/osoba/2009/03/06/",
+                                                    "attributes": {
+                                                      "rodzajCzlonu": "pierwszy"
+                                                    },
+                                                    "text": "BOGUSZ"
+                                                  },
+                                                  {
+                                                    "tag": "Imie",
+                                                    "namespace": "http://crd.gov.pl/xml/schematy/osoba/2009/03/06/",
+                                                    "text": "EWA"
+                                                  },
+                                                  {
+                                                    "tag": "PESEL",
+                                                    "namespace": "http://crd.gov.pl/xml/schematy/osoba/2009/03/06/",
+                                                    "text": "67011205040"
+                                                  },
+                                                  {
+                                                    "tag": "IdZaufanegoProfilu",
+                                                    "namespace": "http://crd.gov.pl/xml/schematy/ppzp/",
+                                                    "text": "28221345"
+                                                  },
+                                                  {
+                                                    "tag": "IdKontaUzytkownikaEpuap",
+                                                    "namespace": "http://crd.gov.pl/xml/schematy/ppzp/",
+                                                    "text": "20190328112826"
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "tag": "DanePodpisu",
+                                            "namespace": "http://crd.gov.pl/xml/schematy/ppzp/",
+                                            "children": [
+                                              {
+                                                "tag": "IdKontaUzytkownikaEpuap",
+                                                "namespace": "http://crd.gov.pl/xml/schematy/ppzp/",
+                                                "text": "20190328112826"
+                                              },
+                                              {
+                                                "tag": "IdPolitykiAutoryzacji",
+                                                "namespace": "http://crd.gov.pl/xml/schematy/ppzp/",
+                                                "text": "103"
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "Signature",
+        "namespace": "http://www.w3.org/2000/09/xmldsig#",
+        "attributes": {
+          "Id": "Signature-900414054"
+        },
+        "children": [
+          {
+            "tag": "SignedInfo",
+            "namespace": "http://www.w3.org/2000/09/xmldsig#",
+            "children": [
+              {
+                "tag": "CanonicalizationMethod",
+                "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                "attributes": {
+                  "Algorithm": "http://www.w3.org/2001/10/xml-exc-c14n#"
+                }
+              },
+              {
+                "tag": "SignatureMethod",
+                "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                "attributes": {
+                  "Algorithm": "http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"
+                }
+              },
+              {
+                "tag": "Reference",
+                "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                "attributes": {
+                  "Id": "RefId-a54dadbf-8842-4315-8b48-dac50dbc18d6",
+                  "URI": ""
+                },
+                "children": [
+                  {
+                    "tag": "Transforms",
+                    "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                    "children": [
+                      {
+                        "tag": "Transform",
+                        "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                        "attributes": {
+                          "Algorithm": "http://www.w3.org/TR/1999/REC-xpath-19991116"
+                        },
+                        "children": [
+                          {
+                            "tag": "XPath",
+                            "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                            "text": "not(ancestor-or-self::ds:Signature)"
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "Transform",
+                        "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                        "attributes": {
+                          "Algorithm": "http://www.w3.org/TR/2001/REC-xml-c14n-20010315"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "DigestMethod",
+                    "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                    "attributes": {
+                      "Algorithm": "http://www.w3.org/2001/04/xmlenc#sha256"
+                    }
+                  },
+                  {
+                    "tag": "DigestValue",
+                    "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                    "text": "mcftx+xsQwLdNf3n/hAVrmPRsMtaRlXyBEjvDgnVJVo="
+                  }
+                ]
+              },
+              {
+                "tag": "Reference",
+                "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                "attributes": {
+                  "Type": "http://uri.etsi.org/01903#SignedProperties",
+                  "URI": "#SignedProperties-1178494912"
+                },
+                "children": [
+                  {
+                    "tag": "DigestMethod",
+                    "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                    "attributes": {
+                      "Algorithm": "http://www.w3.org/2001/04/xmlenc#sha256"
+                    }
+                  },
+                  {
+                    "tag": "DigestValue",
+                    "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                    "text": "ktffrrX0Q+COQQsHdFnlTLCjAMxsQIPSSKnhzmSJ7iE="
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "SignatureValue",
+            "namespace": "http://www.w3.org/2000/09/xmldsig#",
+            "text": "VvGay5A23KUzR2yJGF6Y0uS1+SvVLv1ZwYo3AJ0hDQIfpoZ/bPuAwWzKCcsIFB9mW/ksClbPB7tfnBMbMSkkrOm0maLo6TGAViZ5CCRc/J4P4OXqE2wlD50k5RzIfekXp4YByEE0Jdbr9IiPbIeseaU2v90dnKJwoeAYI6EP0v/U5VH0sNr3CO8hkfRRhkqn8P0nGSo5WQgqpr49Y8+cNz6RKThto924EMtTA0PCfIvQvTwYpVbhIoOAxWQzoBeJnOpaN4RDcmGYFwAoXiViDCkNFPLLw/lkBrfsIWlgeVLzdnLHV+JmT3ztKY2HrPVq2YACCuxbXX4PEKc5sLf5+g=="
+          },
+          {
+            "tag": "KeyInfo",
+            "namespace": "http://www.w3.org/2000/09/xmldsig#",
+            "children": [
+              {
+                "tag": "X509Data",
+                "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                "children": [
+                  {
+                    "tag": "X509Certificate",
+                    "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                    "text": "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"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "Object",
+            "namespace": "http://www.w3.org/2000/09/xmldsig#",
+            "children": [
+              {
+                "tag": "QualifyingProperties",
+                "namespace": "http://uri.etsi.org/01903/v1.3.2#",
+                "attributes": {
+                  "Target": "#Signature-900414054"
+                },
+                "children": [
+                  {
+                    "tag": "SignedProperties",
+                    "namespace": "http://uri.etsi.org/01903/v1.3.2#",
+                    "attributes": {
+                      "Id": "SignedProperties-1178494912"
+                    },
+                    "children": [
+                      {
+                        "tag": "SignedSignatureProperties",
+                        "namespace": "http://uri.etsi.org/01903/v1.3.2#",
+                        "children": [
+                          {
+                            "tag": "SigningTime",
+                            "namespace": "http://uri.etsi.org/01903/v1.3.2#",
+                            "text": "2025-03-26T14:02:05.476Z"
+                          },
+                          {
+                            "tag": "SigningCertificate",
+                            "namespace": "http://uri.etsi.org/01903/v1.3.2#",
+                            "children": [
+                              {
+                                "tag": "Cert",
+                                "namespace": "http://uri.etsi.org/01903/v1.3.2#",
+                                "children": [
+                                  {
+                                    "tag": "CertDigest",
+                                    "namespace": "http://uri.etsi.org/01903/v1.3.2#",
+                                    "children": [
+                                      {
+                                        "tag": "DigestMethod",
+                                        "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                                        "attributes": {
+                                          "Algorithm": "http://www.w3.org/2000/09/xmldsig#sha1"
+                                        }
+                                      },
+                                      {
+                                        "tag": "DigestValue",
+                                        "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                                        "text": "Y8gGV5J9vRVGObizhccINQdKHi0="
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "IssuerSerial",
+                                    "namespace": "http://uri.etsi.org/01903/v1.3.2#",
+                                    "children": [
+                                      {
+                                        "tag": "X509IssuerName",
+                                        "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                                        "text": "2.5.4.97=#0C10564154504C2D35323530303031303930, CN=CUZ Sigillum - QCA1, O=Polska Wytwórnia Papierów Wartościowych S.A., C=PL"
+                                      },
+                                      {
+                                        "tag": "X509SerialNumber",
+                                        "namespace": "http://www.w3.org/2000/09/xmldsig#",
+                                        "text": "1503524204080828086"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "SignaturePolicyIdentifier",
+                            "namespace": "http://uri.etsi.org/01903/v1.3.2#",
+                            "children": [
+                              {
+                                "tag": "SignaturePolicyImplied",
+                                "namespace": "http://uri.etsi.org/01903/v1.3.2#"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "SignedDataObjectProperties",
+                        "namespace": "http://uri.etsi.org/01903/v1.3.2#",
+                        "children": [
+                          {
+                            "tag": "DataObjectFormat",
+                            "namespace": "http://uri.etsi.org/01903/v1.3.2#",
+                            "attributes": {
+                              "ObjectReference": "#RefId-a54dadbf-8842-4315-8b48-dac50dbc18d6"
+                            },
+                            "children": [
+                              {
+                                "tag": "MimeType",
+                                "namespace": "http://uri.etsi.org/01903/v1.3.2#",
+                                "text": "text/xml"
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "CommitmentTypeIndication",
+                            "namespace": "http://uri.etsi.org/01903/v1.3.2#",
+                            "children": [
+                              {
+                                "tag": "CommitmentTypeId",
+                                "namespace": "http://uri.etsi.org/01903/v1.3.2#",
+                                "children": [
+                                  {
+                                    "tag": "Identifier",
+                                    "namespace": "http://uri.etsi.org/01903/v1.3.2#",
+                                    "text": "http://uri.etsi.org/01903/v1.2.2#ProofOfApproval"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

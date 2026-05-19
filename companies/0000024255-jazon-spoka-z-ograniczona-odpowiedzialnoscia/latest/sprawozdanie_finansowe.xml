@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><JednostkaMala xmlns="http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaWZlotych" xmlns:ns1="http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/" xmlns:ns2="http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury" xmlns:ns3="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2016/01/25/eD/DefinicjeTypy/" xmlns:ns4="http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaInnaStruktury" xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:schemaLocation="http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaWZlotych https://www.gov.pl/attachment/e9bdabee-64d1-4628-9673-14ae948ad2f6">
+  <Naglowek>
+    <ns1:OkresOd>2024-01-01</ns1:OkresOd>
+    <ns1:OkresDo>2024-12-31</ns1:OkresDo>
+    <ns1:DataSporzadzenia>2025-03-26</ns1:DataSporzadzenia>
+    <ns2:KodSprawozdania kodSystemowy="SFJMAZ (1)" wersjaSchemy="1-2">SprFinJednostkaMalaWZlotych</ns2:KodSprawozdania>
+    <ns2:WariantSprawozdania>1</ns2:WariantSprawozdania>
+  </Naglowek>
+  <WprowadzenieDoSprawozdaniaFinansowegoJednostkaMala>
+    <P_1>
+      <P_1A>
+        <ns1:NazwaFirmy>JAZON SP. Z O.O.</ns1:NazwaFirmy>
+        <ns1:Siedziba>
+          <ns1:Wojewodztwo>Podlaskie</ns1:Wojewodztwo>
+          <ns1:Powiat>BIAŁOSTOCKI</ns1:Powiat>
+          <ns1:Gmina>M.BIAŁYSTOK</ns1:Gmina>
+          <ns1:Miejscowosc>BIAŁYSTOK</ns1:Miejscowosc>
+        </ns1:Siedziba>
+      </P_1A>
+      <P_1B>
+        <ns1:Adres>
+          <ns1:KodKraju>PL</ns1:KodKraju>
+          <ns1:Wojewodztwo>Podlaskie</ns1:Wojewodztwo>
+          <ns1:Powiat>BIAŁOSTOCKI</ns1:Powiat>
+          <ns1:Gmina>M.BIAŁYSTOK</ns1:Gmina>
+          <ns1:Ulica>WŁADYSŁAWA WYSOCKIEGO</ns1:Ulica>
+          <ns1:NrDomu>164A</ns1:NrDomu>
+          <ns1:Miejscowosc>BIAŁYSTOK</ns1:Miejscowosc>
+          <ns1:KodPocztowy>15-167</ns1:KodPocztowy>
+          <ns1:Poczta>BIAŁYSTOK</ns1:Poczta>
+        </ns1:Adres>
+      </P_1B>
+      <P_1C>9661402585</P_1C>
+      <P_1D>0000024255</P_1D>
+    </P_1>
+    <P_3>
+      <ns1:DataOd>2024-01-01</ns1:DataOd>
+      <ns1:DataDo>2024-12-31</ns1:DataDo>
+    </P_3>
+    <P_4>FIRMA JAZON SP.ZO.O. ZGODNIE Z USTAWĄ Z DNIA 29 WRZEŚNIA 1994R O RACHUNKOWOŚCI  Z PÓŹ. ZMIANAMI JEST JEDNOSTKĄ MAŁĄ W STOSUNKU DO KTÓREJ ORAGAN ZATWIERDZAJĄCY PODJĄŁ DECYZJĘ  O SPRZĄDZENIU SPRAWOZDANIA FINANSOWEGO   DLA JEDNOSTEK MAŁYCH KORZYSTAJĄCYCH Z UPROSZCZEŃ ODNOSZĄCYCH SIĘ DO SPRAWOZDANIA FINANSOWEGO  O KTÓRYM MOWA W ART.45 ust.2  U.O.R. </P_4>
+    <P_5>
+      <P_5A>true</P_5A>
+      <P_5B>true</P_5B>
+    </P_5>
+    <P_6>
+      <P_6A>SPRAWOZDANIE FINANSOWE ZOSTAŁO SPORZĄDZONE  ZGODNIE  Z ZASADAMI WYNIKAJĄCYMI Z USTAWY Z DNIA 29 WRZEŚNIA 1994 R O RACHUNKOWOŚCI Z PÓŹ. ZMIANAMI.
+DO WYCENY ŚRODKÓW PIENIĘŻNYCH W WALUTACH OBCYCH NA DZIEŃ 31.12.2024 STOSUJE SIĘ ŚREDNIE  KURSY DLA TYCH WALUT OGŁOSZONE  PRZEZ  NBP.
+AMORTYZACJA  NALICZANA JEST ZGODNIE Z USTAWĄ O PODATKU DOCHODOWYM OD OSÓB PRAWNYCH W WYSOKOŚCI UZNANEJ ZA KOSZT UZYSKANIA PRZYCHODU.</P_6A>
+      <P_6B>RACHUNEK ZYSKÓW I STRAT SPORZĄDZANY JEST W WERSJI PORÓWNAWCZEJ.
+NA WYNIK FINANSOWY NETTO SKŁADA SIĘ:
+WYNIK DZIAŁALNOŚCI OPERACYJNEJ, W TYM Z POZOSTAŁYCH PRZYCHODÓW I KOSZTÓW OPERACYJNYCH,
+WYNIK OPERACJI FINANSOWYCH,
+OBOWIĄZKOWE OBCIĄŻENIE WYNIKU FINANSOWEGO Z TYTUŁU PODATKU DOCHODOWEGO OD OSÓB PRAWNYCH.</P_6B>
+      <P_6C>SPRAWOZDANIE FINANSOWE JAZON SP.ZO.O. UL. WYSOCKIEGO 164A, 15-167 BIAŁYSTOK  ZA  2024 ROK SKŁADA SIĘ ZGODNIE Z ZALĄCZNIKIEM 5 U.O.R.:
+
+BILANS NA DZIEŃ 31.12.2024 ROK,
+RACHUNEK ZYSKÓW I STRAT ZA 2024 ROK,
+INFORMACJI DODATKOWEJ, OBEJMUJĄCEJ WPROWADZENIE DO SPRAWOZDANIA FINANSOWEGO ORAZ  DODATKOWE INFORMACJE I WYJAŚNIENIA.
+
+SPRAWOZDANIE FINANSOWE SPORZĄDZA SIĘ W POSTACI ELEKTRONICZNEJ ORAZ OPATRUJE SIĘ PODPISEM ELEKTRONICZNYM LUB PROFILEM ZAUFANYM  </P_6C>
+      <P_6D>W ROKU OBROTOWYM NIE BYŁO ZMIAN ZASAD (POLITYKI) RACHUNKOWOŚCI, NIE BYŁO ZMIAN SPOSOBU SPORZĄDZANIA  SPRAWOZDANIA FINANSOWEGO.</P_6D>
+    </P_6>
+  </WprowadzenieDoSprawozdaniaFinansowegoJednostkaMala>
+  <BilansJednostkaMala>
+    <ns2:Aktywa>
+      <ns1:KwotaA>21031678.78</ns1:KwotaA>
+      <ns1:KwotaB>21628802.45</ns1:KwotaB>
+      <ns2:Aktywa_A>
+        <ns1:KwotaA>7326190.53</ns1:KwotaA>
+        <ns1:KwotaB>8674312.62</ns1:KwotaB>
+        <ns2:Aktywa_A_I>
+          <ns1:KwotaA>249638.8</ns1:KwotaA>
+          <ns1:KwotaB>486510.6</ns1:KwotaB>
+        </ns2:Aktywa_A_I>
+        <ns2:Aktywa_A_II>
+          <ns1:KwotaA>7076551.73</ns1:KwotaA>
+          <ns1:KwotaB>8187802.02</ns1:KwotaB>
+          <ns2:Aktywa_A_II_1>
+            <ns1:KwotaA>7057452.74</ns1:KwotaA>
+            <ns1:KwotaB>5732479.46</ns1:KwotaB>
+          </ns2:Aktywa_A_II_1>
+          <ns2:Aktywa_A_II_2>
+            <ns1:KwotaA>19098.99</ns1:KwotaA>
+            <ns1:KwotaB>2455322.56</ns1:KwotaB>
+          </ns2:Aktywa_A_II_2>
+        </ns2:Aktywa_A_II>
+        <ns2:Aktywa_A_III>
+          <ns1:KwotaA>0</ns1:KwotaA>
+          <ns1:KwotaB>0</ns1:KwotaB>
+        </ns2:Aktywa_A_III>
+        <ns2:Aktywa_A_IV>
+          <ns1:KwotaA>0</ns1:KwotaA>
+          <ns1:KwotaB>0</ns1:KwotaB>
+          <ns2:Aktywa_A_IV_1>
+            <ns1:KwotaA>0</ns1:KwotaA>
+            <ns1:KwotaB>0</ns1:KwotaB>
+          </ns2:Aktywa_A_IV_1>
+          <ns2:Aktywa_A_IV_2>
+            <ns1:KwotaA>0</ns1:KwotaA>
+            <ns1:KwotaB>0</ns1:KwotaB>
+          </ns2:Aktywa_A_IV_2>
+        </ns2:Aktywa_A_IV>
+        <ns2:Aktywa_A_V>
+          <ns1:KwotaA>0</ns1:KwotaA>
+          <ns1:KwotaB>0</ns1:KwotaB>
+        </ns2:Aktywa_A_V>
+      </ns2:Aktywa_A>
+      <ns2:Aktywa_B>
+        <ns1:KwotaA>13705488.25</ns1:KwotaA>
+        <ns1:KwotaB>12954489.83</ns1:KwotaB>
+        <ns2:Aktywa_B_I>
+          <ns1:KwotaA>7215627.07</ns1:KwotaA>
+          <ns1:KwotaB>8126145.97</ns1:KwotaB>
+        </ns2:Aktywa_B_I>
+        <ns2:Aktywa_B_II>
+          <ns1:KwotaA>6099112.11</ns1:KwotaA>
+          <ns1:KwotaB>4579996.73</ns1:KwotaB>
+          <ns2:Aktywa_B_II_A>
+            <ns1:KwotaA>5677496.37</ns1:KwotaA>
+            <ns1:KwotaB>3263451.82</ns1:KwotaB>
+            <ns2:Aktywa_B_II_A_1>
+              <ns1:KwotaA>5677496.37</ns1:KwotaA>
+              <ns1:KwotaB>3263451.82</ns1:KwotaB>
+            </ns2:Aktywa_B_II_A_1>
+            <ns2:Aktywa_B_II_A_2>
+              <ns1:KwotaA>0</ns1:KwotaA>
+              <ns1:KwotaB>0</ns1:KwotaB>
+            </ns2:Aktywa_B_II_A_2>
+          </ns2:Aktywa_B_II_A>
+        </ns2:Aktywa_B_II>
+        <ns2:Aktywa_B_III>
+          <ns1:KwotaA>343725.88</ns1:KwotaA>
+          <ns1:KwotaB>1922750.48</ns1:KwotaB>
+          <ns2:Aktywa_B_III_A>
+            <ns1:KwotaA>343725.88</ns1:KwotaA>
+            <ns1:KwotaB>192275.48</ns1:KwotaB>
+            <ns2:Aktywa_B_III_A_1>
+              <ns1:KwotaA>343725.88</ns1:KwotaA>
+              <ns1:KwotaB>192275.48</ns1:KwotaB>
+            </ns2:Aktywa_B_III_A_1>
+          </ns2:Aktywa_B_III_A>
+        </ns2:Aktywa_B_III>
+        <ns2:Aktywa_B_IV>
+          <ns1:KwotaA>47023.19</ns1:KwotaA>
+          <ns1:KwotaB>56071.65</ns1:KwotaB>
+        </ns2:Aktywa_B_IV>
+      </ns2:Aktywa_B>
+      <ns2:Aktywa_C>
+        <ns1:KwotaA>0</ns1:KwotaA>
+        <ns1:KwotaB>0</ns1:KwotaB>
+      </ns2:Aktywa_C>
+      <ns2:Aktywa_D>
+        <ns1:KwotaA>0</ns1:KwotaA>
+        <ns1:KwotaB>0</ns1:KwotaB>
+      </ns2:Aktywa_D>
+    </ns2:Aktywa>
+    <ns2:Pasywa>
+      <ns1:KwotaA>21031678.78</ns1:KwotaA>
+      <ns1:KwotaB>21628802.45</ns1:KwotaB>
+      <ns2:Pasywa_A>
+        <ns1:KwotaA>5631971.03</ns1:KwotaA>
+        <ns1:KwotaB>5604118.69</ns1:KwotaB>
+        <ns2:Pasywa_A_I>
+          <ns1:KwotaA>881000</ns1:KwotaA>
+          <ns1:KwotaB>881000</ns1:KwotaB>
+        </ns2:Pasywa_A_I>
+        <ns2:Pasywa_A_II>
+          <ns1:KwotaA>0</ns1:KwotaA>
+          <ns1:KwotaB>0</ns1:KwotaB>
+          <ns2:Pasywa_A_II_1>
+            <ns1:KwotaA>0</ns1:KwotaA>
+            <ns1:KwotaB>0</ns1:KwotaB>
+          </ns2:Pasywa_A_II_1>
+        </ns2:Pasywa_A_II>
+        <ns2:Pasywa_A_III>
+          <ns1:KwotaA>0</ns1:KwotaA>
+          <ns1:KwotaB>0</ns1:KwotaB>
+          <ns2:Pasywa_A_III_1>
+            <ns1:KwotaA>0</ns1:KwotaA>
+            <ns1:KwotaB>0</ns1:KwotaB>
+          </ns2:Pasywa_A_III_1>
+        </ns2:Pasywa_A_III>
+        <ns2:Pasywa_A_IV>
+          <ns1:KwotaA>6784866.32</ns1:KwotaA>
+          <ns1:KwotaB>6784866.32</ns1:KwotaB>
+        </ns2:Pasywa_A_IV>
+        <ns2:Pasywa_A_V>
+          <ns1:KwotaA>-2061747.63</ns1:KwotaA>
+          <ns1:KwotaB>0</ns1:KwotaB>
+        </ns2:Pasywa_A_V>
+        <ns2:Pasywa_A_VI>
+          <ns1:KwotaA>27852.34</ns1:KwotaA>
+          <ns1:KwotaB>-2061747.63</ns1:KwotaB>
+        </ns2:Pasywa_A_VI>
+        <ns2:Pasywa_A_VII>
+          <ns1:KwotaA>0</ns1:KwotaA>
+          <ns1:KwotaB>0</ns1:KwotaB>
+        </ns2:Pasywa_A_VII>
+      </ns2:Pasywa_A>
+      <ns2:Pasywa_B>
+        <ns1:KwotaA>15399707.75</ns1:KwotaA>
+        <ns1:KwotaB>16024683.76</ns1:KwotaB>
+        <ns2:Pasywa_B_I>
+          <ns1:KwotaA>0</ns1:KwotaA>
+          <ns1:KwotaB>0</ns1:KwotaB>
+          <ns2:Pasywa_B_I_1>
+            <ns1:KwotaA>0</ns1:KwotaA>
+            <ns1:KwotaB>0</ns1:KwotaB>
+          </ns2:Pasywa_B_I_1>
+        </ns2:Pasywa_B_I>
+        <ns2:Pasywa_B_II>
+          <ns1:KwotaA>6731650</ns1:KwotaA>
+          <ns1:KwotaB>3532200</ns1:KwotaB>
+          <ns2:Pasywa_B_II_1>
+            <ns1:KwotaA>6731650</ns1:KwotaA>
+            <ns1:KwotaB>3532200</ns1:KwotaB>
+          </ns2:Pasywa_B_II_1>
+        </ns2:Pasywa_B_II>
+        <ns2:Pasywa_B_III>
+          <ns1:KwotaA>4807756.88</ns1:KwotaA>
+          <ns1:KwotaB>12136843.02</ns1:KwotaB>
+          <ns2:Pasywa_B_III_A>
+            <ns1:KwotaA>0</ns1:KwotaA>
+            <ns1:KwotaB>5332840.14</ns1:KwotaB>
+          </ns2:Pasywa_B_III_A>
+          <ns2:Pasywa_B_III_B>
+            <ns1:KwotaA>1774353.28</ns1:KwotaA>
+            <ns1:KwotaB>5682561.23</ns1:KwotaB>
+            <ns2:Pasywa_B_III_B_1>
+              <ns1:KwotaA>1774353.28</ns1:KwotaA>
+              <ns1:KwotaB>5682561.23</ns1:KwotaB>
+            </ns2:Pasywa_B_III_B_1>
+            <ns2:Pasywa_B_III_B_2>
+              <ns1:KwotaA>0</ns1:KwotaA>
+              <ns1:KwotaB>0</ns1:KwotaB>
+            </ns2:Pasywa_B_III_B_2>
+          </ns2:Pasywa_B_III_B>
+          <ns2:Pasywa_B_III_C>
+            <ns1:KwotaA>0</ns1:KwotaA>
+            <ns1:KwotaB>0</ns1:KwotaB>
+          </ns2:Pasywa_B_III_C>
+        </ns2:Pasywa_B_III>
+        <ns2:Pasywa_B_IV>
+          <ns1:KwotaA>3860300.87</ns1:KwotaA>
+          <ns1:KwotaB>355640.74</ns1:KwotaB>
+        </ns2:Pasywa_B_IV>
+      </ns2:Pasywa_B>
+    </ns2:Pasywa>
+  </BilansJednostkaMala>
+  <RZiSJednostkaMala>
+    <ns2:RZiSPor>
+      <ns2:A>
+        <ns1:KwotaA>25013506.15</ns1:KwotaA>
+        <ns1:KwotaB>23557637.83</ns1:KwotaB>
+        <ns2:A_I>
+          <ns1:KwotaA>24710684.5</ns1:KwotaA>
+          <ns1:KwotaB>24111701.53</ns1:KwotaB>
+        </ns2:A_I>
+        <ns2:A_II>
+          <ns1:KwotaA>302821.65</ns1:KwotaA>
+          <ns1:KwotaB>-554063.7</ns1:KwotaB>
+        </ns2:A_II>
+        <ns2:A_III>
+          <ns1:KwotaA>0</ns1:KwotaA>
+          <ns1:KwotaB>0</ns1:KwotaB>
+        </ns2:A_III>
+      </ns2:A>
+      <ns2:B>
+        <ns1:KwotaA>25733450.93</ns1:KwotaA>
+        <ns1:KwotaB>25855396.92</ns1:KwotaB>
+        <ns2:B_I>
+          <ns1:KwotaA>1404633.56</ns1:KwotaA>
+          <ns1:KwotaB>234574.43</ns1:KwotaB>
+        </ns2:B_I>
+        <ns2:B_II>
+          <ns1:KwotaA>5076104.55</ns1:KwotaA>
+          <ns1:KwotaB>5859664.97</ns1:KwotaB>
+        </ns2:B_II>
+        <ns2:B_III>
+          <ns1:KwotaA>3476351.77</ns1:KwotaA>
+          <ns1:KwotaB>4028785.61</ns1:KwotaB>
+        </ns2:B_III>
+        <ns2:B_IV>
+          <ns1:KwotaA>6217062</ns1:KwotaA>
+          <ns1:KwotaB>6255303.71</ns1:KwotaB>
+        </ns2:B_IV>
+        <ns2:B_V>
+          <ns1:KwotaA>1285810.21</ns1:KwotaA>
+          <ns1:KwotaB>1400193.71</ns1:KwotaB>
+          <ns2:B_V_1>
+            <ns1:KwotaA>561379.5</ns1:KwotaA>
+            <ns1:KwotaB>562977.33</ns1:KwotaB>
+          </ns2:B_V_1>
+        </ns2:B_V>
+        <ns2:B_VI>
+          <ns1:KwotaA>8273488.84</ns1:KwotaA>
+          <ns1:KwotaB>8076874.49</ns1:KwotaB>
+          <ns2:B_VI_1>
+            <ns1:KwotaA>5960323.57</ns1:KwotaA>
+            <ns1:KwotaB>5119479.91</ns1:KwotaB>
+          </ns2:B_VI_1>
+        </ns2:B_VI>
+      </ns2:B>
+      <ns2:C>
+        <ns1:KwotaA>-719944.78</ns1:KwotaA>
+        <ns1:KwotaB>-2297759.09</ns1:KwotaB>
+      </ns2:C>
+      <ns2:D>
+        <ns1:KwotaA>1082038.05</ns1:KwotaA>
+        <ns1:KwotaB>683232.34</ns1:KwotaB>
+        <ns2:D_1>
+          <ns1:KwotaA>0</ns1:KwotaA>
+          <ns1:KwotaB>0</ns1:KwotaB>
+        </ns2:D_1>
+      </ns2:D>
+      <ns2:E>
+        <ns1:KwotaA>5385.96</ns1:KwotaA>
+        <ns1:KwotaB>66530.1</ns1:KwotaB>
+        <ns2:E_1>
+          <ns1:KwotaA>0</ns1:KwotaA>
+          <ns1:KwotaB>0</ns1:KwotaB>
+        </ns2:E_1>
+      </ns2:E>
+      <ns2:F>
+        <ns1:KwotaA>443.62</ns1:KwotaA>
+        <ns1:KwotaB>0</ns1:KwotaB>
+        <ns2:F_I>
+          <ns1:KwotaA>0</ns1:KwotaA>
+          <ns1:KwotaB>0</ns1:KwotaB>
+          <ns2:F_I_1>
+            <ns1:KwotaA>0</ns1:KwotaA>
+            <ns1:KwotaB>0</ns1:KwotaB>
+          </ns2:F_I_1>
+        </ns2:F_I>
+        <ns2:F_II>
+          <ns1:KwotaA>443.62</ns1:KwotaA>
+          <ns1:KwotaB>0</ns1:KwotaB>
+          <ns2:F_II_1>
+            <ns1:KwotaA>0</ns1:KwotaA>
+            <ns1:KwotaB>0</ns1:KwotaB>
+          </ns2:F_II_1>
+        </ns2:F_II>
+        <ns2:F_III>
+          <ns1:KwotaA>0</ns1:KwotaA>
+          <ns1:KwotaB>0</ns1:KwotaB>
+          <ns2:F_III_1>
+            <ns1:KwotaA>0</ns1:KwotaA>
+            <ns1:KwotaB>0</ns1:KwotaB>
+          </ns2:F_III_1>
+        </ns2:F_III>
+        <ns2:F_IV>
+          <ns1:KwotaA>0</ns1:KwotaA>
+          <ns1:KwotaB>0</ns1:KwotaB>
+        </ns2:F_IV>
+      </ns2:F>
+      <ns2:G>
+        <ns1:KwotaA>329298.59</ns1:KwotaA>
+        <ns1:KwotaB>380690.78</ns1:KwotaB>
+        <ns2:G_I>
+          <ns1:KwotaA>190828.6</ns1:KwotaA>
+          <ns1:KwotaB>98514.48</ns1:KwotaB>
+          <ns2:G_I_1>
+            <ns1:KwotaA>0</ns1:KwotaA>
+            <ns1:KwotaB>0</ns1:KwotaB>
+          </ns2:G_I_1>
+        </ns2:G_I>
+        <ns2:G_II>
+          <ns1:KwotaA>0</ns1:KwotaA>
+          <ns1:KwotaB>0</ns1:KwotaB>
+          <ns2:G_II_1>
+            <ns1:KwotaA>0</ns1:KwotaA>
+            <ns1:KwotaB>0</ns1:KwotaB>
+          </ns2:G_II_1>
+        </ns2:G_II>
+        <ns2:G_III>
+          <ns1:KwotaA>0</ns1:KwotaA>
+          <ns1:KwotaB>0</ns1:KwotaB>
+        </ns2:G_III>
+      </ns2:G>
+      <ns2:H>
+        <ns1:KwotaA>27852.34</ns1:KwotaA>
+        <ns1:KwotaB>-2061747.63</ns1:KwotaB>
+      </ns2:H>
+      <ns2:I>
+        <ns1:KwotaA>0</ns1:KwotaA>
+        <ns1:KwotaB>0</ns1:KwotaB>
+      </ns2:I>
+      <ns2:J>
+        <ns1:KwotaA>27852.34</ns1:KwotaA>
+        <ns1:KwotaB>-2061747.63</ns1:KwotaB>
+      </ns2:J>
+    </ns2:RZiSPor>
+  </RZiSJednostkaMala>
+  <DodatkoweInformacjeIObjasnieniaJednostkaMala>
+    <DodatkoweInformacjeIObjasnienia>
+      <ns1:Opis>DODATKOWE INFORMACJE I WYJAŚNIENIA
+1)
+Szczegółowy zakres zmian wartości grup rodzajowych środków trwałych i wartości niematerialnych:
+Stan na 01.01.2024 rok
+Rzeczowe aktywa trwałe -wartość inwentarzowa 9 481 702,53 umorzenie 3 749 223,07 netto 5 732 479,46
+rzeczowe aktywa trwałe w budowie 2 455 322,56
+Razem rzeczowe aktywa trwałe wartość inwentarzowa 11 937 025,09 umorzenie 3749 223,07 wartość netto 8 187 802,02.
+Wartości niematerialne i prawne 799 912,82 umorzenie  319 785,22 netto wartości niematerialne i prawne 480 127,60
+Wartości niematerialne i prawne w budowie 6 383,00
+Razem wartości niematerialne i prawne wartość inwentarzowa  806 295,82 umorzenie 319 785,22 wartość netto 486 510,60.
+Stan na 31.12.2024 rok
+Rzeczowe aktywa trwałe -wartość inwentarzowa 11 971 245,57 umorzenie 4 913 792,83 netto 7 057 452,74
+rzeczowe aktywa trwałe w budowie 19 098,99
+Razem rzeczowe aktywa trwałe wartość inwentarzowa 11 990 344,56 umorzenie 4 913 792,83 wartość netto 7 076 551,73.
+Wartości niematerialne i prawne 799 912,82 umorzenie 559 849,02 netto wartości niematerialne i prawne 240 063,80
+Wartości niematerialne i prawne w budowie 9 575,00
+Razem wartości niematerialne i prawne wartość inwentarzowa  809 487,82 umorzenie 559 849,02 wartość netto 249 638,80
+2) w roku obrotowym  nie było odpisów aktualizujących wartość aktywów trwałych i zmian w aktualizacji.
+Kapitał podstawowy firmy wynosi 881 000,00 PLN.Głównym udziałowcem jest Jan Zadykowicz.
+Fundusz rezerwowy firmy  wynosi 6 784 866,32 i pozostał bez zmian.
+Strata z roku 2023 zostanie pokryta  zyskiem lat następych.
+Propozycja  podziału zysku z 2024 roku  zostanie  rozpatrzona na zgromadzeniu wspólników.
+W 2024 roku nie tworzono  rezerw na należności wątpliwe.
+Przeciętne zatrudnienie w 2024 roku  wyniosło 72,29
+W roku obrotowym  nie udzielono pożyczek i zaliczek osobom wchodzącym w skład organów zarządzających.
+W roku obrotowym nie było zmian zasad (polityki) rachunkowości.
+WYJAŚNIENIE RÓŻNIC PODATKOWYCH
+Przychody z RZIS =26 095 987,82
+storno przeszacowań 2023 roku=  +42016,63
+przeszacowania 2024 rok =-2213,41
+zmiana stanu produktów= -302 821,65
+przychody finansowe ujęte per saldem ( r kursowe) + 80 043,57
+Razem = 25 913 012,96  CIT 8
+
+Koszty z RZIS = 26 068 135,48
+storno przeszacowań 2023 roku  +15 065,01
+przeszacowania  2024 roku = -14 569,43
+zmiana stanu produktów = -302 821,65
+koszty nskup = -1068 472,71
+koszty finansowe ujęte per saldem ( r. kursowe) = +80 043,57
+RAZEM =24 777 380,27 CIT 8
+
+
+
+
+
+
+
+
+
+
+</ns1:Opis>
+    </DodatkoweInformacjeIObjasnienia>
+  </DodatkoweInformacjeIObjasnieniaJednostkaMala>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-cbc46caf-32e4-40f4-8d48-cf86020a3b69"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference URI=""><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/TR/1999/REC-xpath-19991116"><ds:XPath>not(ancestor-or-self::ds:Signature)</ds:XPath></ds:Transform></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>mcftx+xsQwLdNf3n/hAVrmPRsMtaRlXyBEjvDgnVJVo=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProps-cbc46caf-32e4-40f4-8d48-cf86020a3b69"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>PePUKaTgk/7qAok4YiJPwKjx5Z78QFiQxDG/wFFZhAY=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue-cbc46caf-32e4-40f4-8d48-cf86020a3b69">V5myHPGXOLC4ECHuAo/olsJeX8yMxRR1toLdBbylFAtiwlp2Y82epX7J5jCSW1DOaPH4Eu6LLlpiJfuboeN3lgJhQz9kc4N+RIdsC5NxyFwjZj/hicE913+7W2193X+z6zgV1TUaxPbJoU7+5H6WOVimFKZkxl8WuBw8CKi0SYR/26uuW6wx8I0521Kcne2WHHWYBCKtB6hNUPWd8VM3bBzfmMYm20Wz+YqIWIf5kKm6wq1LJyQzO2LVmfYm6K+ggLhBcI/fZrNx/dNRk6Zf9fKepWw7maPBsF4MzJjwz+Ws/1rSViJwNUfChANLI+hhAxPG6Y/s1In3B/xBB/UGpQ==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>MIIHxjCCBa6gAwIBAgITAO/Ub1sxuEXQgHHF7tlNTrnTfTANBgkqhkiG9w0BAQsFADBvMRkwFwYDVQRhDBBWQVRQTC05NTEyMzUyMzc5MQswCQYDVQQGEwJQTDEcMBoGA1UECgwTRXVyb0NlcnQgU3AuIHogby5vLjEnMCUGA1UEAwweQ2VudHJ1bSBLd2FsaWZpa293YW5lIEV1cm9DZXJ0MB4XDTI0MDIxMzA5MjcwOVoXDTI3MDIxMjA5MjcwOVowgZMxCzAJBgNVBAYTAlBMMRkwFwYDVQRhDBBWQVRQTC01MjUyOTU1MDM3MSAwHgYDVQQKDBdNaW5pc3RlcnN0d28gQ3lmcnl6YWNqaTFHMEUGA1UEAww+TWluaXN0ZXIgZG8gc3ByYXcgaW5mb3JtYXR5emFjamkgLSBwaWVjesSZxIcgcG9kcGlzdSB6YXVmYW5lZ28wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC9wsbTdtCAbM7Mcfz0K3tkCDoWTCHYm/KOIasZBWIbyprXwnEj3Raaicp2sY1Qnsworp/ukMfK6qd2TYbn/2mDKHv4UcADoICvDZdA1zR6LdnBlPS7yy2WE+TufQ/N6uy0dsJZTSuRHvA0WSB0vizldXNOmFHyG8gePYGxo796mdFyWWhCBzmbp6U7SG8n2yC/xYDMsPaRm/mEoATr9GKx4S9C763CN8Gg8ylIKFgX3z509w2Qo7YE3JVXQumvWMc0j+9pFqMskJyQdzDSwJ5Yn7sVuq6DIzBPBonblZe6BSPvcYXMot9A7TMKF4U/3qD3aMfSLAQGm/TflzK/VsF3AgMBAAGjggM0MIIDMDAfBgNVHSMEGDAWgBR0YnCZ/xtgO8RktYQfoxUMXMtfvTAdBgNVHQ4EFgQUKJWyVLJ0noM44pwRcot+9vKPceMwDAYDVR0TAQH/BAIwADAOBgNVHQ8BAf8EBAMCBsAwggIuBgNVHSAEggIlMIICITCCAhIGCiqEaAGG+H8BAgMwggICMDAGCCsGAQUFBwIBFiRodHRwOi8vd3d3LmV1cm9jZXJ0LnBsL3JlcG96eXRvcml1bS8wggHMBggrBgEFBQcCAjCCAb4MggG6Q2VydHlmaWthdCB3eXN0YXdpb255IHpnb2RuaWUgeiBha3R1YWxueW0gZG9rdW1lbnRlbTogUG9saXR5a2EgQ2VydHlmaWthY2ppIGkgS29kZWtzIFBvc3RlcG93YW5pYSBDZXJ0eWZpa2FjeWpuZWdvIEt3YWxpZmlrb3dhbnljaCBVc2x1ZyBaYXVmYW5pYSBFdXJvQ2VydCwgem5hamR1amFjeW0gc2llIHcgcmVwb3p5dG9yaXVtOiBodHRwOi8vd3d3LmV1cm9jZXJ0LnBsL3JlcG96eXRvcml1bS8uIFRoaXMgY2VydGlmaWNhdGUgd2FzIGlzc3VlZCBhY2NvcmRpbmcgdG8gdGhlIGN1cnJlbnQgZG9jdW1lbnQ6IENlcnRpZmljYXRlIFBvbGljeSBhbmQgQ2VydGlmaWNhdGlvbiBQcmFjdGljZSBTdGF0ZW1lbnQgb2YgRXVyb0NlcnQgUXVhbGlmaWVkIFRydXN0IFNlcnZpY2VzLCB3aGljaCBjYW4gYmUgZm91bmQgYXQgaHR0cDovL3d3dy5ldXJvY2VydC5wbC9yZXBvenl0b3JpdW0vLjAJBgcEAIvsQAEBMDEGA1UdHwQqMCgwJqAkoCKGIGh0dHA6Ly9jcmwuZXVyb2NlcnQucGwvcWNhMDMuY3JsMFEGCCsGAQUFBwEBBEUwQzBBBggrBgEFBQcwAoY1aHR0cHM6Ly9ldXJvY2VydC5wbC9wdWIvUHJhd28vUUNBMDNfRXVyb2NlcnRfMjAxNy5kZXIwGAYIKwYBBQUHAQMEDDAKMAgGBgQAjkYBATANBgkqhkiG9w0BAQsFAAOCAgEAR9LMtfh7Jwwq5iLNNaZNwzvf/Zd1QV/cfXQMI5IGLvZECvKbLL50AieQZuTGrxevH45fKmTfbaxsliDo1dJP0INge+IuyypqDjZQ8toh7j9fdYykwblmjDiQyQ3G5HjAqnQAxE6t2aHfGMTFph/p05AavtVIvNxtyGVO4KkexnOu796K5lQDbgHtdidHCnKuY0u5GSTgad2uoFW85WVrM4PTCkXjPOb4CgV96MLOS8oQfaqalRI5yUrP2hjtFaNeGu40wU+i1P32qbOn7TAcDBJrdIC86G+TDGSrLvZv8Vab3HILWtebPXA5/LTXC9ptOS2Nr+xP8T/wg+GtXwBBJUf3J6Zj5NZgqtCPZk5PPCn9/YWQtNvmJeDhLguezHV1NobsrfLtS23IZ3CzAdvnKM++CFLpOVgPMYpnz/1V9qbGOXUBqgvronfkXwZaoM6scqwVVf3Iu5C0uYxuOAcpE8MQja0Eg1Q2yMlOudIn/cTSgMGkdA/HLgMLjtj89+OV+uzdYL7SWlf0CcVEAaIRBDAc+9+9Zn7xJ17qTjXSE3Ncp4b8S88Oe20loiGv8cfrzt1GBPK43m1QE5S+J8w6qfyZdBcvmrPYJRpD7aBgYO81YR3z+RjzuMMIMs1oxtbR8hcYOfqymI8h9BZvv/x73xSBQG/CLTQNX8u6qWFkcz0=</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object Id="QualifyingInfos-cbc46caf-32e4-40f4-8d48-cf86020a3b69"><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Id="QualifyingProps-cbc46caf-32e4-40f4-8d48-cf86020a3b69" Target="#Signature-cbc46caf-32e4-40f4-8d48-cf86020a3b69"><xades:SignedProperties Id="SignedProps-cbc46caf-32e4-40f4-8d48-cf86020a3b69"><xades:SignedSignatureProperties><xades:SigningTime>2025-03-26T12:57:05.403+01:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>oB5cVe844NVVRs0BJuC1s9HnioQZsnMztAUTvHTal2I=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=Centrum Kwalifikowane EuroCert,O=EuroCert Sp. z o.o.,C=PL,2.5.4.97=#0c10564154504c2d39353132333532333739</ds:X509IssuerName><ds:X509SerialNumber>20892124217292921814138920212746575688618877</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate><xades:SignaturePolicyIdentifier><xades:SignaturePolicyImplied/></xades:SignaturePolicyIdentifier><xades:SignerRole><xades:ClaimedRoles><xades:ClaimedRole><ppZP:PodpisZP xmlns:os="http://crd.gov.pl/xml/schematy/osoba/2009/03/06/" xmlns:ppZP="http://crd.gov.pl/xml/schematy/ppzp/"><ppZP:DaneZP><ppZP:DaneZPOsobyFizycznej><os:Nazwisko rodzajCzlonu="pierwszy">BOGUSZ</os:Nazwisko><os:Imie>EWA</os:Imie><os:PESEL>67011205040</os:PESEL><ppZP:IdZaufanegoProfilu>28221345</ppZP:IdZaufanegoProfilu><ppZP:IdKontaUzytkownikaEpuap>20190328112826</ppZP:IdKontaUzytkownikaEpuap></ppZP:DaneZPOsobyFizycznej></ppZP:DaneZP><ppZP:DanePodpisu><ppZP:IdKontaUzytkownikaEpuap>20190328112826</ppZP:IdKontaUzytkownikaEpuap><ppZP:IdPolitykiAutoryzacji>103</ppZP:IdPolitykiAutoryzacji></ppZP:DanePodpisu></ppZP:PodpisZP></xades:ClaimedRole></xades:ClaimedRoles></xades:SignerRole></xades:SignedSignatureProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-900414054"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="RefId-a54dadbf-8842-4315-8b48-dac50dbc18d6" URI=""><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/TR/1999/REC-xpath-19991116"><ds:XPath xmlns:ds="http://www.w3.org/2000/09/xmldsig#">not(ancestor-or-self::ds:Signature)</ds:XPath></ds:Transform><ds:Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>mcftx+xsQwLdNf3n/hAVrmPRsMtaRlXyBEjvDgnVJVo=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties-1178494912"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>ktffrrX0Q+COQQsHdFnlTLCjAMxsQIPSSKnhzmSJ7iE=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>VvGay5A23KUzR2yJGF6Y0uS1+SvVLv1ZwYo3AJ0hDQIfpoZ/bPuAwWzKCcsIFB9mW/ksClbPB7tfnBMbMSkkrOm0maLo6TGAViZ5CCRc/J4P4OXqE2wlD50k5RzIfekXp4YByEE0Jdbr9IiPbIeseaU2v90dnKJwoeAYI6EP0v/U5VH0sNr3CO8hkfRRhkqn8P0nGSo5WQgqpr49Y8+cNz6RKThto924EMtTA0PCfIvQvTwYpVbhIoOAxWQzoBeJnOpaN4RDcmGYFwAoXiViDCkNFPLLw/lkBrfsIWlgeVLzdnLHV+JmT3ztKY2HrPVq2YACCuxbXX4PEKc5sLf5+g==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>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</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Target="#Signature-900414054"><xades:SignedProperties Id="SignedProperties-1178494912"><xades:SignedSignatureProperties><xades:SigningTime>2025-03-26T14:02:05.476Z</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>Y8gGV5J9vRVGObizhccINQdKHi0=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0C10564154504C2D35323530303031303930, CN=CUZ Sigillum - QCA1, O=Polska Wytwórnia Papierów Wartościowych S.A., C=PL</ds:X509IssuerName><ds:X509SerialNumber>1503524204080828086</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate><xades:SignaturePolicyIdentifier><xades:SignaturePolicyImplied/></xades:SignaturePolicyIdentifier></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#RefId-a54dadbf-8842-4315-8b48-dac50dbc18d6"><xades:MimeType>text/xml</xades:MimeType></xades:DataObjectFormat><xades:CommitmentTypeIndication><xades:CommitmentTypeId><xades:Identifier>http://uri.etsi.org/01903/v1.2.2#ProofOfApproval</xades:Identifier></xades:CommitmentTypeId></xades:CommitmentTypeIndication></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></JednostkaMala>
