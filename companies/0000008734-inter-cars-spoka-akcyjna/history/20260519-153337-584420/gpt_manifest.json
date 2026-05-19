@@ -14,18 +14,6 @@
       "raw_url": "https://raw.githubusercontent.com/AG-EY-Engineer/prsresults/main/companies/0000008734-inter-cars-spoka-akcyjna/latest/sprawozdanie_zarzadu_ai.txt"
     },
     {
-      "kind": "financial_statement_ai_txt",
-      "why": "Plain-text extraction from PDF financial statement when XML is unavailable.",
-      "path": "companies/0000008734-inter-cars-spoka-akcyjna/latest/sprawozdanie_finansowe_ai.txt",
-      "raw_url": "https://raw.githubusercontent.com/AG-EY-Engineer/prsresults/main/companies/0000008734-inter-cars-spoka-akcyjna/latest/sprawozdanie_finansowe_ai.txt"
-    },
-    {
-      "kind": "financial_statement_pdf",
-      "why": "Original PDF financial statement.",
-      "path": "companies/0000008734-inter-cars-spoka-akcyjna/latest/sprawozdanie_finansowe.pdf",
-      "raw_url": "https://raw.githubusercontent.com/AG-EY-Engineer/prsresults/main/companies/0000008734-inter-cars-spoka-akcyjna/latest/sprawozdanie_finansowe.pdf"
-    },
-    {
       "kind": "management_report_pdf",
       "why": "Original source PDF.",
       "path": "companies/0000008734-inter-cars-spoka-akcyjna/latest/sprawozdanie_zarzadu.pdf",
