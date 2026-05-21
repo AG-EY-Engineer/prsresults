@@ -1,5 +1,77 @@
 [
   {
+    "krs": "0000026609",
+    "query_name": "EUROPEJSKI FUNDUSZ LEASINGOWY SPÓŁKA AKCYJNA",
+    "status": "pending",
+    "reason": "PRS/RDF jest objety cooldownem po blokadzie. Centralny cache repo nie ma tego KRS, wiec pomijam lokalne wywolania RDF, zeby nie eskalowac captcha/blokady.",
+    "first_requested_at": "2026-05-21T16:39:44",
+    "last_requested_at": "2026-05-21T16:39:44"
+  },
+  {
+    "krs": "0000033882",
+    "query_name": "WIENER TOWARZYSTWO UBEZPIECZEŃ SPÓŁKA AKCYJNA VIENNA INSURANCE GROUP",
+    "status": "pending",
+    "reason": "PRS/RDF jest objety cooldownem po blokadzie. Centralny cache repo nie ma tego KRS, wiec pomijam lokalne wywolania RDF, zeby nie eskalowac captcha/blokady.",
+    "first_requested_at": "2026-05-21T16:39:44",
+    "last_requested_at": "2026-05-21T16:39:44"
+  },
+  {
+    "krs": "0000048901",
+    "query_name": "DOM MAKLERSKI BANKU OCHRONY ŚRODOWISKA SPÓŁKA AKCYJNA",
+    "status": "pending",
+    "reason": "PRS/RDF jest objety cooldownem po blokadzie. Centralny cache repo nie ma tego KRS, wiec pomijam lokalne wywolania RDF, zeby nie eskalowac captcha/blokady.",
+    "first_requested_at": "2026-05-21T16:39:44",
+    "last_requested_at": "2026-05-21T16:39:44"
+  },
+  {
+    "krs": "0000054136",
+    "query_name": "INTERRISK TOWARZYSTWO UBEZPIECZEŃ SPÓŁKA AKCYJNA VIENNA INSURANCE GROUP",
+    "status": "pending",
+    "reason": "PRS/RDF jest objety cooldownem po blokadzie. Centralny cache repo nie ma tego KRS, wiec pomijam lokalne wywolania RDF, zeby nie eskalowac captcha/blokady.",
+    "first_requested_at": "2026-05-21T16:39:44",
+    "last_requested_at": "2026-05-21T16:39:44"
+  },
+  {
+    "krs": "0000078979",
+    "query_name": "KRAKOWSKI BANK SPÓŁDZIELCZY",
+    "status": "pending",
+    "reason": "PRS/RDF jest objety cooldownem po blokadzie. Centralny cache repo nie ma tego KRS, wiec pomijam lokalne wywolania RDF, zeby nie eskalowac captcha/blokady.",
+    "first_requested_at": "2026-05-21T16:39:44",
+    "last_requested_at": "2026-05-21T16:39:44"
+  },
+  {
+    "krs": "0000094881",
+    "query_name": "KORPORACJA UBEZPIECZEŃ KREDYTÓW EKSPORTOWYCH SPÓŁKA AKCYJNA",
+    "status": "pending",
+    "reason": "PRS/RDF jest objety cooldownem po blokadzie. Centralny cache repo nie ma tego KRS, wiec pomijam lokalne wywolania RDF, zeby nie eskalowac captcha/blokady.",
+    "first_requested_at": "2026-05-21T16:39:44",
+    "last_requested_at": "2026-05-21T16:39:44"
+  },
+  {
+    "krs": "0000257884",
+    "query_name": "SKANDINAVISKA ENSKILDA BANKEN AB (SPÓŁKA AKCYJNA) ODDZIAŁ W POLSCE",
+    "status": "pending",
+    "reason": "PRS/RDF jest objety cooldownem po blokadzie. Centralny cache repo nie ma tego KRS, wiec pomijam lokalne wywolania RDF, zeby nie eskalowac captcha/blokady.",
+    "first_requested_at": "2026-05-21T16:39:44",
+    "last_requested_at": "2026-05-21T16:39:44"
+  },
+  {
+    "krs": "0000446973",
+    "query_name": "INTESA SANPAOLO S.P.A.",
+    "status": "pending",
+    "reason": "PRS/RDF zablokowal pobranie (403/challenge), a centralny cache repo nie ma jeszcze tego KRS. Nie zapisuje falszywych plikow XML/PDF.",
+    "first_requested_at": "2026-05-21T16:39:44",
+    "last_requested_at": "2026-05-21T16:39:44"
+  },
+  {
+    "krs": "0000587260",
+    "query_name": "TOWARZYSTWO UBEZPIECZEŃ WZAJEMNYCH POLSKI ZAKŁAD UBEZPIECZEŃ WZAJEMNYCH",
+    "status": "pending",
+    "reason": "PRS/RDF jest objety cooldownem po blokadzie. Centralny cache repo nie ma tego KRS, wiec pomijam lokalne wywolania RDF, zeby nie eskalowac captcha/blokady.",
+    "first_requested_at": "2026-05-21T16:39:44",
+    "last_requested_at": "2026-05-21T16:39:44"
+  },
+  {
     "krs": "0000913981",
     "query_name": "oferteo",
     "status": "pending",
