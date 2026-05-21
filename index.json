@@ -1,5 +1,19 @@
 [
   {
+    "krs": "0000001635",
+    "company": "SILTEC SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "path": "companies/0000001635-siltec-spoka-z-ograniczona-odpowiedzialnoscia/latest",
+    "manifest": "companies/0000001635-siltec-spoka-z-ograniczona-odpowiedzialnoscia/latest/manifest.json",
+    "gpt_manifest": "companies/0000001635-siltec-spoka-z-ograniczona-odpowiedzialnoscia/latest/gpt_manifest.json",
+    "financial_statement_xml": "companies/0000001635-siltec-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.xml",
+    "financial_statement_ai_json": "companies/0000001635-siltec-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.json",
+    "financial_statement_ai_view_json": "companies/0000001635-siltec-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_statement_pdf": "companies/0000001635-siltec-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.pdf",
+    "financial_statement_ai_txt": "companies/0000001635-siltec-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.txt",
+    "management_report_pdf": "companies/0000001635-siltec-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000001635-siltec-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
+  },
+  {
     "krs": "0000002554",
     "company": "Parexel Polska Spółka z ograniczoną odpowiedzialnością",
     "path": "companies/0000002554-parexel-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest",
@@ -24,6 +38,20 @@
     "financial_statement_ai_txt": "",
     "management_report_pdf": "companies/0000003445-multimedia-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu.pdf",
     "management_report_ai_txt": "companies/0000003445-multimedia-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
+  },
+  {
+    "krs": "0000007411",
+    "company": "Totalizator Sportowy Sp. z o.o. w Warszawie",
+    "path": "companies/0000007411-totalizator-sportowy-spoka-z-ograniczona-odpowiedzialnoscia/latest",
+    "manifest": "companies/0000007411-totalizator-sportowy-spoka-z-ograniczona-odpowiedzialnoscia/latest/manifest.json",
+    "gpt_manifest": "companies/0000007411-totalizator-sportowy-spoka-z-ograniczona-odpowiedzialnoscia/latest/gpt_manifest.json",
+    "financial_statement_xml": "companies/0000007411-totalizator-sportowy-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.xml",
+    "financial_statement_ai_json": "companies/0000007411-totalizator-sportowy-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.json",
+    "financial_statement_ai_view_json": "companies/0000007411-totalizator-sportowy-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_statement_pdf": "companies/0000007411-totalizator-sportowy-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.pdf",
+    "financial_statement_ai_txt": "companies/0000007411-totalizator-sportowy-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.txt",
+    "management_report_pdf": "companies/0000007411-totalizator-sportowy-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000007411-totalizator-sportowy-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
     "krs": "0000008734",
@@ -360,6 +388,20 @@
     "management_report_ai_txt": "companies/0000057567-comarch-spoka-akcyjna/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
+    "krs": "0000058132",
+    "company": "Novartis Poland Spólka z o.o.",
+    "path": "companies/0000058132-novartis-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest",
+    "manifest": "companies/0000058132-novartis-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/manifest.json",
+    "gpt_manifest": "companies/0000058132-novartis-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/gpt_manifest.json",
+    "financial_statement_xml": "companies/0000058132-novartis-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.xml",
+    "financial_statement_ai_json": "companies/0000058132-novartis-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.json",
+    "financial_statement_ai_view_json": "companies/0000058132-novartis-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_statement_pdf": "companies/0000058132-novartis-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.pdf",
+    "financial_statement_ai_txt": "companies/0000058132-novartis-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.txt",
+    "management_report_pdf": "companies/0000058132-novartis-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000058132-novartis-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
+  },
+  {
     "krs": "0000061293",
     "company": "Fiserv Polska Spółka Akcyjna",
     "path": "companies/0000061293-0000061293/latest",
@@ -454,6 +496,20 @@
     "financial_statement_ai_txt": "",
     "management_report_pdf": "companies/0000116749-lubusko---wielkopolski-bank-spodzielczy/latest/sprawozdanie_zarzadu.pdf",
     "management_report_ai_txt": "companies/0000116749-lubusko---wielkopolski-bank-spodzielczy/latest/sprawozdanie_zarzadu_ai.txt"
+  },
+  {
+    "krs": "0000120478",
+    "company": "JABIL POLAND Sp. z o.o.",
+    "path": "companies/0000120478-jabil-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest",
+    "manifest": "companies/0000120478-jabil-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/manifest.json",
+    "gpt_manifest": "companies/0000120478-jabil-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/gpt_manifest.json",
+    "financial_statement_xml": "companies/0000120478-jabil-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.xml",
+    "financial_statement_ai_json": "companies/0000120478-jabil-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.json",
+    "financial_statement_ai_view_json": "companies/0000120478-jabil-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_statement_pdf": "companies/0000120478-jabil-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.pdf",
+    "financial_statement_ai_txt": "companies/0000120478-jabil-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.txt",
+    "management_report_pdf": "companies/0000120478-jabil-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000120478-jabil-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
     "krs": "0000121845",
@@ -634,6 +690,20 @@
     "management_report_ai_txt": "companies/0000245000-bnp-paribas-s.a-oddzia-w-polsce/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
+    "krs": "0000248220",
+    "company": "Huuuge Games Spółka z ograniczoną odpowiedzialnością",
+    "path": "companies/0000248220-huuuge-games-spoka-z-ograniczona-odpowiedzialnoscia/latest",
+    "manifest": "companies/0000248220-huuuge-games-spoka-z-ograniczona-odpowiedzialnoscia/latest/manifest.json",
+    "gpt_manifest": "companies/0000248220-huuuge-games-spoka-z-ograniczona-odpowiedzialnoscia/latest/gpt_manifest.json",
+    "financial_statement_xml": "companies/0000248220-huuuge-games-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.xml",
+    "financial_statement_ai_json": "companies/0000248220-huuuge-games-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.json",
+    "financial_statement_ai_view_json": "companies/0000248220-huuuge-games-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_statement_pdf": "companies/0000248220-huuuge-games-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.pdf",
+    "financial_statement_ai_txt": "companies/0000248220-huuuge-games-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.txt",
+    "management_report_pdf": "companies/0000248220-huuuge-games-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000248220-huuuge-games-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
+  },
+  {
     "krs": "0000250684",
     "company": "DANSKE BANK A S SPOKA AKCYJNA ODDZIA W POLSCE",
     "path": "companies/0000250684-danske-bank-a-s-spoka-akcyjna-oddzia-w-polsce/latest",
@@ -770,6 +840,20 @@
     "management_report_ai_txt": "companies/0000294304-0000294304/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
+    "krs": "0000296158",
+    "company": "WOJSKOWE ZAKŁADY ELEKTRONICZNE SPÓŁKA AKCYJNA",
+    "path": "companies/0000296158-wojskowe-zakady-elektroniczne-spoka-akcyjna/latest",
+    "manifest": "companies/0000296158-wojskowe-zakady-elektroniczne-spoka-akcyjna/latest/manifest.json",
+    "gpt_manifest": "companies/0000296158-wojskowe-zakady-elektroniczne-spoka-akcyjna/latest/gpt_manifest.json",
+    "financial_statement_xml": "companies/0000296158-wojskowe-zakady-elektroniczne-spoka-akcyjna/latest/sprawozdanie_finansowe.xml",
+    "financial_statement_ai_json": "companies/0000296158-wojskowe-zakady-elektroniczne-spoka-akcyjna/latest/sprawozdanie_finansowe_ai.json",
+    "financial_statement_ai_view_json": "companies/0000296158-wojskowe-zakady-elektroniczne-spoka-akcyjna/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_statement_pdf": "companies/0000296158-wojskowe-zakady-elektroniczne-spoka-akcyjna/latest/sprawozdanie_finansowe.pdf",
+    "financial_statement_ai_txt": "companies/0000296158-wojskowe-zakady-elektroniczne-spoka-akcyjna/latest/sprawozdanie_finansowe_ai.txt",
+    "management_report_pdf": "companies/0000296158-wojskowe-zakady-elektroniczne-spoka-akcyjna/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000296158-wojskowe-zakady-elektroniczne-spoka-akcyjna/latest/sprawozdanie_zarzadu_ai.txt"
+  },
+  {
     "krs": "0000310459",
     "company": "HSBC Service Delivery (Polska) sp. z o.o.",
     "path": "companies/0000310459-0000310459/latest",
@@ -860,6 +944,20 @@
     "financial_statement_ai_txt": "",
     "management_report_pdf": "companies/0000347997-0000347997/latest/sprawozdanie_zarzadu.pdf",
     "management_report_ai_txt": "companies/0000347997-0000347997/latest/sprawozdanie_zarzadu_ai.txt"
+  },
+  {
+    "krs": "0000359814",
+    "company": "LUXOFT POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "path": "companies/0000359814-luxoft-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest",
+    "manifest": "companies/0000359814-luxoft-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/manifest.json",
+    "gpt_manifest": "companies/0000359814-luxoft-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/gpt_manifest.json",
+    "financial_statement_xml": "companies/0000359814-luxoft-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.xml",
+    "financial_statement_ai_json": "companies/0000359814-luxoft-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.json",
+    "financial_statement_ai_view_json": "companies/0000359814-luxoft-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_statement_pdf": "companies/0000359814-luxoft-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.pdf",
+    "financial_statement_ai_txt": "companies/0000359814-luxoft-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.txt",
+    "management_report_pdf": "companies/0000359814-luxoft-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000359814-luxoft-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
     "krs": "0000366661",
@@ -1074,6 +1172,20 @@
     "management_report_ai_txt": "companies/0000491196-mgn-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
+    "krs": "0000568963",
+    "company": "Grupa OLX Sp. z o.o.",
+    "path": "companies/0000568963-grupa-olx-spoka-z-ograniczona-odpowiedzialnoscia/latest",
+    "manifest": "companies/0000568963-grupa-olx-spoka-z-ograniczona-odpowiedzialnoscia/latest/manifest.json",
+    "gpt_manifest": "companies/0000568963-grupa-olx-spoka-z-ograniczona-odpowiedzialnoscia/latest/gpt_manifest.json",
+    "financial_statement_xml": "companies/0000568963-grupa-olx-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.xml",
+    "financial_statement_ai_json": "companies/0000568963-grupa-olx-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.json",
+    "financial_statement_ai_view_json": "companies/0000568963-grupa-olx-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_statement_pdf": "companies/0000568963-grupa-olx-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.pdf",
+    "financial_statement_ai_txt": "companies/0000568963-grupa-olx-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.txt",
+    "management_report_pdf": "",
+    "management_report_ai_txt": ""
+  },
+  {
     "krs": "0000577385",
     "company": "SOLARTECH spółka z o.o.",
     "path": "companies/0000577385-solartech-spoka-z-ograniczona-odpowiedzialnoscia/latest",
@@ -1098,6 +1210,20 @@
     "financial_statement_ai_view_json": "companies/0000606530-callstack.io-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai_view.json",
     "management_report_pdf": "companies/0000606530-callstack.io-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu.pdf",
     "management_report_ai_txt": "companies/0000606530-callstack.io-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
+  },
+  {
+    "krs": "0000634928",
+    "company": "CENEO.PL SPOKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
+    "path": "companies/0000634928-ceneo.pl-spoka-z-ograniczona-odpowiedzialnoscia/latest",
+    "manifest": "companies/0000634928-ceneo.pl-spoka-z-ograniczona-odpowiedzialnoscia/latest/manifest.json",
+    "gpt_manifest": "companies/0000634928-ceneo.pl-spoka-z-ograniczona-odpowiedzialnoscia/latest/gpt_manifest.json",
+    "financial_statement_xml": "",
+    "financial_statement_ai_json": "",
+    "financial_statement_ai_view_json": "",
+    "financial_statement_pdf": "companies/0000634928-ceneo.pl-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.pdf",
+    "financial_statement_ai_txt": "companies/0000634928-ceneo.pl-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.txt",
+    "management_report_pdf": "companies/0000634928-ceneo.pl-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000634928-ceneo.pl-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
     "krs": "0000660949",
@@ -1140,6 +1266,20 @@
     "financial_statement_ai_txt": "companies/0000716108-emitel-spoka-akcyjna/latest/sprawozdanie_finansowe_ai.txt",
     "management_report_pdf": "companies/0000716108-emitel-spoka-akcyjna/latest/sprawozdanie_zarzadu.pdf",
     "management_report_ai_txt": "companies/0000716108-emitel-spoka-akcyjna/latest/sprawozdanie_zarzadu_ai.txt"
+  },
+  {
+    "krs": "0000737347",
+    "company": "FLYTRONIC SPÓŁKA AKCYJNA",
+    "path": "companies/0000737347-flytronic-spoka-akcyjna/latest",
+    "manifest": "companies/0000737347-flytronic-spoka-akcyjna/latest/manifest.json",
+    "gpt_manifest": "companies/0000737347-flytronic-spoka-akcyjna/latest/gpt_manifest.json",
+    "financial_statement_xml": "companies/0000737347-flytronic-spoka-akcyjna/latest/sprawozdanie_finansowe.xml",
+    "financial_statement_ai_json": "companies/0000737347-flytronic-spoka-akcyjna/latest/sprawozdanie_finansowe_ai.json",
+    "financial_statement_ai_view_json": "companies/0000737347-flytronic-spoka-akcyjna/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_statement_pdf": "companies/0000737347-flytronic-spoka-akcyjna/latest/sprawozdanie_finansowe.pdf",
+    "financial_statement_ai_txt": "companies/0000737347-flytronic-spoka-akcyjna/latest/sprawozdanie_finansowe_ai.txt",
+    "management_report_pdf": "companies/0000737347-flytronic-spoka-akcyjna/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000737347-flytronic-spoka-akcyjna/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
     "krs": "0000739952",
@@ -1222,6 +1362,20 @@
     "management_report_ai_txt": ""
   },
   {
+    "krs": "0000811198",
+    "company": "ATOS POLAND GLOBAL SERVICES SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "path": "companies/0000811198-atos-poland-global-services-spoka-z-ograniczona-odpowiedzialnoscia/latest",
+    "manifest": "companies/0000811198-atos-poland-global-services-spoka-z-ograniczona-odpowiedzialnoscia/latest/manifest.json",
+    "gpt_manifest": "companies/0000811198-atos-poland-global-services-spoka-z-ograniczona-odpowiedzialnoscia/latest/gpt_manifest.json",
+    "financial_statement_xml": "companies/0000811198-atos-poland-global-services-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.xml",
+    "financial_statement_ai_json": "companies/0000811198-atos-poland-global-services-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.json",
+    "financial_statement_ai_view_json": "companies/0000811198-atos-poland-global-services-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_statement_pdf": "companies/0000811198-atos-poland-global-services-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.pdf",
+    "financial_statement_ai_txt": "companies/0000811198-atos-poland-global-services-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.txt",
+    "management_report_pdf": "companies/0000811198-atos-poland-global-services-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000811198-atos-poland-global-services-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
+  },
+  {
     "krs": "0000823132",
     "company": "Bank Nowy S.A.",
     "path": "companies/0000823132-bank-nowy-spoka-akcyjna/latest",
@@ -1274,6 +1428,20 @@
     "financial_statement_ai_view_json": "companies/0000913981-0000913981/latest/sprawozdanie_finansowe_ai_view.json",
     "financial_statement_pdf": "",
     "financial_statement_ai_txt": "",
+    "management_report_pdf": "",
+    "management_report_ai_txt": ""
+  },
+  {
+    "krs": "0000944496",
+    "company": "POLSKI SWIATOWOD OTWARTY SPOKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
+    "path": "companies/0000944496-polski-swiatowod-otwarty-spoka-z-ograniczona-odpowiedzialnoscia/latest",
+    "manifest": "companies/0000944496-polski-swiatowod-otwarty-spoka-z-ograniczona-odpowiedzialnoscia/latest/manifest.json",
+    "gpt_manifest": "companies/0000944496-polski-swiatowod-otwarty-spoka-z-ograniczona-odpowiedzialnoscia/latest/gpt_manifest.json",
+    "financial_statement_xml": "",
+    "financial_statement_ai_json": "",
+    "financial_statement_ai_view_json": "",
+    "financial_statement_pdf": "companies/0000944496-polski-swiatowod-otwarty-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.pdf",
+    "financial_statement_ai_txt": "companies/0000944496-polski-swiatowod-otwarty-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.txt",
     "management_report_pdf": "",
     "management_report_ai_txt": ""
   },
