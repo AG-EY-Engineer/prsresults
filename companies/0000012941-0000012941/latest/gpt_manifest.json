@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "company_name": "IBM Polska Sp. z o.o.",
   "krs": "0000012941",
-  "published_at": "2026-05-06",
+  "published_at": "2026-05-21",
   "canonical_path": "companies/0000012941-0000012941/latest",
   "unit_of_measure": "PLN",
   "start_here": "financial_statement_ai_view_json",
@@ -26,10 +26,22 @@
       "raw_url": "https://raw.githubusercontent.com/AG-EY-Engineer/prsresults/main/companies/0000012941-0000012941/latest/sprawozdanie_finansowe_ai.json"
     },
     {
+      "kind": "financial_statement_ai_txt",
+      "why": "Plain-text extraction from PDF financial statement when XML is unavailable.",
+      "path": "companies/0000012941-0000012941/latest/sprawozdanie_finansowe_ai.txt",
+      "raw_url": "https://raw.githubusercontent.com/AG-EY-Engineer/prsresults/main/companies/0000012941-0000012941/latest/sprawozdanie_finansowe_ai.txt"
+    },
+    {
       "kind": "financial_statement_xml",
       "why": "Original source XML.",
       "path": "companies/0000012941-0000012941/latest/sprawozdanie_finansowe.xml",
       "raw_url": "https://raw.githubusercontent.com/AG-EY-Engineer/prsresults/main/companies/0000012941-0000012941/latest/sprawozdanie_finansowe.xml"
+    },
+    {
+      "kind": "financial_statement_pdf",
+      "why": "Original PDF financial statement.",
+      "path": "companies/0000012941-0000012941/latest/sprawozdanie_finansowe.pdf",
+      "raw_url": "https://raw.githubusercontent.com/AG-EY-Engineer/prsresults/main/companies/0000012941-0000012941/latest/sprawozdanie_finansowe.pdf"
     },
     {
       "kind": "management_report_pdf",
