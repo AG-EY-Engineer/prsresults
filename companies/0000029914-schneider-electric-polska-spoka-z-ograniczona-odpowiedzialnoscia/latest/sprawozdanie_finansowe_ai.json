@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-05-17T14:42:36",
-  "source_file": "02_roczne-sprawozdanie-finansowe__eSPR_522001196_b244e0e6.xml",
+  "generated_at": "2026-05-21T20:26:29",
+  "source_file": "01_roczne-sprawozdanie-finansowe__eSPR_5220011965_2024_292_62490c35.xml",
   "root_tag": "JednostkaInnaWTys",
   "root_namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2025/01/01/JednostkaInnaWTysiacach",
   "namespaces": {

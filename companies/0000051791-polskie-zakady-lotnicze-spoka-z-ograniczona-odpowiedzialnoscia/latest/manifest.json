@@ -1,0 +1,20 @@
+{
+  "company_name": "POLSKIE ZAKADY LOTNICZE SPOKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
+  "krs": "0000051791",
+  "status": "downloaded",
+  "published_at": "2026-05-21",
+  "canonical_path": "companies/0000051791-polskie-zakady-lotnicze-spoka-z-ograniczona-odpowiedzialnoscia/latest",
+  "history_retention": 3,
+  "files": [
+    {
+      "name": "sprawozdanie_zarzadu.pdf",
+      "kind": "management_report_pdf",
+      "path": "companies/0000051791-polskie-zakady-lotnicze-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu.pdf"
+    },
+    {
+      "name": "sprawozdanie_zarzadu_ai.txt",
+      "kind": "management_report_ai_text",
+      "path": "companies/0000051791-polskie-zakady-lotnicze-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
+    }
+  ]
+}

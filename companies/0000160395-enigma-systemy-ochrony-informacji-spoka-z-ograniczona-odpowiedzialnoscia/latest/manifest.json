@@ -1,0 +1,20 @@
+{
+  "company_name": "ENIGMA SYSTEMY OCHRONY INFORMACJI SPOKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
+  "krs": "0000160395",
+  "status": "downloaded",
+  "published_at": "2026-05-21",
+  "canonical_path": "companies/0000160395-enigma-systemy-ochrony-informacji-spoka-z-ograniczona-odpowiedzialnoscia/latest",
+  "history_retention": 3,
+  "files": [
+    {
+      "name": "sprawozdanie_finansowe.pdf",
+      "kind": "financial_statement_pdf",
+      "path": "companies/0000160395-enigma-systemy-ochrony-informacji-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.pdf"
+    },
+    {
+      "name": "sprawozdanie_finansowe_ai.txt",
+      "kind": "financial_statement_ai_text",
+      "path": "companies/0000160395-enigma-systemy-ochrony-informacji-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.txt"
+    }
+  ]
+}

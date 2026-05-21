@@ -118,6 +118,8 @@
     "financial_statement_xml": "companies/0000019909-cisco-systems-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.xml",
     "financial_statement_ai_json": "companies/0000019909-cisco-systems-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.json",
     "financial_statement_ai_view_json": "companies/0000019909-cisco-systems-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_statement_pdf": "companies/0000019909-cisco-systems-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.pdf",
+    "financial_statement_ai_txt": "companies/0000019909-cisco-systems-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.txt",
     "management_report_pdf": "companies/0000019909-cisco-systems-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu.pdf",
     "management_report_ai_txt": "companies/0000019909-cisco-systems-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
   },
@@ -200,8 +202,8 @@
     "financial_statement_xml": "companies/0000029914-schneider-electric-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.xml",
     "financial_statement_ai_json": "companies/0000029914-schneider-electric-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.json",
     "financial_statement_ai_view_json": "companies/0000029914-schneider-electric-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai_view.json",
-    "financial_statement_pdf": "",
-    "financial_statement_ai_txt": "",
+    "financial_statement_pdf": "companies/0000029914-schneider-electric-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.pdf",
+    "financial_statement_ai_txt": "companies/0000029914-schneider-electric-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.txt",
     "management_report_pdf": "companies/0000029914-schneider-electric-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu.pdf",
     "management_report_ai_txt": "companies/0000029914-schneider-electric-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
   },
@@ -302,6 +304,20 @@
     "management_report_ai_txt": "companies/0000049482-pelion-spoka-akcyjna/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
+    "krs": "0000051791",
+    "company": "POLSKIE ZAKADY LOTNICZE SPOKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
+    "path": "companies/0000051791-polskie-zakady-lotnicze-spoka-z-ograniczona-odpowiedzialnoscia/latest",
+    "manifest": "companies/0000051791-polskie-zakady-lotnicze-spoka-z-ograniczona-odpowiedzialnoscia/latest/manifest.json",
+    "gpt_manifest": "companies/0000051791-polskie-zakady-lotnicze-spoka-z-ograniczona-odpowiedzialnoscia/latest/gpt_manifest.json",
+    "financial_statement_xml": "",
+    "financial_statement_ai_json": "",
+    "financial_statement_ai_view_json": "",
+    "financial_statement_pdf": "",
+    "financial_statement_ai_txt": "",
+    "management_report_pdf": "companies/0000051791-polskie-zakady-lotnicze-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000051791-polskie-zakady-lotnicze-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
+  },
+  {
     "krs": "0000053615",
     "company": "Hitachi Rail GTS Polska sp. z o.o.",
     "path": "companies/0000053615-hitachi-rail-gts-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest",
@@ -314,6 +330,34 @@
     "financial_statement_ai_txt": "",
     "management_report_pdf": "companies/0000053615-hitachi-rail-gts-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu.pdf",
     "management_report_ai_txt": "companies/0000053615-hitachi-rail-gts-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
+  },
+  {
+    "krs": "0000056838",
+    "company": "MICROSOFT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "path": "companies/0000056838-microsoft-spoka-z-ograniczona-odpowiedzialnoscia/latest",
+    "manifest": "companies/0000056838-microsoft-spoka-z-ograniczona-odpowiedzialnoscia/latest/manifest.json",
+    "gpt_manifest": "companies/0000056838-microsoft-spoka-z-ograniczona-odpowiedzialnoscia/latest/gpt_manifest.json",
+    "financial_statement_xml": "companies/0000056838-microsoft-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.xml",
+    "financial_statement_ai_json": "companies/0000056838-microsoft-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.json",
+    "financial_statement_ai_view_json": "companies/0000056838-microsoft-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_statement_pdf": "companies/0000056838-microsoft-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.pdf",
+    "financial_statement_ai_txt": "companies/0000056838-microsoft-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.txt",
+    "management_report_pdf": "companies/0000056838-microsoft-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000056838-microsoft-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
+  },
+  {
+    "krs": "0000057567",
+    "company": "Comarch S.A.",
+    "path": "companies/0000057567-comarch-spoka-akcyjna/latest",
+    "manifest": "companies/0000057567-comarch-spoka-akcyjna/latest/manifest.json",
+    "gpt_manifest": "companies/0000057567-comarch-spoka-akcyjna/latest/gpt_manifest.json",
+    "financial_statement_xml": "companies/0000057567-comarch-spoka-akcyjna/latest/sprawozdanie_finansowe.xml",
+    "financial_statement_ai_json": "companies/0000057567-comarch-spoka-akcyjna/latest/sprawozdanie_finansowe_ai.json",
+    "financial_statement_ai_view_json": "companies/0000057567-comarch-spoka-akcyjna/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_statement_pdf": "companies/0000057567-comarch-spoka-akcyjna/latest/sprawozdanie_finansowe.pdf",
+    "financial_statement_ai_txt": "companies/0000057567-comarch-spoka-akcyjna/latest/sprawozdanie_finansowe_ai.txt",
+    "management_report_pdf": "companies/0000057567-comarch-spoka-akcyjna/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000057567-comarch-spoka-akcyjna/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
     "krs": "0000061293",
@@ -438,6 +482,20 @@
     "management_report_ai_txt": "companies/0000122389-polmlek-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
+    "krs": "0000139643",
+    "company": "PROCTER AND GAMBLE POLSKA SPÓŁKA Z O.O.",
+    "path": "companies/0000139643-procter-and-gamble-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest",
+    "manifest": "companies/0000139643-procter-and-gamble-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/manifest.json",
+    "gpt_manifest": "companies/0000139643-procter-and-gamble-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/gpt_manifest.json",
+    "financial_statement_xml": "companies/0000139643-procter-and-gamble-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.xml",
+    "financial_statement_ai_json": "companies/0000139643-procter-and-gamble-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.json",
+    "financial_statement_ai_view_json": "companies/0000139643-procter-and-gamble-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_statement_pdf": "companies/0000139643-procter-and-gamble-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.pdf",
+    "financial_statement_ai_txt": "companies/0000139643-procter-and-gamble-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.txt",
+    "management_report_pdf": "companies/0000139643-procter-and-gamble-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000139643-procter-and-gamble-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
+  },
+  {
     "krs": "0000153583",
     "company": "Lauber Sp. z o.o.",
     "path": "companies/0000153583-lauber-spoka-z-ograniczona-odpowiedzialnoscia/latest",
@@ -450,6 +508,20 @@
     "financial_statement_ai_txt": "",
     "management_report_pdf": "companies/0000153583-lauber-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu.pdf",
     "management_report_ai_txt": "companies/0000153583-lauber-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
+  },
+  {
+    "krs": "0000160395",
+    "company": "ENIGMA SYSTEMY OCHRONY INFORMACJI SPOKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
+    "path": "companies/0000160395-enigma-systemy-ochrony-informacji-spoka-z-ograniczona-odpowiedzialnoscia/latest",
+    "manifest": "companies/0000160395-enigma-systemy-ochrony-informacji-spoka-z-ograniczona-odpowiedzialnoscia/latest/manifest.json",
+    "gpt_manifest": "companies/0000160395-enigma-systemy-ochrony-informacji-spoka-z-ograniczona-odpowiedzialnoscia/latest/gpt_manifest.json",
+    "financial_statement_xml": "",
+    "financial_statement_ai_json": "",
+    "financial_statement_ai_view_json": "",
+    "financial_statement_pdf": "companies/0000160395-enigma-systemy-ochrony-informacji-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.pdf",
+    "financial_statement_ai_txt": "companies/0000160395-enigma-systemy-ochrony-informacji-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.txt",
+    "management_report_pdf": "",
+    "management_report_ai_txt": ""
   },
   {
     "krs": "0000164887",
@@ -490,6 +562,20 @@
     "financial_statement_ai_view_json": "companies/0000209007-0000209007/latest/sprawozdanie_finansowe_ai_view.json",
     "management_report_pdf": "",
     "management_report_ai_txt": ""
+  },
+  {
+    "krs": "0000221936",
+    "company": "HUAWEI POLSKA SPOKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
+    "path": "companies/0000221936-huawei-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest",
+    "manifest": "companies/0000221936-huawei-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/manifest.json",
+    "gpt_manifest": "companies/0000221936-huawei-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/gpt_manifest.json",
+    "financial_statement_xml": "",
+    "financial_statement_ai_json": "",
+    "financial_statement_ai_view_json": "",
+    "financial_statement_pdf": "companies/0000221936-huawei-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.pdf",
+    "financial_statement_ai_txt": "companies/0000221936-huawei-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.txt",
+    "management_report_pdf": "companies/0000221936-huawei-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000221936-huawei-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
     "krs": "0000226630",
@@ -666,8 +752,8 @@
     "financial_statement_xml": "companies/0000294009-tata-consultancy-services-limited-spoka-akcyjna-oddzia-w-polsce/latest/sprawozdanie_finansowe.xml",
     "financial_statement_ai_json": "companies/0000294009-tata-consultancy-services-limited-spoka-akcyjna-oddzia-w-polsce/latest/sprawozdanie_finansowe_ai.json",
     "financial_statement_ai_view_json": "companies/0000294009-tata-consultancy-services-limited-spoka-akcyjna-oddzia-w-polsce/latest/sprawozdanie_finansowe_ai_view.json",
-    "financial_statement_pdf": "",
-    "financial_statement_ai_txt": "",
+    "financial_statement_pdf": "companies/0000294009-tata-consultancy-services-limited-spoka-akcyjna-oddzia-w-polsce/latest/sprawozdanie_finansowe.pdf",
+    "financial_statement_ai_txt": "companies/0000294009-tata-consultancy-services-limited-spoka-akcyjna-oddzia-w-polsce/latest/sprawozdanie_finansowe_ai.txt",
     "management_report_pdf": "",
     "management_report_ai_txt": ""
   },
@@ -750,16 +836,16 @@
   {
     "krs": "0000345075",
     "company": "KAMSOFT S.A.",
-    "path": "companies/0000345075-0000345075/latest",
-    "manifest": "companies/0000345075-0000345075/latest/manifest.json",
-    "gpt_manifest": "companies/0000345075-0000345075/latest/gpt_manifest.json",
-    "financial_statement_xml": "companies/0000345075-0000345075/latest/sprawozdanie_finansowe.xml",
-    "financial_statement_ai_json": "companies/0000345075-0000345075/latest/sprawozdanie_finansowe_ai.json",
-    "financial_statement_ai_view_json": "companies/0000345075-0000345075/latest/sprawozdanie_finansowe_ai_view.json",
-    "financial_statement_pdf": "",
-    "financial_statement_ai_txt": "",
-    "management_report_pdf": "companies/0000345075-0000345075/latest/sprawozdanie_zarzadu.pdf",
-    "management_report_ai_txt": "companies/0000345075-0000345075/latest/sprawozdanie_zarzadu_ai.txt"
+    "path": "companies/0000345075-kamsoft-spoka-akcyjna/latest",
+    "manifest": "companies/0000345075-kamsoft-spoka-akcyjna/latest/manifest.json",
+    "gpt_manifest": "companies/0000345075-kamsoft-spoka-akcyjna/latest/gpt_manifest.json",
+    "financial_statement_xml": "companies/0000345075-kamsoft-spoka-akcyjna/latest/sprawozdanie_finansowe.xml",
+    "financial_statement_ai_json": "companies/0000345075-kamsoft-spoka-akcyjna/latest/sprawozdanie_finansowe_ai.json",
+    "financial_statement_ai_view_json": "companies/0000345075-kamsoft-spoka-akcyjna/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_statement_pdf": "companies/0000345075-kamsoft-spoka-akcyjna/latest/sprawozdanie_finansowe.pdf",
+    "financial_statement_ai_txt": "companies/0000345075-kamsoft-spoka-akcyjna/latest/sprawozdanie_finansowe_ai.txt",
+    "management_report_pdf": "companies/0000345075-kamsoft-spoka-akcyjna/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000345075-kamsoft-spoka-akcyjna/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
     "krs": "0000347997",
@@ -790,6 +876,20 @@
     "management_report_ai_txt": "companies/0000366661-j-labs-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
+    "krs": "0000369722",
+    "company": "WB Electronics Spółka Akcyjna",
+    "path": "companies/0000369722-wb-electronics-spoka-akcyjna/latest",
+    "manifest": "companies/0000369722-wb-electronics-spoka-akcyjna/latest/manifest.json",
+    "gpt_manifest": "companies/0000369722-wb-electronics-spoka-akcyjna/latest/gpt_manifest.json",
+    "financial_statement_xml": "companies/0000369722-wb-electronics-spoka-akcyjna/latest/sprawozdanie_finansowe.xml",
+    "financial_statement_ai_json": "companies/0000369722-wb-electronics-spoka-akcyjna/latest/sprawozdanie_finansowe_ai.json",
+    "financial_statement_ai_view_json": "companies/0000369722-wb-electronics-spoka-akcyjna/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_statement_pdf": "companies/0000369722-wb-electronics-spoka-akcyjna/latest/sprawozdanie_finansowe.pdf",
+    "financial_statement_ai_txt": "companies/0000369722-wb-electronics-spoka-akcyjna/latest/sprawozdanie_finansowe_ai.txt",
+    "management_report_pdf": "companies/0000369722-wb-electronics-spoka-akcyjna/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000369722-wb-electronics-spoka-akcyjna/latest/sprawozdanie_zarzadu_ai.txt"
+  },
+  {
     "krs": "0000377322",
     "company": "ALL IN GAMES SPOKA AKCYJNA",
     "path": "companies/0000377322-all-in-games-spoka-akcyjna/latest",
@@ -802,6 +902,20 @@
     "financial_statement_ai_txt": "companies/0000377322-all-in-games-spoka-akcyjna/latest/sprawozdanie_finansowe_ai.txt",
     "management_report_pdf": "companies/0000377322-all-in-games-spoka-akcyjna/latest/sprawozdanie_zarzadu.pdf",
     "management_report_ai_txt": "companies/0000377322-all-in-games-spoka-akcyjna/latest/sprawozdanie_zarzadu_ai.txt"
+  },
+  {
+    "krs": "0000390124",
+    "company": "Epam Systems (Poland) Sp. z o.o.",
+    "path": "companies/0000390124-epam-systems-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest",
+    "manifest": "companies/0000390124-epam-systems-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/manifest.json",
+    "gpt_manifest": "companies/0000390124-epam-systems-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/gpt_manifest.json",
+    "financial_statement_xml": "companies/0000390124-epam-systems-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.xml",
+    "financial_statement_ai_json": "companies/0000390124-epam-systems-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.json",
+    "financial_statement_ai_view_json": "companies/0000390124-epam-systems-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_statement_pdf": "companies/0000390124-epam-systems-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.pdf",
+    "financial_statement_ai_txt": "companies/0000390124-epam-systems-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.txt",
+    "management_report_pdf": "companies/0000390124-epam-systems-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000390124-epam-systems-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
     "krs": "0000407094",
@@ -898,8 +1012,8 @@
     "financial_statement_xml": "companies/0000462115-rtb-house-spoka-akcyjna/latest/sprawozdanie_finansowe.xml",
     "financial_statement_ai_json": "companies/0000462115-rtb-house-spoka-akcyjna/latest/sprawozdanie_finansowe_ai.json",
     "financial_statement_ai_view_json": "companies/0000462115-rtb-house-spoka-akcyjna/latest/sprawozdanie_finansowe_ai_view.json",
-    "financial_statement_pdf": "",
-    "financial_statement_ai_txt": "",
+    "financial_statement_pdf": "companies/0000462115-rtb-house-spoka-akcyjna/latest/sprawozdanie_finansowe.pdf",
+    "financial_statement_ai_txt": "companies/0000462115-rtb-house-spoka-akcyjna/latest/sprawozdanie_finansowe_ai.txt",
     "management_report_pdf": "companies/0000462115-rtb-house-spoka-akcyjna/latest/sprawozdanie_zarzadu.pdf",
     "management_report_ai_txt": "companies/0000462115-rtb-house-spoka-akcyjna/latest/sprawozdanie_zarzadu_ai.txt"
   },
@@ -1014,6 +1128,20 @@
     "management_report_ai_txt": ""
   },
   {
+    "krs": "0000716108",
+    "company": "EMITEL SPOKA AKCYJNA",
+    "path": "companies/0000716108-emitel-spoka-akcyjna/latest",
+    "manifest": "companies/0000716108-emitel-spoka-akcyjna/latest/manifest.json",
+    "gpt_manifest": "companies/0000716108-emitel-spoka-akcyjna/latest/gpt_manifest.json",
+    "financial_statement_xml": "",
+    "financial_statement_ai_json": "",
+    "financial_statement_ai_view_json": "",
+    "financial_statement_pdf": "companies/0000716108-emitel-spoka-akcyjna/latest/sprawozdanie_finansowe.pdf",
+    "financial_statement_ai_txt": "companies/0000716108-emitel-spoka-akcyjna/latest/sprawozdanie_finansowe_ai.txt",
+    "management_report_pdf": "companies/0000716108-emitel-spoka-akcyjna/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000716108-emitel-spoka-akcyjna/latest/sprawozdanie_zarzadu_ai.txt"
+  },
+  {
     "krs": "0000739952",
     "company": "EY Doradztwo Podatkowe Krupa spółka komandytowa",
     "path": "companies/0000739952-ey-doradztwo-podatkowe-krupa-spoka-komandytowa/latest",
@@ -1120,6 +1248,20 @@
     "financial_statement_ai_txt": "",
     "management_report_pdf": "",
     "management_report_ai_txt": ""
+  },
+  {
+    "krs": "0000861279",
+    "company": "Microsoft Poland Operations Sp. z o.o.",
+    "path": "companies/0000861279-microsoft-poland-operations-spoka-z-ograniczona-odpowiedzialnoscia/latest",
+    "manifest": "companies/0000861279-microsoft-poland-operations-spoka-z-ograniczona-odpowiedzialnoscia/latest/manifest.json",
+    "gpt_manifest": "companies/0000861279-microsoft-poland-operations-spoka-z-ograniczona-odpowiedzialnoscia/latest/gpt_manifest.json",
+    "financial_statement_xml": "companies/0000861279-microsoft-poland-operations-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.xml",
+    "financial_statement_ai_json": "companies/0000861279-microsoft-poland-operations-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.json",
+    "financial_statement_ai_view_json": "companies/0000861279-microsoft-poland-operations-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_statement_pdf": "companies/0000861279-microsoft-poland-operations-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.pdf",
+    "financial_statement_ai_txt": "companies/0000861279-microsoft-poland-operations-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.txt",
+    "management_report_pdf": "companies/0000861279-microsoft-poland-operations-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000861279-microsoft-poland-operations-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
     "krs": "0000913981",
