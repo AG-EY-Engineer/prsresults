@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-05-21T16:49:28",
+  "source_file": "01_roczne-sprawozdanie-finansowe__SF_NN_455ef67d_from_xades.xml",
+  "metadata": {
+    "period_from": "2021-01-01",
+    "period_to": "2021-12-31",
+    "prepared_on": "2022-03-23",
+    "report_code": "SprFinZakladUbezpieczenWZlotych",
+    "unit_of_measure": "PLN"
+  },
+  "analysis_hint": {
+    "primary_financial_table": "rzis",
+    "preferred_for_basic_numbers": [
+      "rzis",
+      "bilans",
+      "tax_note"
+    ],
+    "note": "Use this file first. For edge cases or disputed figures, fall back to sprawozdanie_finansowe_ai.json and source XML."
+  },
+  "sections": {}
+}
