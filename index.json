@@ -232,6 +232,20 @@
     "management_report_ai_txt": "companies/0000039559-bauer-media-outdoor-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
+    "krs": "0000043539",
+    "company": "NNLife S.A. w likwidacji",
+    "path": "companies/0000043539-nnlife-spoka-akcyjna-w-likwidacji/latest",
+    "manifest": "companies/0000043539-nnlife-spoka-akcyjna-w-likwidacji/latest/manifest.json",
+    "gpt_manifest": "companies/0000043539-nnlife-spoka-akcyjna-w-likwidacji/latest/gpt_manifest.json",
+    "financial_statement_xml": "companies/0000043539-nnlife-spoka-akcyjna-w-likwidacji/latest/sprawozdanie_finansowe.xml",
+    "financial_statement_ai_json": "companies/0000043539-nnlife-spoka-akcyjna-w-likwidacji/latest/sprawozdanie_finansowe_ai.json",
+    "financial_statement_ai_view_json": "companies/0000043539-nnlife-spoka-akcyjna-w-likwidacji/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_statement_pdf": "companies/0000043539-nnlife-spoka-akcyjna-w-likwidacji/latest/sprawozdanie_finansowe.pdf",
+    "financial_statement_ai_txt": "companies/0000043539-nnlife-spoka-akcyjna-w-likwidacji/latest/sprawozdanie_finansowe_ai.txt",
+    "management_report_pdf": "companies/0000043539-nnlife-spoka-akcyjna-w-likwidacji/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000043539-nnlife-spoka-akcyjna-w-likwidacji/latest/sprawozdanie_zarzadu_ai.txt"
+  },
+  {
     "krs": "0000045477",
     "company": "FIRMA OPONIARSKA DEBICA SPOKA AKCYJNA",
     "path": "companies/0000045477-firma-oponiarska-debica-spoka-akcyjna/latest",
@@ -368,6 +382,20 @@
     "financial_statement_ai_txt": "",
     "management_report_pdf": "companies/0000114206-marma-polskie-folie-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu.pdf",
     "management_report_ai_txt": "companies/0000114206-marma-polskie-folie-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
+  },
+  {
+    "krs": "0000116749",
+    "company": "Lubusko-Wielkopolski Bank Spółdzielczy",
+    "path": "companies/0000116749-lubusko---wielkopolski-bank-spodzielczy/latest",
+    "manifest": "companies/0000116749-lubusko---wielkopolski-bank-spodzielczy/latest/manifest.json",
+    "gpt_manifest": "companies/0000116749-lubusko---wielkopolski-bank-spodzielczy/latest/gpt_manifest.json",
+    "financial_statement_xml": "companies/0000116749-lubusko---wielkopolski-bank-spodzielczy/latest/sprawozdanie_finansowe.xml",
+    "financial_statement_ai_json": "companies/0000116749-lubusko---wielkopolski-bank-spodzielczy/latest/sprawozdanie_finansowe_ai.json",
+    "financial_statement_ai_view_json": "companies/0000116749-lubusko---wielkopolski-bank-spodzielczy/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_statement_pdf": "",
+    "financial_statement_ai_txt": "",
+    "management_report_pdf": "companies/0000116749-lubusko---wielkopolski-bank-spodzielczy/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000116749-lubusko---wielkopolski-bank-spodzielczy/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
     "krs": "0000121845",
@@ -1090,6 +1118,20 @@
     "financial_statement_ai_txt": "",
     "management_report_pdf": "",
     "management_report_ai_txt": ""
+  },
+  {
+    "krs": "0000962116",
+    "company": "Drivalia Lease Polska sp. z o.o.",
+    "path": "companies/0000962116-drivalia-lease-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest",
+    "manifest": "companies/0000962116-drivalia-lease-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/manifest.json",
+    "gpt_manifest": "companies/0000962116-drivalia-lease-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/gpt_manifest.json",
+    "financial_statement_xml": "companies/0000962116-drivalia-lease-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.xml",
+    "financial_statement_ai_json": "companies/0000962116-drivalia-lease-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.json",
+    "financial_statement_ai_view_json": "companies/0000962116-drivalia-lease-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_statement_pdf": "companies/0000962116-drivalia-lease-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.pdf",
+    "financial_statement_ai_txt": "companies/0000962116-drivalia-lease-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.txt",
+    "management_report_pdf": "companies/0000962116-drivalia-lease-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000962116-drivalia-lease-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
     "krs": "0000990141",
