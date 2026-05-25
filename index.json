@@ -798,6 +798,23 @@
     "management_report_ai_txt": "companies/0000226630-7n-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
+    "krs": "0000231231",
+    "company": "GSK SERVICES SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "filing_company_name": "GSK Services Spółka z ograniczoną odpowiedzialnością",
+    "path": "companies/0000231231-gsk-services-spoka-z-ograniczona-odpowiedzialnoscia/latest",
+    "manifest": "companies/0000231231-gsk-services-spoka-z-ograniczona-odpowiedzialnoscia/latest/manifest.json",
+    "gpt_manifest": "companies/0000231231-gsk-services-spoka-z-ograniczona-odpowiedzialnoscia/latest/gpt_manifest.json",
+    "financial_statement_xml": "companies/0000231231-gsk-services-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.xml",
+    "financial_statement_ai_json": "companies/0000231231-gsk-services-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.json",
+    "financial_statement_ai_view_json": "companies/0000231231-gsk-services-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_notes_pdf": "",
+    "financial_notes_ai_txt": "",
+    "financial_statement_pdf": "",
+    "financial_statement_ai_txt": "",
+    "management_report_pdf": "companies/0000231231-gsk-services-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000231231-gsk-services-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
+  },
+  {
     "krs": "0000240467",
     "company": "CITIBANK EUROPE PLC PUBLICZNA SPOKA AKCYJNA ODDZIA W POLSCE",
     "path": "companies/0000240467-citibank-europe-plc-publiczna-spoka-akcyjna-oddzia-w-polsce/latest",
