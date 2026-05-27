@@ -1,9 +1,8 @@
 {
-  "company_name": "ROCKWELL AUTOMATION SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-  "filing_company_name": "Rockwell Automation Sp.z.o.o.",
+  "company_name": "Rockwell Automation Sp.z.o.o.",
   "krs": "0000043497",
   "status": "downloaded",
-  "published_at": "2026-05-27",
+  "published_at": "2026-05-21",
   "canonical_path": "companies/0000043497-rockwell/latest",
   "history_retention": 3,
   "files": [
@@ -21,6 +20,16 @@
       "name": "sprawozdanie_finansowe_ai_view.json",
       "kind": "financial_statement_ai_view_json",
       "path": "companies/0000043497-rockwell/latest/sprawozdanie_finansowe_ai_view.json"
+    },
+    {
+      "name": "sprawozdanie_finansowe.pdf",
+      "kind": "financial_statement_pdf",
+      "path": "companies/0000043497-rockwell/latest/sprawozdanie_finansowe.pdf"
+    },
+    {
+      "name": "sprawozdanie_finansowe_ai.txt",
+      "kind": "financial_statement_ai_text",
+      "path": "companies/0000043497-rockwell/latest/sprawozdanie_finansowe_ai.txt"
     },
     {
       "name": "sprawozdanie_zarzadu.pdf",
