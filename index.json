@@ -1646,6 +1646,23 @@
     "management_report_ai_txt": "companies/0000747738-0000747738/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
+    "krs": "0000748072",
+    "company": "ROLLS-ROYCE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "filing_company_name": "ROLLS ROYCE SPOKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
+    "path": "companies/0000748072-rolls-royce-spoka-z-ograniczona-odpowiedzialnoscia/latest",
+    "manifest": "companies/0000748072-rolls-royce-spoka-z-ograniczona-odpowiedzialnoscia/latest/manifest.json",
+    "gpt_manifest": "companies/0000748072-rolls-royce-spoka-z-ograniczona-odpowiedzialnoscia/latest/gpt_manifest.json",
+    "financial_statement_xml": "companies/0000748072-rolls-royce-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.xml",
+    "financial_statement_ai_json": "companies/0000748072-rolls-royce-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.json",
+    "financial_statement_ai_view_json": "companies/0000748072-rolls-royce-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_notes_pdf": "",
+    "financial_notes_ai_txt": "",
+    "financial_statement_pdf": "",
+    "financial_statement_ai_txt": "",
+    "management_report_pdf": "",
+    "management_report_ai_txt": ""
+  },
+  {
     "krs": "0000757904",
     "company": "HSBC CONTINENTAL EUROPE SPOKA AKCYJNA ODDZIA W POLSCE",
     "path": "companies/0000757904-hsbc-continental-europe-spoka-akcyjna-oddzia-w-polsce/latest",
