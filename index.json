@@ -1846,6 +1846,23 @@
     "management_report_ai_txt": "companies/0000962116-drivalia-lease-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
+    "krs": "0000989394",
+    "company": "KOMBUD GROUP SPÓŁKA AKCYJNA",
+    "filing_company_name": "KOMBUD GROUP SPÓŁKA AKCYJNA",
+    "path": "companies/0000989394-kombud-group-spoka-akcyjna/latest",
+    "manifest": "companies/0000989394-kombud-group-spoka-akcyjna/latest/manifest.json",
+    "gpt_manifest": "companies/0000989394-kombud-group-spoka-akcyjna/latest/gpt_manifest.json",
+    "financial_statement_xml": "companies/0000989394-kombud-group-spoka-akcyjna/latest/sprawozdanie_finansowe.xml",
+    "financial_statement_ai_json": "companies/0000989394-kombud-group-spoka-akcyjna/latest/sprawozdanie_finansowe_ai.json",
+    "financial_statement_ai_view_json": "companies/0000989394-kombud-group-spoka-akcyjna/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_notes_pdf": "",
+    "financial_notes_ai_txt": "",
+    "financial_statement_pdf": "",
+    "financial_statement_ai_txt": "",
+    "management_report_pdf": "companies/0000989394-kombud-group-spoka-akcyjna/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000989394-kombud-group-spoka-akcyjna/latest/sprawozdanie_zarzadu_ai.txt"
+  },
+  {
     "krs": "0000990141",
     "company": "TCL ELECTRONICS POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "path": "companies/0000990141-tcl-electronics-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest",
