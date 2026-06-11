@@ -1781,6 +1781,23 @@
     "management_report_ai_txt": "companies/0000592275-genpact-services-poland-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
+    "krs": "0000594425",
+    "company": "PEKABEX PREF SPÓŁKA AKCYJNA",
+    "filing_company_name": "PEKABEX PREF SPOKA AKCYJNA",
+    "path": "companies/0000594425-pekabex-pref-spoka-akcyjna/latest",
+    "manifest": "companies/0000594425-pekabex-pref-spoka-akcyjna/latest/manifest.json",
+    "gpt_manifest": "companies/0000594425-pekabex-pref-spoka-akcyjna/latest/gpt_manifest.json",
+    "financial_statement_xml": "",
+    "financial_statement_ai_json": "",
+    "financial_statement_ai_view_json": "",
+    "financial_notes_pdf": "",
+    "financial_notes_ai_txt": "",
+    "financial_statement_pdf": "companies/0000594425-pekabex-pref-spoka-akcyjna/latest/sprawozdanie_finansowe.pdf",
+    "financial_statement_ai_txt": "companies/0000594425-pekabex-pref-spoka-akcyjna/latest/sprawozdanie_finansowe_ai.txt",
+    "management_report_pdf": "companies/0000594425-pekabex-pref-spoka-akcyjna/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000594425-pekabex-pref-spoka-akcyjna/latest/sprawozdanie_zarzadu_ai.txt"
+  },
+  {
     "krs": "0000606530",
     "company": "Callstack.io Sp. z o.o.",
     "path": "companies/0000606530-callstack.io-spoka-z-ograniczona-odpowiedzialnoscia/latest",
