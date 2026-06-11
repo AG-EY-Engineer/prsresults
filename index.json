@@ -1623,6 +1623,23 @@
     "management_report_ai_txt": "companies/0000420780-ringier-axel-springer-polska-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
+    "krs": "0000424600",
+    "company": "CASHDIRECTOR SPÓŁKA AKCYJNA",
+    "filing_company_name": "CASHDIRECTOR SPÓŁKA AKCYJNA",
+    "path": "companies/0000424600-cashdirector-spoka-akcyjna/latest",
+    "manifest": "companies/0000424600-cashdirector-spoka-akcyjna/latest/manifest.json",
+    "gpt_manifest": "companies/0000424600-cashdirector-spoka-akcyjna/latest/gpt_manifest.json",
+    "financial_statement_xml": "companies/0000424600-cashdirector-spoka-akcyjna/latest/sprawozdanie_finansowe.xml",
+    "financial_statement_ai_json": "companies/0000424600-cashdirector-spoka-akcyjna/latest/sprawozdanie_finansowe_ai.json",
+    "financial_statement_ai_view_json": "companies/0000424600-cashdirector-spoka-akcyjna/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_notes_pdf": "",
+    "financial_notes_ai_txt": "",
+    "financial_statement_pdf": "",
+    "financial_statement_ai_txt": "",
+    "management_report_pdf": "companies/0000424600-cashdirector-spoka-akcyjna/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000424600-cashdirector-spoka-akcyjna/latest/sprawozdanie_zarzadu_ai.txt"
+  },
+  {
     "krs": "0000427567",
     "company": "PLANET PAY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "filing_company_name": "PLANET PAY SPOKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
