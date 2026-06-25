@@ -1008,6 +1008,23 @@
     "management_report_ai_txt": "companies/0000164887-bgw-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
   },
   {
+    "krs": "0000169830",
+    "company": "0000169830",
+    "filing_company_name": "PCO SPÓŁKA AKCYJNA",
+    "path": "companies/0000169830-0000169830/latest",
+    "manifest": "companies/0000169830-0000169830/latest/manifest.json",
+    "gpt_manifest": "companies/0000169830-0000169830/latest/gpt_manifest.json",
+    "financial_statement_xml": "companies/0000169830-0000169830/latest/sprawozdanie_finansowe.xml",
+    "financial_statement_ai_json": "companies/0000169830-0000169830/latest/sprawozdanie_finansowe_ai.json",
+    "financial_statement_ai_view_json": "companies/0000169830-0000169830/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_notes_pdf": "",
+    "financial_notes_ai_txt": "",
+    "financial_statement_pdf": "",
+    "financial_statement_ai_txt": "",
+    "management_report_pdf": "companies/0000169830-0000169830/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0000169830-0000169830/latest/sprawozdanie_zarzadu_ai.txt"
+  },
+  {
     "krs": "0000178650",
     "company": "RAINBOW TOURS SPÓŁKA AKCYJNA",
     "filing_company_name": "RAINBOW TOURS SPOKA AKCYJNA",
