@@ -1,0 +1,26 @@
+{
+  "company_name": "UNICREDIT BANK AUSTRIA AG (SPÓŁKA AKCYJNA) ODDZIAŁ W POLSCE",
+  "filing_company_name": "UNICREDIT BANK AUSTRIA AG",
+  "krs": "0000980271",
+  "status": "downloaded",
+  "published_at": "2026-06-28",
+  "canonical_path": "companies/0000980271-unicredit-bank-austria-ag-spoka-akcyjna-oddzia-w-polsce/latest",
+  "history_retention": 3,
+  "files": [
+    {
+      "name": "sprawozdanie_finansowe.xml",
+      "kind": "financial_statement_xml",
+      "path": "companies/0000980271-unicredit-bank-austria-ag-spoka-akcyjna-oddzia-w-polsce/latest/sprawozdanie_finansowe.xml"
+    },
+    {
+      "name": "sprawozdanie_finansowe_ai.json",
+      "kind": "financial_statement_ai_json",
+      "path": "companies/0000980271-unicredit-bank-austria-ag-spoka-akcyjna-oddzia-w-polsce/latest/sprawozdanie_finansowe_ai.json"
+    },
+    {
+      "name": "sprawozdanie_finansowe_ai_view.json",
+      "kind": "financial_statement_ai_view_json",
+      "path": "companies/0000980271-unicredit-bank-austria-ag-spoka-akcyjna-oddzia-w-polsce/latest/sprawozdanie_finansowe_ai_view.json"
+    }
+  ]
+}
