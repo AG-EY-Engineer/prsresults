@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-06-27T22:42:56",
-  "source_file": "02_roczne-sprawo_81fedfb0_2.xml",
+  "generated_at": "2026-06-28T02:20:51",
+  "source_file": "02_roczne-sprawo_81fedfb0.xml",
   "root_tag": "JednostkaInna",
   "root_namespace": "http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2025/01/01/JednostkaInnaWZlotych",
   "namespaces": {
