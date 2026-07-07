@@ -977,7 +977,7 @@
     "gpt_manifest": "companies/0000136839-aiut-spoka-z-ograniczona-odpowiedzialnoscia/latest/gpt_manifest.json",
     "financial_statement_xml": "companies/0000136839-aiut-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe.xml",
     "financial_statement_ai_json": "companies/0000136839-aiut-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai.json",
-    "financial_statement_ai_view_json": "companies/0000136839-aiut-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_statement_ai_view_json": "",
     "financial_notes_pdf": "",
     "financial_notes_ai_txt": "",
     "financial_statement_pdf": "",
