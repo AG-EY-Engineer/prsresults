@@ -2748,5 +2748,22 @@
     "financial_statement_ai_txt": "",
     "management_report_pdf": "companies/0001142719-grycan-lodziarnie-firmowe-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu.pdf",
     "management_report_ai_txt": "companies/0001142719-grycan-lodziarnie-firmowe-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_zarzadu_ai.txt"
+  },
+  {
+    "krs": "0001182897",
+    "company": "ENIS SPÓŁKA AKCYJNA",
+    "filing_company_name": "ENIS S.A. (dawniej ENIS Sp. z o.o. sp. k.)",
+    "path": "companies/0001182897-enis-spoka-akcyjna/latest",
+    "manifest": "companies/0001182897-enis-spoka-akcyjna/latest/manifest.json",
+    "gpt_manifest": "companies/0001182897-enis-spoka-akcyjna/latest/gpt_manifest.json",
+    "financial_statement_xml": "companies/0001182897-enis-spoka-akcyjna/latest/sprawozdanie_finansowe.xml",
+    "financial_statement_ai_json": "companies/0001182897-enis-spoka-akcyjna/latest/sprawozdanie_finansowe_ai.json",
+    "financial_statement_ai_view_json": "companies/0001182897-enis-spoka-akcyjna/latest/sprawozdanie_finansowe_ai_view.json",
+    "financial_notes_pdf": "",
+    "financial_notes_ai_txt": "",
+    "financial_statement_pdf": "",
+    "financial_statement_ai_txt": "",
+    "management_report_pdf": "companies/0001182897-enis-spoka-akcyjna/latest/sprawozdanie_zarzadu.pdf",
+    "management_report_ai_txt": "companies/0001182897-enis-spoka-akcyjna/latest/sprawozdanie_zarzadu_ai.txt"
   }
 ]
