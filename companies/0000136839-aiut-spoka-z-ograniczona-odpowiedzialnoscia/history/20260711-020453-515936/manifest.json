@@ -3,7 +3,7 @@
   "filing_company_name": "AIUT SPOKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
   "krs": "0000136839",
   "status": "downloaded",
-  "published_at": "2026-07-07",
+  "published_at": "2026-07-08",
   "canonical_path": "companies/0000136839-aiut-spoka-z-ograniczona-odpowiedzialnoscia/latest",
   "history_retention": 3,
   "files": [
@@ -20,7 +20,7 @@
     {
       "name": "sprawozdanie_finansowe_ai_view.json",
       "kind": "financial_statement_ai_view_json",
-      "path": "companies/0000136839-aiut-spoka-z-ograniczona-odpowiedzialnoscia/latest/sprawozdanie_finansowe_ai_view.json"
+      "path": ""
     },
     {
       "name": "sprawozdanie_zarzadu.pdf",
